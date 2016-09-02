@@ -1,0 +1,3128 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-01-12 02:36+0200\n"
+"PO-Revision-Date: 2016-01-12 02:38+0200\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: Poedit 1.7.3\n"
+
+#: activation.php:25 friend_requests.php:37 game.php:36 group.php:49
+#: group.php:60 index.php:137 messages.php:26 messages.php:38
+#: notifications.php:37 page.php:50 page.php:69 photo.php:49 post.php:41
+#: profile.php:73 profile.php:88 profile.php:98 profile.php:109
+#: content/themes/default/templates/_js_translator.tpl:7
+#: includes/functions.php:63 includes/ajax/admin/delete.php:107
+#: includes/ajax/chat/get.conversation.php:52
+#: includes/ajax/chat/get.messages.php:96
+#: includes/ajax/chat/initialize.php:41 includes/ajax/chat/live.php:162
+#: includes/ajax/chat/post.php:70 includes/ajax/chat/reaction.php:69
+#: includes/ajax/core/activation_email_resend.php:30
+#: includes/ajax/core/translator.php:41 includes/ajax/data/live.php:114
+#: includes/ajax/data/load.php:265 includes/ajax/data/report.php:79
+#: includes/ajax/data/reset.php:33 includes/ajax/data/search.php:49
+#: includes/ajax/data/upload.php:234 includes/ajax/data/video.php:67
+#: includes/ajax/posts/comment.php:66 includes/ajax/posts/lightbox.php:48
+#: includes/ajax/posts/post.php:117 includes/ajax/posts/reaction.php:92
+#: includes/ajax/posts/scraber.php:45 includes/ajax/posts/who_likes.php:79
+#: includes/ajax/posts/who_shares.php:51
+#: includes/ajax/users/autocomplete.php:53 includes/ajax/users/connect.php:45
+#: includes/ajax/users/delete.php:30 includes/ajax/users/image.php:115
+#: includes/ajax/users/mention.php:44
+#: includes/ajax/users/mutual_friends.php:49
+#: includes/ajax/users/popover.php:55
+msgid "Error"
+msgstr "Ошибка"
+
+#: admin.php:20 bootstrap.php:152 bootstrap.php:157
+#: includes/ajax/admin/ads.php:18 includes/ajax/admin/category.php:18
+#: includes/ajax/admin/delete.php:18 includes/ajax/admin/games.php:18
+#: includes/ajax/admin/group.php:18 includes/ajax/admin/language.php:18
+#: includes/ajax/admin/page.php:18 includes/ajax/admin/settings.php:18
+#: includes/ajax/admin/static.php:18 includes/ajax/admin/theme.php:18
+#: includes/ajax/admin/user.php:18 includes/ajax/admin/widgets.php:18
+msgid "System Message"
+msgstr "Системное сообщение"
+
+#: admin.php:20 includes/ajax/admin/ads.php:18
+#: includes/ajax/admin/category.php:18 includes/ajax/admin/delete.php:18
+#: includes/ajax/admin/games.php:18 includes/ajax/admin/group.php:18
+#: includes/ajax/admin/language.php:18 includes/ajax/admin/page.php:18
+#: includes/ajax/admin/settings.php:18 includes/ajax/admin/static.php:18
+#: includes/ajax/admin/theme.php:18 includes/ajax/admin/user.php:18
+#: includes/ajax/admin/widgets.php:18
+msgid "You don't have the right permission to access this"
+msgstr "Вы не имеете право доступа к этой"
+
+#: admin.php:27 content/themes/default/templates/index.tpl:145
+#: content/themes/default/templates/_header.tpl:46
+msgid "Admin Panel"
+msgstr "Админка"
+
+#: admin.php:74 admin.php:82 admin.php:99 admin.php:116 admin.php:133
+#: admin.php:150 admin.php:189 admin.php:203 admin.php:238 admin.php:252
+#: admin.php:278 admin.php:283 admin.php:297 admin.php:330 admin.php:344
+#: admin.php:361 admin.php:384 admin.php:410 admin.php:441 admin.php:446
+#: admin.php:460 admin.php:491 admin.php:496 admin.php:510 admin.php:541
+#: admin.php:546 admin.php:560 admin.php:591 admin.php:596 admin.php:610
+#: admin.php:641 admin.php:646 admin.php:660 admin.php:692 admin.php:697
+msgid "Admin"
+msgstr "Администратор"
+
+#: admin.php:74 settings.php:24 settings.php:31 settings.php:36
+#: settings.php:41 settings.php:51 settings.php:56
+#: content/themes/default/templates/admin.settings.tpl:4
+#: content/themes/default/templates/admin.tpl:25
+#: content/themes/default/templates/_header.tpl:129
+msgid "Settings"
+msgstr "Настройки"
+
+#: admin.php:82 admin.php:99 admin.php:116 admin.php:133 admin.php:150
+#: admin.php:189 admin.php:344
+#: content/themes/default/templates/admin.dashboard.tpl:7
+#: content/themes/default/templates/admin.tpl:75
+#: content/themes/default/templates/admin.users.tpl:11
+#: content/themes/default/templates/admin.users.tpl:213
+#: content/themes/default/templates/index.tpl:277
+msgid "Users"
+msgstr "Пользователи"
+
+#: admin.php:99 content/themes/default/templates/admin.users.tpl:207
+msgid "Admins"
+msgstr "Администратора"
+
+#: admin.php:116 content/themes/default/templates/admin.users.tpl:210
+msgid "Moderators"
+msgstr "Модераторы"
+
+#: admin.php:133 content/themes/default/templates/admin.dashboard.tpl:59
+#: content/themes/default/templates/admin.users.tpl:490
+#: content/themes/default/templates/settings.tpl:345
+msgid "Online"
+msgstr "Онлайн"
+
+#: admin.php:150 content/themes/default/templates/admin.dashboard.tpl:39
+#: content/themes/default/templates/admin.users.tpl:166
+msgid "Banned"
+msgstr "Запрещено"
+
+#: admin.php:203 admin.php:238 admin.php:361 index.php:93
+#: content/themes/default/templates/admin.dashboard.tpl:93
+#: content/themes/default/templates/admin.pages.tpl:11
+#: content/themes/default/templates/admin.tpl:111
+#: content/themes/default/templates/index.tpl:282
+msgid "Pages"
+msgstr "Страницы"
+
+#: admin.php:252 admin.php:278 admin.php:283
+#: content/themes/default/templates/admin.categories.tpl:11
+msgid "Categories"
+msgstr "Категории"
+
+#: admin.php:283 admin.php:446 admin.php:496 admin.php:546 admin.php:596
+#: admin.php:646 admin.php:697 content/themes/default/templates/admin.tpl:44
+#: content/themes/default/templates/admin.tpl:65
+#: content/themes/default/templates/admin.tpl:130
+#: content/themes/default/templates/admin.tpl:188
+#: content/themes/default/templates/admin.tpl:209
+#: content/themes/default/templates/admin.tpl:230
+#: content/themes/default/templates/admin.tpl:251
+msgid "Add New"
+msgstr "Добавить"
+
+#: admin.php:297 admin.php:330 index.php:98
+#: content/themes/default/templates/admin.dashboard.tpl:103
+#: content/themes/default/templates/admin.groups.tpl:11
+#: content/themes/default/templates/admin.tpl:140
+#: content/themes/default/templates/index.tpl:287
+#: content/themes/default/templates/profile.tpl:141
+#: content/themes/default/templates/profile.tpl:412
+#: content/themes/default/templates/profile.tpl:694
+msgid "Groups"
+msgstr "Группы"
+
+#: admin.php:344 admin.php:361
+#: content/themes/default/templates/admin.pages.tpl:25
+#: content/themes/default/templates/admin.verified.tpl:4
+#: content/themes/default/templates/admin.verified.tpl:72
+msgid "Verified"
+msgstr "Подтвержден"
+
+#: admin.php:384 content/themes/default/templates/admin.reports.tpl:4
+#: content/themes/default/templates/admin.tpl:169
+msgid "Reports"
+msgstr "Отчеты"
+
+#: admin.php:410 admin.php:441 admin.php:446
+#: content/themes/default/templates/admin.static.tpl:11
+#: content/themes/default/templates/admin.tpl:177
+msgid "Static Pages"
+msgstr "Статические страницы"
+
+#: admin.php:460 admin.php:491 admin.php:496
+#: content/themes/default/templates/admin.ads.tpl:11
+#: content/themes/default/templates/admin.tpl:198
+msgid "Ads"
+msgstr "Реклама"
+
+#: admin.php:510 admin.php:541 admin.php:546
+#: content/themes/default/templates/admin.languages.tpl:11
+#: content/themes/default/templates/admin.tpl:33
+msgid "Languages"
+msgstr "Языки"
+
+#: admin.php:560 admin.php:591 admin.php:596
+#: content/themes/default/templates/admin.themes.tpl:11
+#: content/themes/default/templates/admin.tpl:54
+msgid "Themes"
+msgstr "Темы"
+
+#: admin.php:610 admin.php:641 admin.php:646
+#: content/themes/default/templates/admin.tpl:219
+#: content/themes/default/templates/admin.widgets.tpl:11
+msgid "Widgets"
+msgstr "Виджеты"
+
+#: admin.php:660 admin.php:692 admin.php:697 index.php:123
+#: content/themes/default/templates/admin.games.tpl:11
+#: content/themes/default/templates/index.tpl:164
+#: content/themes/default/templates/index.tpl:520
+msgid "Games"
+msgstr "Игры"
+
+#: bootstrap.php:157
+msgid "Your account has been blocked"
+msgstr "Ваш аккаунт был заблокирован"
+
+#: friend_requests.php:22 content/themes/default/templates/profile.tpl:451
+#: content/themes/default/templates/profile.tpl:522
+#: content/themes/default/templates/profile.tpl:587
+#: content/themes/default/templates/_header.friend_requests.tpl:10
+msgid "Friend Requests"
+msgstr "Запросы о дружбе"
+
+#: index.php:16 content/themes/default/templates/index.tpl:11
+#: includes/class-user.php:3355 includes/class-user.php:3582
+#: includes/class-user.php:3983 includes/class-user.php:4040
+msgid "Welcome to"
+msgstr "Приветствуем в"
+
+#: index.php:78 content/themes/default/templates/index.tpl:239
+#: content/themes/default/templates/index.tpl:249
+msgid "Search"
+msgstr "Поиск"
+
+#: index.php:103 content/themes/default/templates/index.tpl:186
+#: content/themes/default/templates/index.tpl:363
+#: content/themes/default/templates/index.tpl:443
+#: content/themes/default/templates/_header.tpl:133
+msgid "Create Page"
+msgstr "Создать страницу"
+
+#: index.php:113 content/themes/default/templates/index.tpl:210
+#: content/themes/default/templates/index.tpl:403
+#: content/themes/default/templates/index.tpl:486
+#: content/themes/default/templates/_header.tpl:140
+msgid "Create Group"
+msgstr "Создать группу"
+
+#: messages.php:16 content/themes/default/templates/admin.dashboard.tpl:115
+#: content/themes/default/templates/index.tpl:160
+#: content/themes/default/templates/_header.messages.tpl:10
+msgid "Messages"
+msgstr "Сообщения"
+
+#: notifications.php:16
+#: content/themes/default/templates/admin.dashboard.tpl:124
+#: content/themes/default/templates/_header.notifications.tpl:10
+msgid "Notifications"
+msgstr "Оповещения"
+
+#: page.php:23
+msgid "N/A"
+msgstr "Не определен"
+
+#: reset.php:18
+msgid "Forgot your password?"
+msgstr "Забыли Ваш пароль?"
+
+#: settings.php:24 content/themes/default/templates/index.tpl:138
+#: content/themes/default/templates/settings.tpl:16
+#: content/themes/default/templates/settings.tpl:148
+msgid "Edit Profile"
+msgstr "Настройки"
+
+#: settings.php:31 content/themes/default/templates/settings.tpl:19
+#: content/themes/default/templates/settings.tpl:330
+msgid "Privacy Settings"
+msgstr "Настройки приватности"
+
+#: settings.php:36 content/themes/default/templates/settings.tpl:24
+#: content/themes/default/templates/settings.tpl:483
+msgid "Linked Accounts"
+msgstr "Список связанных учётных записей"
+
+#: settings.php:41 content/themes/default/templates/settings.tpl:29
+msgid "Blocking"
+msgstr "Блокирование"
+
+#: settings.php:51 content/themes/default/templates/settings.tpl:32
+#: content/themes/default/templates/settings.tpl:616
+msgid "Delete Account"
+msgstr "Удалить аккаунт"
+
+#: settings.php:56 content/themes/default/templates/settings.tpl:13
+#: content/themes/default/templates/settings.tpl:47
+msgid "Account Settings"
+msgstr "Настройки аккаунта"
+
+#: signin.php:18 content/themes/default/templates/index.tpl:33
+#: content/themes/default/templates/signin.tpl:8
+#: content/themes/default/templates/signin.tpl:55
+#: content/themes/default/templates/_js_templates.tpl:21
+msgid "Login"
+msgstr "Войти"
+
+#: signup.php:18 content/themes/default/templates/index.tpl:104
+#: content/themes/default/templates/signup.tpl:73
+#: content/themes/default/templates/signup_social.tpl:44
+msgid "Sign Up"
+msgstr "Регистрация"
+
+#: content/themes/default/templates/admin.ads.tpl:6
+msgid "Add New Ads"
+msgstr "Добавить новое объявление"
+
+#: content/themes/default/templates/admin.ads.tpl:21
+#: content/themes/default/templates/admin.categories.tpl:21
+#: content/themes/default/templates/admin.games.tpl:21
+#: content/themes/default/templates/admin.groups.tpl:20
+#: content/themes/default/templates/admin.languages.tpl:21
+#: content/themes/default/templates/admin.pages.tpl:20
+#: content/themes/default/templates/admin.reports.tpl:11
+#: content/themes/default/templates/admin.static.tpl:21
+#: content/themes/default/templates/admin.themes.tpl:21
+#: content/themes/default/templates/admin.users.tpl:21
+#: content/themes/default/templates/admin.verified.tpl:12
+#: content/themes/default/templates/admin.verified.tpl:67
+#: content/themes/default/templates/admin.widgets.tpl:21
+msgid "ID"
+msgstr "ID"
+
+#: content/themes/default/templates/admin.ads.tpl:22
+#: content/themes/default/templates/admin.ads.tpl:60
+#: content/themes/default/templates/admin.ads.tpl:114
+#: content/themes/default/templates/admin.categories.tpl:22
+#: content/themes/default/templates/admin.groups.tpl:23
+#: content/themes/default/templates/admin.groups.tpl:98
+#: content/themes/default/templates/admin.languages.tpl:22
+#: content/themes/default/templates/admin.pages.tpl:23
+#: content/themes/default/templates/admin.pages.tpl:135
+#: content/themes/default/templates/admin.static.tpl:64
+#: content/themes/default/templates/admin.static.tpl:107
+#: content/themes/default/templates/admin.verified.tpl:70
+#: content/themes/default/templates/admin.widgets.tpl:22
+#: content/themes/default/templates/admin.widgets.tpl:58
+#: content/themes/default/templates/admin.widgets.tpl:112
+#: content/themes/default/templates/group.tpl:246
+#: content/themes/default/templates/index.tpl:457
+#: content/themes/default/templates/index.tpl:492
+#: content/themes/default/templates/page.tpl:210
+msgid "Title"
+msgstr "Заголовок"
+
+#: content/themes/default/templates/admin.ads.tpl:23
+#: content/themes/default/templates/admin.ads.tpl:68
+#: content/themes/default/templates/admin.ads.tpl:122
+#: content/themes/default/templates/admin.widgets.tpl:23
+#: content/themes/default/templates/admin.widgets.tpl:66
+#: content/themes/default/templates/admin.widgets.tpl:120
+msgid "Place"
+msgstr "Предложение"
+
+#: content/themes/default/templates/admin.ads.tpl:24
+msgid "Date"
+msgstr "Дата"
+
+#: content/themes/default/templates/admin.ads.tpl:25
+#: content/themes/default/templates/admin.categories.tpl:23
+#: content/themes/default/templates/admin.games.tpl:24
+#: content/themes/default/templates/admin.groups.tpl:25
+#: content/themes/default/templates/admin.languages.tpl:28
+#: content/themes/default/templates/admin.pages.tpl:26
+#: content/themes/default/templates/admin.reports.tpl:16
+#: content/themes/default/templates/admin.static.tpl:24
+#: content/themes/default/templates/admin.themes.tpl:25
+#: content/themes/default/templates/admin.users.tpl:28
+#: content/themes/default/templates/admin.verified.tpl:19
+#: content/themes/default/templates/admin.verified.tpl:73
+#: content/themes/default/templates/admin.widgets.tpl:24
+msgid "Actions"
+msgstr "Действия"
+
+#: content/themes/default/templates/admin.ads.tpl:34
+#: content/themes/default/templates/admin.ads.tpl:72
+#: content/themes/default/templates/admin.ads.tpl:126
+#: content/themes/default/templates/admin.widgets.tpl:33
+#: content/themes/default/templates/admin.widgets.tpl:70
+#: content/themes/default/templates/admin.widgets.tpl:124
+msgid "Home Page"
+msgstr "Главная страница"
+
+#: content/themes/default/templates/admin.ads.tpl:35
+#: content/themes/default/templates/admin.ads.tpl:73
+#: content/themes/default/templates/admin.ads.tpl:127
+#: content/themes/default/templates/admin.widgets.tpl:34
+#: content/themes/default/templates/admin.widgets.tpl:71
+#: content/themes/default/templates/admin.widgets.tpl:125
+msgid "Friends Requests Page"
+msgstr "Страница запросы друзей"
+
+#: content/themes/default/templates/admin.ads.tpl:36
+#: content/themes/default/templates/admin.ads.tpl:74
+#: content/themes/default/templates/admin.ads.tpl:128
+#: content/themes/default/templates/admin.widgets.tpl:35
+#: content/themes/default/templates/admin.widgets.tpl:72
+#: content/themes/default/templates/admin.widgets.tpl:126
+msgid "Notifications Page"
+msgstr "Страница «уведомления»"
+
+#: content/themes/default/templates/admin.ads.tpl:37
+#: content/themes/default/templates/admin.ads.tpl:75
+#: content/themes/default/templates/admin.ads.tpl:129
+#: content/themes/default/templates/admin.widgets.tpl:36
+#: content/themes/default/templates/admin.widgets.tpl:73
+#: content/themes/default/templates/admin.widgets.tpl:127
+msgid "Post Page"
+msgstr "Запись | страница"
+
+#: content/themes/default/templates/admin.ads.tpl:38
+#: content/themes/default/templates/admin.ads.tpl:76
+#: content/themes/default/templates/admin.ads.tpl:130
+#: content/themes/default/templates/admin.widgets.tpl:37
+#: content/themes/default/templates/admin.widgets.tpl:74
+#: content/themes/default/templates/admin.widgets.tpl:128
+msgid "Photo Page"
+msgstr "Страница фотографии"
+
+#: content/themes/default/templates/admin.ads.tpl:83
+#: content/themes/default/templates/admin.ads.tpl:136
+#: content/themes/default/templates/admin.static.tpl:72
+#: content/themes/default/templates/admin.static.tpl:115
+#: content/themes/default/templates/admin.widgets.tpl:81
+#: content/themes/default/templates/admin.widgets.tpl:134
+msgid "HTML"
+msgstr "HTML"
+
+#: content/themes/default/templates/admin.ads.tpl:92
+#: content/themes/default/templates/admin.ads.tpl:145
+#: content/themes/default/templates/admin.categories.tpl:60
+#: content/themes/default/templates/admin.categories.tpl:88
+#: content/themes/default/templates/admin.games.tpl:113
+#: content/themes/default/templates/admin.games.tpl:174
+#: content/themes/default/templates/admin.groups.tpl:125
+#: content/themes/default/templates/admin.languages.tpl:148
+#: content/themes/default/templates/admin.languages.tpl:246
+#: content/themes/default/templates/admin.pages.tpl:162
+#: content/themes/default/templates/admin.settings.tpl:206
+#: content/themes/default/templates/admin.settings.tpl:378
+#: content/themes/default/templates/admin.settings.tpl:466
+#: content/themes/default/templates/admin.settings.tpl:519
+#: content/themes/default/templates/admin.settings.tpl:627
+#: content/themes/default/templates/admin.settings.tpl:659
+#: content/themes/default/templates/admin.static.tpl:81
+#: content/themes/default/templates/admin.static.tpl:124
+#: content/themes/default/templates/admin.themes.tpl:85
+#: content/themes/default/templates/admin.themes.tpl:126
+#: content/themes/default/templates/admin.users.tpl:230
+#: content/themes/default/templates/admin.users.tpl:375
+#: content/themes/default/templates/admin.users.tpl:404
+#: content/themes/default/templates/admin.users.tpl:433
+#: content/themes/default/templates/admin.users.tpl:462
+#: content/themes/default/templates/admin.users.tpl:620
+#: content/themes/default/templates/admin.widgets.tpl:90
+#: content/themes/default/templates/admin.widgets.tpl:143
+#: content/themes/default/templates/settings.tpl:80
+#: content/themes/default/templates/settings.tpl:101
+#: content/themes/default/templates/settings.tpl:130
+#: content/themes/default/templates/settings.tpl:232
+#: content/themes/default/templates/settings.tpl:257
+#: content/themes/default/templates/settings.tpl:283
+#: content/themes/default/templates/settings.tpl:313
+#: content/themes/default/templates/settings.tpl:466
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: content/themes/default/templates/admin.ads.tpl:109
+msgid ""
+"When you add mutiple ads at the samle location, they will be displayed "
+"randomly"
+msgstr ""
+"Когда вы добавляете mutiple объявления на месте пример, они будут "
+"отображены случайно"
+
+#: content/themes/default/templates/admin.categories.tpl:6
+msgid "Add New category"
+msgstr "Добить новую категорию"
+
+#: content/themes/default/templates/admin.categories.tpl:51
+#: content/themes/default/templates/admin.categories.tpl:79
+#: content/themes/default/templates/admin.games.tpl:23
+#: content/themes/default/templates/admin.games.tpl:59
+#: content/themes/default/templates/admin.games.tpl:131
+#: content/themes/default/templates/admin.themes.tpl:23
+#: content/themes/default/templates/admin.themes.tpl:76
+#: content/themes/default/templates/admin.themes.tpl:117
+#: content/themes/default/templates/admin.users.tpl:24
+#: content/themes/default/templates/admin.verified.tpl:15
+msgid "Name"
+msgstr "Название"
+
+#: content/themes/default/templates/admin.dashboard.tpl:8
+#: content/themes/default/templates/admin.dashboard.tpl:50
+msgid "Manage Users"
+msgstr "Управление пользователями"
+
+#: content/themes/default/templates/admin.dashboard.tpl:18
+msgid "Males"
+msgstr "Мужчина"
+
+#: content/themes/default/templates/admin.dashboard.tpl:28
+msgid "Females"
+msgstr "женские особи"
+
+#: content/themes/default/templates/admin.dashboard.tpl:40
+msgid "Manage Banned"
+msgstr "Управление запретили"
+
+#: content/themes/default/templates/admin.dashboard.tpl:49
+#: includes/ajax/chat/get.conversation.php:22
+#: includes/ajax/chat/get.messages.php:22 includes/ajax/chat/post.php:22
+#: includes/ajax/chat/reaction.php:22 includes/ajax/data/create.php:22
+#: includes/ajax/data/delete.php:22 includes/ajax/data/load.php:22
+#: includes/ajax/data/report.php:22 includes/ajax/data/search.php:22
+#: includes/ajax/data/upload.php:25 includes/ajax/data/video.php:25
+#: includes/ajax/posts/comment.php:22 includes/ajax/posts/post.php:22
+#: includes/ajax/posts/reaction.php:22 includes/ajax/posts/scraber.php:22
+#: includes/ajax/posts/who_likes.php:22 includes/ajax/posts/who_shares.php:22
+#: includes/ajax/users/connect.php:22 includes/ajax/users/image.php:22
+#: includes/ajax/users/mutual_friends.php:22
+#: includes/ajax/users/popover.php:22 includes/ajax/users/settings.php:22
+msgid "Not Activated"
+msgstr "Не активирована"
+
+#: content/themes/default/templates/admin.dashboard.tpl:60
+msgid "Manage Online"
+msgstr "Управление онлайн"
+
+#: content/themes/default/templates/admin.dashboard.tpl:71
+#: content/themes/default/templates/index.tpl:272
+msgid "Posts"
+msgstr "записей"
+
+#: content/themes/default/templates/admin.dashboard.tpl:72
+#: content/themes/default/templates/admin.dashboard.tpl:82
+msgid "Manage Reports"
+msgstr "Управление отчетами"
+
+#: content/themes/default/templates/admin.dashboard.tpl:81
+msgid "Comments"
+msgstr "Комментарии"
+
+#: content/themes/default/templates/admin.dashboard.tpl:94
+#: content/themes/default/templates/index.tpl:189
+#: content/themes/default/templates/_header.tpl:136
+msgid "Manage Pages"
+msgstr "Страницы"
+
+#: content/themes/default/templates/admin.dashboard.tpl:104
+#: content/themes/default/templates/index.tpl:213
+#: content/themes/default/templates/_header.tpl:143
+msgid "Manage Groups"
+msgstr "Группы"
+
+#: content/themes/default/templates/admin.games.tpl:6
+msgid "Add New game"
+msgstr "Добавить новую игру"
+
+#: content/themes/default/templates/admin.games.tpl:22
+#: content/themes/default/templates/admin.games.tpl:86
+#: content/themes/default/templates/admin.games.tpl:158
+#: content/themes/default/templates/admin.themes.tpl:22
+msgid "Thumbnail"
+msgstr "Миниатюра"
+
+#: content/themes/default/templates/admin.games.tpl:67
+#: content/themes/default/templates/admin.games.tpl:139
+#: content/themes/default/templates/group.tpl:254
+#: content/themes/default/templates/index.tpl:465
+#: content/themes/default/templates/index.tpl:500
+#: content/themes/default/templates/page.tpl:218
+msgid "Description"
+msgstr "Описание"
+
+#: content/themes/default/templates/admin.games.tpl:75
+#: content/themes/default/templates/admin.games.tpl:147
+msgid "Game Source"
+msgstr "Игры источник"
+
+#: content/themes/default/templates/admin.games.tpl:80
+#: content/themes/default/templates/admin.games.tpl:152
+msgid "The source link of your embedded game"
+msgstr "Ссылка на источник вашей встроенные игры"
+
+#: content/themes/default/templates/admin.groups.tpl:6
+msgid "Go to this group"
+msgstr "Перейти к этой группе"
+
+#: content/themes/default/templates/admin.groups.tpl:21
+#: content/themes/default/templates/admin.pages.tpl:21
+#: content/themes/default/templates/admin.users.tpl:22
+#: content/themes/default/templates/admin.verified.tpl:13
+#: content/themes/default/templates/admin.verified.tpl:68
+msgid "Picture"
+msgstr "Картинка"
+
+#: content/themes/default/templates/admin.groups.tpl:22
+#: content/themes/default/templates/admin.pages.tpl:22
+#: content/themes/default/templates/admin.static.tpl:56
+#: content/themes/default/templates/admin.static.tpl:99
+#: content/themes/default/templates/admin.verified.tpl:69
+msgid "URL"
+msgstr "URL Адрес"
+
+#: content/themes/default/templates/admin.groups.tpl:24
+#: content/themes/default/templates/admin.groups.tpl:76
+#: content/themes/default/templates/group.tpl:89
+#: content/themes/default/templates/group.tpl:172
+#: content/themes/default/templates/group.tpl:180
+#: content/themes/default/templates/__feeds_group.tpl:24
+msgid "Members"
+msgstr "Члены клуба"
+
+#: content/themes/default/templates/admin.groups.tpl:72
+msgid "Group ID"
+msgstr "ID группы"
+
+#: content/themes/default/templates/admin.groups.tpl:85
+msgid "Group Info"
+msgstr "Описание группы"
+
+#: content/themes/default/templates/admin.groups.tpl:107
+#: content/themes/default/templates/admin.groups.tpl:116
+#: content/themes/default/templates/admin.pages.tpl:144
+#: content/themes/default/templates/admin.pages.tpl:153
+#: content/themes/default/templates/admin.users.tpl:23
+#: content/themes/default/templates/admin.users.tpl:126
+#: content/themes/default/templates/admin.users.tpl:395
+#: content/themes/default/templates/admin.verified.tpl:14
+#: content/themes/default/templates/group.tpl:250
+#: content/themes/default/templates/index.tpl:461
+#: content/themes/default/templates/index.tpl:496
+#: content/themes/default/templates/page.tpl:214
+#: content/themes/default/templates/settings.tpl:55
+#: content/themes/default/templates/settings.tpl:76
+#: content/themes/default/templates/signin.tpl:43
+#: content/themes/default/templates/signup.tpl:43
+#: content/themes/default/templates/signup_social.tpl:20
+msgid "Username"
+msgstr "Имя пользователя"
+
+#: content/themes/default/templates/admin.languages.tpl:6
+msgid "Add New Language"
+msgstr "Добавить новый Язык"
+
+#: content/themes/default/templates/admin.languages.tpl:23
+#: content/themes/default/templates/admin.languages.tpl:100
+#: content/themes/default/templates/admin.languages.tpl:198
+msgid "Code"
+msgstr "Код"
+
+#: content/themes/default/templates/admin.languages.tpl:24
+msgid "Flag"
+msgstr "Флаг"
+
+#: content/themes/default/templates/admin.languages.tpl:25
+msgid "Dir"
+msgstr "Направление"
+
+#: content/themes/default/templates/admin.languages.tpl:26
+#: content/themes/default/templates/admin.languages.tpl:72
+#: content/themes/default/templates/admin.languages.tpl:170
+#: content/themes/default/templates/admin.themes.tpl:24
+#: content/themes/default/templates/admin.themes.tpl:62
+#: content/themes/default/templates/admin.themes.tpl:103
+msgid "Default"
+msgstr "По умолчанию"
+
+#: content/themes/default/templates/admin.languages.tpl:27
+#: content/themes/default/templates/admin.languages.tpl:86
+#: content/themes/default/templates/admin.languages.tpl:184
+msgid "Enabled"
+msgstr "﻿Включено"
+
+#: content/themes/default/templates/admin.languages.tpl:41
+#: content/themes/default/templates/admin.languages.tpl:48
+#: content/themes/default/templates/admin.pages.tpl:54
+#: content/themes/default/templates/admin.themes.tpl:38
+#: content/themes/default/templates/admin.users.tpl:53
+#: content/themes/default/templates/admin.verified.tpl:44
+#: content/themes/default/templates/admin.verified.tpl:101
+msgid "Yes"
+msgstr "Да"
+
+#: content/themes/default/templates/admin.languages.tpl:43
+#: content/themes/default/templates/admin.languages.tpl:50
+#: content/themes/default/templates/admin.pages.tpl:56
+#: content/themes/default/templates/admin.themes.tpl:40
+#: content/themes/default/templates/admin.users.tpl:55
+#: content/themes/default/templates/admin.verified.tpl:46
+#: content/themes/default/templates/admin.verified.tpl:103
+msgid "No"
+msgstr "Нет"
+
+#: content/themes/default/templates/admin.languages.tpl:80
+#: content/themes/default/templates/admin.languages.tpl:178
+msgid "Make it the default language of the site"
+msgstr "Сделать его по умолчанию язык сайта"
+
+#: content/themes/default/templates/admin.languages.tpl:94
+#: content/themes/default/templates/admin.languages.tpl:192
+msgid "Make it enbaled so the user can translate the site to it"
+msgstr ""
+"Сделать его наибольший, так что пользователь может перевести сайт на него"
+
+#: content/themes/default/templates/admin.languages.tpl:105
+#: content/themes/default/templates/admin.languages.tpl:203
+msgid "Language country_code"
+msgstr "Карточке языка"
+
+#: content/themes/default/templates/admin.languages.tpl:105
+#: content/themes/default/templates/admin.languages.tpl:127
+#: content/themes/default/templates/admin.languages.tpl:203
+#: content/themes/default/templates/admin.languages.tpl:225
+msgid "For Example:"
+msgstr "Например:"
+
+#: content/themes/default/templates/admin.languages.tpl:105
+#: content/themes/default/templates/admin.languages.tpl:127
+#: content/themes/default/templates/admin.languages.tpl:203
+#: content/themes/default/templates/admin.languages.tpl:225
+msgid "Click Here"
+msgstr "нажмите сюда"
+
+#: content/themes/default/templates/admin.languages.tpl:111
+#: content/themes/default/templates/admin.languages.tpl:209
+msgid "Native Name"
+msgstr "Полное имя:"
+
+#: content/themes/default/templates/admin.languages.tpl:116
+#: content/themes/default/templates/admin.languages.tpl:214
+msgid "The native name of this language"
+msgstr "Собственное имя этого языка"
+
+#: content/themes/default/templates/admin.languages.tpl:122
+#: content/themes/default/templates/admin.languages.tpl:220
+msgid "Flag Code"
+msgstr "Флаг код"
+
+#: content/themes/default/templates/admin.languages.tpl:127
+#: content/themes/default/templates/admin.languages.tpl:225
+msgid "The country flag code"
+msgstr "Код страны флага"
+
+#: content/themes/default/templates/admin.languages.tpl:133
+#: content/themes/default/templates/admin.languages.tpl:231
+msgid "Direction"
+msgstr "Правила"
+
+#: content/themes/default/templates/admin.languages.tpl:141
+#: content/themes/default/templates/admin.languages.tpl:239
+msgid "The direction of this language 'Left To Right' or 'Right To Left'"
+msgstr "Направление этого языка «Слева направо» или «Справа налево»"
+
+#: content/themes/default/templates/admin.languages.tpl:165
+msgid "Before add a new language you need to know 'gettext'"
+msgstr "Прежде чем добавьте новый язык, нужно знать «gettext»"
+
+#: content/themes/default/templates/admin.pages.tpl:6
+msgid "Go to this page"
+msgstr "Перейдите на эту страницу"
+
+#: content/themes/default/templates/admin.pages.tpl:24
+#: content/themes/default/templates/admin.pages.tpl:88
+#: content/themes/default/templates/admin.verified.tpl:71
+#: content/themes/default/templates/ajax.popover.tpl:111
+#: content/themes/default/templates/profile.tpl:138
+#: content/themes/default/templates/profile.tpl:389
+#: content/themes/default/templates/profile.tpl:650
+#: content/themes/default/templates/__feeds_page.tpl:24
+msgid "Likes"
+msgstr "Лайки"
+
+#: content/themes/default/templates/admin.pages.tpl:84
+msgid "Page ID"
+msgstr "ID страницы"
+
+#: content/themes/default/templates/admin.pages.tpl:97
+msgid "Page Info"
+msgstr "Информация о странице"
+
+#: content/themes/default/templates/admin.pages.tpl:110
+msgid "Verified Page"
+msgstr "Проверенные страницы"
+
+#: content/themes/default/templates/admin.pages.tpl:122
+#: content/themes/default/templates/index.tpl:449
+#: content/themes/default/templates/page.tpl:202
+msgid "Category"
+msgstr "Категория"
+
+#: content/themes/default/templates/admin.reports.tpl:12
+msgid "Reporter Picture"
+msgstr "Репортер фотография"
+
+#: content/themes/default/templates/admin.reports.tpl:13
+msgid "Reporter Name"
+msgstr "Имя репортер"
+
+#: content/themes/default/templates/admin.reports.tpl:14
+msgid "Node"
+msgstr "Узел"
+
+#: content/themes/default/templates/admin.reports.tpl:15
+msgid "Time"
+msgstr "Время"
+
+#: content/themes/default/templates/admin.settings.tpl:6
+msgid "System Version"
+msgstr "Версия системы"
+
+#: content/themes/default/templates/admin.settings.tpl:15
+msgid "System"
+msgstr "Система"
+
+#: content/themes/default/templates/admin.settings.tpl:20
+msgid "Registration"
+msgstr "Регистрация"
+
+#: content/themes/default/templates/admin.settings.tpl:25
+msgid "Emails"
+msgstr "Электронная почта"
+
+#: content/themes/default/templates/admin.settings.tpl:30
+msgid "Security"
+msgstr "Безопасность"
+
+#: content/themes/default/templates/admin.settings.tpl:35
+msgid "Limits"
+msgstr "Предельные значения"
+
+#: content/themes/default/templates/admin.settings.tpl:40
+msgid "Analytics"
+msgstr "Аналитика"
+
+#: content/themes/default/templates/admin.settings.tpl:53
+msgid "Website Live"
+msgstr "Живая веб-сайт"
+
+#: content/themes/default/templates/admin.settings.tpl:61
+msgid "Turn the entire website On and Off"
+msgstr "Превратить весь сайт и выключение"
+
+#: content/themes/default/templates/admin.settings.tpl:68
+msgid "Shutdown Message"
+msgstr "Сообщение о завершении работы"
+
+#: content/themes/default/templates/admin.settings.tpl:73
+msgid "The text that is presented when the site is closed"
+msgstr "Текст, который представлен, когда сайт закрыт"
+
+#: content/themes/default/templates/admin.settings.tpl:82
+msgid "Website Logo"
+msgstr "Логотип сайта"
+
+#: content/themes/default/templates/admin.settings.tpl:105
+msgid "The perfect size for your logo should be (wdith: 60px & height: 46px)"
+msgstr ""
+"Идеальный размер для вашего логотипа должен быть (wdith: 60px & высота: "
+"46px)"
+
+#: content/themes/default/templates/admin.settings.tpl:112
+msgid "Website Title"
+msgstr "Заголовок сайта"
+
+#: content/themes/default/templates/admin.settings.tpl:117
+msgid "Title of your website"
+msgstr "Название вашего сайта"
+
+#: content/themes/default/templates/admin.settings.tpl:124
+msgid "Website Description"
+msgstr "Описание сайта"
+
+#: content/themes/default/templates/admin.settings.tpl:129
+msgid "Description of your website"
+msgstr "Описание вашего сайта"
+
+#: content/themes/default/templates/admin.settings.tpl:136
+msgid "Website Domain"
+msgstr "Домен сайта"
+
+#: content/themes/default/templates/admin.settings.tpl:141
+msgid "Like: sngine.com (without 'www')"
+msgstr "Как: sekta.com (без 'www')"
+
+#: content/themes/default/templates/admin.settings.tpl:148
+msgid "Website Path"
+msgstr "Путь веб-сайта"
+
+#: content/themes/default/templates/admin.settings.tpl:153
+msgid "The path of your system"
+msgstr "Путь к вашей системы"
+
+#: content/themes/default/templates/admin.settings.tpl:160
+msgid "Uploads Directory"
+msgstr "Директория для загрузки"
+
+#: content/themes/default/templates/admin.settings.tpl:165
+msgid "The path of uploads directory"
+msgstr "Путь к каталогу загрузки"
+
+#: content/themes/default/templates/admin.settings.tpl:174
+msgid "Videos Enabled"
+msgstr "Видео включен"
+
+#: content/themes/default/templates/admin.settings.tpl:182
+msgid "Turn the videos On and Off"
+msgstr "Включите видео и выключается"
+
+#: content/themes/default/templates/admin.settings.tpl:191
+msgid "Games Enabled"
+msgstr "Игры включен"
+
+#: content/themes/default/templates/admin.settings.tpl:199
+msgid "Turn the games On and Off"
+msgstr "Включение игры и выключение"
+
+#: content/themes/default/templates/admin.settings.tpl:226
+msgid "Registration Enabled"
+msgstr "Регистрация включена"
+
+#: content/themes/default/templates/admin.settings.tpl:234
+msgid "Turn registration On and Off"
+msgstr "Включите регистрацию и выключается"
+
+#: content/themes/default/templates/admin.settings.tpl:241
+msgid "Send Activation Email"
+msgstr "Отправить письмо активации"
+
+#: content/themes/default/templates/admin.settings.tpl:249
+msgid "Enable/Disable activation email after registration"
+msgstr "Включение/отключение активации электронной почте после регистрации"
+
+#: content/themes/default/templates/admin.settings.tpl:258
+msgid "Social Logins"
+msgstr "Социальные логины"
+
+#: content/themes/default/templates/admin.settings.tpl:266
+msgid ""
+"Turn registration/login via social media (Facebook, Twitter and etc) On and "
+"Off"
+msgstr ""
+"Включение регистрации/входа через социальные сети (Facebook, Twitter и т."
+"д.) и выключение"
+
+#: content/themes/default/templates/admin.settings.tpl:274
+msgid "Facebook Login"
+msgstr "Авторизация Facebook"
+
+#: content/themes/default/templates/admin.settings.tpl:282
+msgid "Turn registration/login via Facebook On and Off"
+msgstr "Включение регистрации/входа в систему через Facebook на и вне"
+
+#: content/themes/default/templates/admin.settings.tpl:289
+msgid "Facebook App ID"
+msgstr "Facebook App ID"
+
+#: content/themes/default/templates/admin.settings.tpl:298
+msgid "Facebook App Secret"
+msgstr "Facebook App Secret"
+
+#: content/themes/default/templates/admin.settings.tpl:309
+msgid "Twitter Login"
+msgstr "Twitter логин"
+
+#: content/themes/default/templates/admin.settings.tpl:317
+msgid "Turn registration/login via Twitter On and Off"
+msgstr "Включение регистрации/входа через щебетать на и вне"
+
+#: content/themes/default/templates/admin.settings.tpl:324
+msgid "Twitter App ID"
+msgstr "Twitter App ID"
+
+#: content/themes/default/templates/admin.settings.tpl:333
+msgid "Twitter App Secret"
+msgstr "Twitter secret"
+
+#: content/themes/default/templates/admin.settings.tpl:344
+msgid "Google Login"
+msgstr "Авторизация Google"
+
+#: content/themes/default/templates/admin.settings.tpl:352
+msgid "Turn registration/login via Google On and Off"
+msgstr "Включение регистрации/входа через Google на и вне"
+
+#: content/themes/default/templates/admin.settings.tpl:359
+msgid "Google App ID"
+msgstr "Google App ID"
+
+#: content/themes/default/templates/admin.settings.tpl:368
+msgid "Google App Secret"
+msgstr "Google App секрет"
+
+#: content/themes/default/templates/admin.settings.tpl:398
+msgid "SMTP Emails"
+msgstr "Электронной почты SMTP"
+
+#: content/themes/default/templates/admin.settings.tpl:406
+#: content/themes/default/templates/admin.settings.tpl:431
+msgid "Enable/Disable SMTP email system"
+msgstr "Включить/отключить SMTP электронной почты системы"
+
+#: content/themes/default/templates/admin.settings.tpl:407
+#: content/themes/default/templates/admin.settings.tpl:432
+msgid "PHP mail() function will be used in case of disabled"
+msgstr "PHP функции mail() функция будет использоваться в случае инвалидов"
+
+#: content/themes/default/templates/admin.settings.tpl:414
+msgid "SMTP Server"
+msgstr "SMTP сервер"
+
+#: content/themes/default/templates/admin.settings.tpl:423
+msgid "SMTP Require Authentication"
+msgstr "SMTP требуют проверки подлинности"
+
+#: content/themes/default/templates/admin.settings.tpl:439
+msgid "SMTP Port"
+msgstr "SMTP порт"
+
+#: content/themes/default/templates/admin.settings.tpl:448
+msgid "SMTP Username"
+msgstr "SMTP имя пользователя"
+
+#: content/themes/default/templates/admin.settings.tpl:457
+msgid "SMTP Password"
+msgstr "Пароль"
+
+#: content/themes/default/templates/admin.settings.tpl:486
+msgid "reCAPTCHA Enabled"
+msgstr "reCAPTCHA включен"
+
+#: content/themes/default/templates/admin.settings.tpl:494
+msgid "Turn reCAPTCHA On and Off"
+msgstr "Включение reCAPTCHA и выключение"
+
+#: content/themes/default/templates/admin.settings.tpl:501
+msgid "reCAPTCHA Site Key"
+msgstr "reCAPTCHA Site Key"
+
+#: content/themes/default/templates/admin.settings.tpl:510
+msgid "reCAPTCHA Secret Key"
+msgstr "Секретный ключ reCAPTCHA"
+
+#: content/themes/default/templates/admin.settings.tpl:539
+msgid "Max profile photo size"
+msgstr "Размер фото профиля"
+
+#: content/themes/default/templates/admin.settings.tpl:544
+msgid "The Maximum size of profile photo"
+msgstr "Максимальный размер фотографии в профиле"
+
+#: content/themes/default/templates/admin.settings.tpl:544
+#: content/themes/default/templates/admin.settings.tpl:556
+#: content/themes/default/templates/admin.settings.tpl:568
+#: content/themes/default/templates/admin.settings.tpl:582
+msgid "in kilobytes (1 M = 1024 KB)"
+msgstr "в килобайтах (1 M = 1024 КБ)"
+
+#: content/themes/default/templates/admin.settings.tpl:551
+msgid "Max cover photo size"
+msgstr "Размер фото обложки"
+
+#: content/themes/default/templates/admin.settings.tpl:556
+msgid "The Maximum size of cover photo"
+msgstr "Максимальный размер фото обложка"
+
+#: content/themes/default/templates/admin.settings.tpl:563
+msgid "Max upladed photo size"
+msgstr "Размер фото upladed Макс"
+
+#: content/themes/default/templates/admin.settings.tpl:568
+msgid "The Maximum size of uploaded photo in posts"
+msgstr "Максимальный размер загруженных фото в должности"
+
+#: content/themes/default/templates/admin.settings.tpl:577
+msgid "Max upladed video size"
+msgstr "Макс размер видео upladed"
+
+#: content/themes/default/templates/admin.settings.tpl:582
+msgid "The Maximum size of uploaded video in posts"
+msgstr "Максимальный размер видео в должности"
+
+#: content/themes/default/templates/admin.settings.tpl:591
+msgid "Minimum Results"
+msgstr "Минимальные результаты"
+
+#: content/themes/default/templates/admin.settings.tpl:596
+msgid "The Min number of results per request"
+msgstr "Количество результатов на запрос мин"
+
+#: content/themes/default/templates/admin.settings.tpl:603
+msgid "Minimum Even Results"
+msgstr "Минимальный даже результаты"
+
+#: content/themes/default/templates/admin.settings.tpl:608
+msgid "The Min even number of results per request"
+msgstr "Мин четное количество результатов каждого запроса"
+
+#: content/themes/default/templates/admin.settings.tpl:615
+msgid "Maximum Results"
+msgstr "Максимальных результатов"
+
+#: content/themes/default/templates/admin.settings.tpl:620
+msgid "The Max number of results per request"
+msgstr "Максимальное количество результатов каждого запроса"
+
+#: content/themes/default/templates/admin.settings.tpl:647
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: content/themes/default/templates/admin.settings.tpl:652
+msgid "Google Analytics Code"
+msgstr "Код Google Analytics"
+
+#: content/themes/default/templates/admin.static.tpl:6
+msgid "Add New Page"
+msgstr "Добавить страницу"
+
+#: content/themes/default/templates/admin.static.tpl:22
+msgid "Page URL"
+msgstr "URL страницы"
+
+#: content/themes/default/templates/admin.static.tpl:23
+msgid "Page Title"
+msgstr "Заголовок страницы"
+
+#: content/themes/default/templates/admin.themes.tpl:6
+msgid "Add New Theme"
+msgstr "Добавить новый шаблон"
+
+#: content/themes/default/templates/admin.themes.tpl:70
+#: content/themes/default/templates/admin.themes.tpl:111
+msgid "Make it the default theme of the site"
+msgstr "Сделать его по умолчанию тема сайта"
+
+#: content/themes/default/templates/admin.tpl:17
+msgid "Dashboard"
+msgstr "Приборная панель"
+
+#: content/themes/default/templates/admin.tpl:39
+#: content/themes/default/templates/admin.tpl:60
+#: content/themes/default/templates/admin.tpl:125
+#: content/themes/default/templates/admin.tpl:183
+#: content/themes/default/templates/admin.tpl:204
+#: content/themes/default/templates/admin.tpl:225
+#: content/themes/default/templates/admin.tpl:246
+msgid "Lists"
+msgstr "Списки"
+
+#: content/themes/default/templates/admin.tpl:81
+msgid "Show All Users"
+msgstr "Показать всех пользователей"
+
+#: content/themes/default/templates/admin.tpl:86
+msgid "List Admins"
+msgstr "Список администраторов"
+
+#: content/themes/default/templates/admin.tpl:91
+msgid "List Moderators"
+msgstr "Список модераторов"
+
+#: content/themes/default/templates/admin.tpl:96
+msgid "List Online"
+msgstr "Список онлайн"
+
+#: content/themes/default/templates/admin.tpl:101
+msgid "List Banned"
+msgstr "Список запрещенных"
+
+#: content/themes/default/templates/admin.tpl:119
+msgid "Pages Categories"
+msgstr "Страницы категории"
+
+#: content/themes/default/templates/admin.tpl:148
+msgid "Verify Badge"
+msgstr "Проверка индикатора событий"
+
+#: content/themes/default/templates/admin.tpl:154
+msgid "List Users"
+msgstr "Список пользователей"
+
+#: content/themes/default/templates/admin.tpl:159
+msgid "List Pages"
+msgstr "Список страниц"
+
+#: content/themes/default/templates/admin.tpl:240
+msgid "games"
+msgstr "Игры."
+
+#: content/themes/default/templates/admin.tpl:261
+msgid "Newsletter"
+msgstr "Новости"
+
+#: content/themes/default/templates/admin.users.tpl:6
+msgid "Go to this profile"
+msgstr "Перейти на этот профиль"
+
+#: content/themes/default/templates/admin.users.tpl:25
+#: content/themes/default/templates/admin.users.tpl:221
+#: content/themes/default/templates/admin.verified.tpl:16
+msgid "IP"
+msgstr "IP-адрес"
+
+#: content/themes/default/templates/admin.users.tpl:26
+#: content/themes/default/templates/admin.users.tpl:87
+#: content/themes/default/templates/admin.verified.tpl:17
+#: content/themes/default/templates/group.tpl:59
+#: content/themes/default/templates/group.tpl:109
+#: content/themes/default/templates/_js_translator.tpl:12
+#: content/themes/default/templates/__feeds_group.tpl:11
+msgid "Joined"
+msgstr "Зарегистрирован"
+
+#: content/themes/default/templates/admin.users.tpl:27
+#: content/themes/default/templates/admin.verified.tpl:18
+#: includes/ajax/core/activation_email_resend.php:22
+#: includes/ajax/core/activation_email_reset.php:22
+msgid "Activated"
+msgstr "Активирован"
+
+#: content/themes/default/templates/admin.users.tpl:83
+msgid "User ID"
+msgstr "ID Пользователя"
+
+#: content/themes/default/templates/admin.users.tpl:91
+msgid "Last Login"
+msgstr "Последний вход"
+
+#: content/themes/default/templates/admin.users.tpl:99
+#: content/themes/default/templates/admin.users.tpl:505
+#: content/themes/default/templates/admin.users.tpl:520
+#: content/themes/default/templates/admin.users.tpl:535
+#: content/themes/default/templates/admin.users.tpl:550
+#: content/themes/default/templates/admin.users.tpl:565
+#: content/themes/default/templates/admin.users.tpl:583
+#: content/themes/default/templates/admin.users.tpl:601
+#: content/themes/default/templates/ajax.popover.tpl:57
+#: content/themes/default/templates/profile.tpl:63
+#: content/themes/default/templates/profile.tpl:120
+#: content/themes/default/templates/profile.tpl:135
+#: content/themes/default/templates/profile.tpl:213
+#: content/themes/default/templates/profile.tpl:360
+#: content/themes/default/templates/profile.tpl:460
+#: content/themes/default/templates/profile.tpl:468
+#: content/themes/default/templates/profile.tpl:531
+#: content/themes/default/templates/profile.tpl:538
+#: content/themes/default/templates/profile.tpl:596
+#: content/themes/default/templates/profile.tpl:603
+#: content/themes/default/templates/settings.tpl:360
+#: content/themes/default/templates/settings.tpl:375
+#: content/themes/default/templates/settings.tpl:390
+#: content/themes/default/templates/settings.tpl:405
+#: content/themes/default/templates/settings.tpl:420
+#: content/themes/default/templates/settings.tpl:438
+#: content/themes/default/templates/settings.tpl:456
+#: content/themes/default/templates/_js_translator.tpl:2
+#: content/themes/default/templates/_publisher.tpl:73
+#: content/themes/default/templates/_publisher.tpl:77
+#: content/themes/default/templates/__feeds_user.tpl:24
+#: includes/js/user.js:775
+msgid "Friends"
+msgstr "Друзья"
+
+#: content/themes/default/templates/admin.users.tpl:103
+#: content/themes/default/templates/profile.tpl:476
+#: content/themes/default/templates/profile.tpl:547
+#: content/themes/default/templates/profile.tpl:610
+msgid "Followings"
+msgstr "Объяснения"
+
+#: content/themes/default/templates/admin.users.tpl:107
+#: content/themes/default/templates/profile.tpl:473
+#: content/themes/default/templates/profile.tpl:542
+#: content/themes/default/templates/profile.tpl:606
+msgid "Followers"
+msgstr "Подписчики"
+
+#: content/themes/default/templates/admin.users.tpl:116
+msgid "Basic Info"
+msgstr "Основные характеристики"
+
+#: content/themes/default/templates/admin.users.tpl:121
+#: content/themes/default/templates/_header.tpl:126
+msgid "Profile"
+msgstr "Профиль"
+
+#: content/themes/default/templates/admin.users.tpl:131
+#: content/themes/default/templates/reset.tpl:14
+#: content/themes/default/templates/settings.tpl:60
+#: content/themes/default/templates/signin.tpl:43
+#: content/themes/default/templates/signup.tpl:47
+#: content/themes/default/templates/signup_social.tpl:24
+msgid "Email"
+msgstr "Ваш E-mail"
+
+#: content/themes/default/templates/admin.users.tpl:136
+#: content/themes/default/templates/admin.users.tpl:453
+#: content/themes/default/templates/settings.tpl:65
+#: content/themes/default/templates/signin.tpl:47
+#: content/themes/default/templates/signup.tpl:51
+#: content/themes/default/templates/signup_social.tpl:28
+msgid "Password"
+msgstr "Пароль"
+
+#: content/themes/default/templates/admin.users.tpl:141
+msgid "Privacy"
+msgstr "Политика конфиденциальности"
+
+#: content/themes/default/templates/admin.users.tpl:154
+msgid "Verified User"
+msgstr "Проверенный пользователь"
+
+#: content/themes/default/templates/admin.users.tpl:178
+msgid "Email Activated"
+msgstr "Письмо активации"
+
+#: content/themes/default/templates/admin.users.tpl:190
+msgid "Password Rested"
+msgstr "Пароль отдыхал"
+
+#: content/themes/default/templates/admin.users.tpl:202
+msgid "User Group"
+msgstr "Группа"
+
+#: content/themes/default/templates/admin.users.tpl:250
+#: content/themes/default/templates/settings.tpl:182
+msgid "Full Name"
+msgstr "ФИО"
+
+#: content/themes/default/templates/admin.users.tpl:258
+msgid "Gender"
+msgstr "пол"
+
+#: content/themes/default/templates/admin.users.tpl:262
+#: content/themes/default/templates/index.tpl:87
+#: content/themes/default/templates/settings.tpl:188
+#: content/themes/default/templates/signup.tpl:57
+#: content/themes/default/templates/signup_social.tpl:34
+msgid "Select Sex"
+msgstr "Выберите пол"
+
+#: content/themes/default/templates/admin.users.tpl:264
+#: content/themes/default/templates/index.tpl:88
+#: content/themes/default/templates/profile.tpl:324
+#: content/themes/default/templates/settings.tpl:189
+#: content/themes/default/templates/signup.tpl:58
+#: content/themes/default/templates/signup_social.tpl:35
+msgid "Male"
+msgstr "мужской"
+
+#: content/themes/default/templates/admin.users.tpl:267
+#: content/themes/default/templates/index.tpl:89
+#: content/themes/default/templates/profile.tpl:327
+#: content/themes/default/templates/settings.tpl:190
+#: content/themes/default/templates/signup.tpl:59
+#: content/themes/default/templates/signup_social.tpl:36
+msgid "Female"
+msgstr "женский"
+
+#: content/themes/default/templates/admin.users.tpl:274
+#: content/themes/default/templates/settings.tpl:194
+msgid "Birthdate"
+msgstr "День рождения"
+
+#: content/themes/default/templates/admin.users.tpl:280
+#: content/themes/default/templates/settings.tpl:198
+msgid "Select Month"
+msgstr "Выбрать месяц"
+
+#: content/themes/default/templates/admin.users.tpl:281
+#: content/themes/default/templates/settings.tpl:199
+msgid "Jan"
+msgstr "Янв"
+
+#: content/themes/default/templates/admin.users.tpl:282
+#: content/themes/default/templates/settings.tpl:200
+msgid "Feb"
+msgstr "Фев"
+
+#: content/themes/default/templates/admin.users.tpl:283
+#: content/themes/default/templates/settings.tpl:201
+msgid "Mar"
+msgstr "Мар"
+
+#: content/themes/default/templates/admin.users.tpl:284
+#: content/themes/default/templates/settings.tpl:202
+msgid "Apr"
+msgstr "Апр"
+
+#: content/themes/default/templates/admin.users.tpl:285
+#: content/themes/default/templates/settings.tpl:203
+msgid "May"
+msgstr "мае"
+
+#: content/themes/default/templates/admin.users.tpl:286
+#: content/themes/default/templates/settings.tpl:204
+msgid "Jun"
+msgstr "Июн"
+
+#: content/themes/default/templates/admin.users.tpl:287
+#: content/themes/default/templates/settings.tpl:205
+msgid "Jul"
+msgstr "Июл"
+
+#: content/themes/default/templates/admin.users.tpl:288
+#: content/themes/default/templates/settings.tpl:206
+msgid "Aug"
+msgstr "Авг"
+
+#: content/themes/default/templates/admin.users.tpl:289
+#: content/themes/default/templates/settings.tpl:207
+msgid "Sep"
+msgstr "Сен"
+
+#: content/themes/default/templates/admin.users.tpl:290
+#: content/themes/default/templates/settings.tpl:208
+msgid "Oct"
+msgstr "Окт"
+
+#: content/themes/default/templates/admin.users.tpl:291
+#: content/themes/default/templates/settings.tpl:209
+msgid "Nov"
+msgstr "Ноя"
+
+#: content/themes/default/templates/admin.users.tpl:292
+#: content/themes/default/templates/settings.tpl:210
+msgid "Dec"
+msgstr "Дек"
+
+#: content/themes/default/templates/admin.users.tpl:297
+#: content/themes/default/templates/settings.tpl:215
+msgid "Select Day"
+msgstr "Выберите день"
+
+#: content/themes/default/templates/admin.users.tpl:305
+#: content/themes/default/templates/settings.tpl:223
+msgid "Select Year"
+msgstr "Выберите год"
+
+#: content/themes/default/templates/admin.users.tpl:317
+#: content/themes/default/templates/settings.tpl:249
+msgid "Work Title"
+msgstr "Название работы"
+
+#: content/themes/default/templates/admin.users.tpl:325
+#: content/themes/default/templates/settings.tpl:253
+msgid "Work Place"
+msgstr "Место работы"
+
+#: content/themes/default/templates/admin.users.tpl:334
+#: content/themes/default/templates/settings.tpl:275
+msgid "Current City"
+msgstr "Текущий город"
+
+#: content/themes/default/templates/admin.users.tpl:342
+#: content/themes/default/templates/settings.tpl:279
+msgid "Hometown"
+msgstr "Город рождения"
+
+#: content/themes/default/templates/admin.users.tpl:351
+#: content/themes/default/templates/settings.tpl:301
+msgid "Major"
+msgstr ""
+"Статус: Высшее, не полное высшее, специальное, среднее, не оконченное "
+"среднее"
+
+#: content/themes/default/templates/admin.users.tpl:359
+#: content/themes/default/templates/settings.tpl:305
+msgid "School"
+msgstr "Институт, училище, школа"
+
+#: content/themes/default/templates/admin.users.tpl:367
+#: content/themes/default/templates/settings.tpl:309
+msgid "Class"
+msgstr "Кафедра, группа, класс"
+
+#: content/themes/default/templates/admin.users.tpl:424
+#: content/themes/default/templates/settings.tpl:97
+msgid "Email address"
+msgstr "Адрес эл. почты"
+
+#: content/themes/default/templates/admin.users.tpl:482
+#: content/themes/default/templates/ajax.chat.master.head.tpl:12
+#: content/themes/default/templates/settings.tpl:337
+#: content/themes/default/templates/_js_templates.tpl:414
+msgid "Chat"
+msgstr "Чат"
+
+#: content/themes/default/templates/admin.users.tpl:487
+#: content/themes/default/templates/ajax.chat.master.head.tpl:5
+#: content/themes/default/templates/settings.tpl:342
+#: content/themes/default/templates/_js_templates.tpl:424
+msgid "Offline"
+msgstr "Оффлайн"
+
+#: content/themes/default/templates/admin.users.tpl:497
+#: content/themes/default/templates/admin.users.tpl:512
+#: content/themes/default/templates/admin.users.tpl:527
+#: content/themes/default/templates/admin.users.tpl:542
+#: content/themes/default/templates/admin.users.tpl:557
+#: content/themes/default/templates/admin.users.tpl:575
+#: content/themes/default/templates/admin.users.tpl:593
+#: content/themes/default/templates/settings.tpl:352
+#: content/themes/default/templates/settings.tpl:367
+#: content/themes/default/templates/settings.tpl:382
+#: content/themes/default/templates/settings.tpl:397
+#: content/themes/default/templates/settings.tpl:412
+#: content/themes/default/templates/settings.tpl:430
+#: content/themes/default/templates/settings.tpl:448
+msgid "Who can see your"
+msgstr "Кто может видеть ваши"
+
+#: content/themes/default/templates/admin.users.tpl:497
+#: content/themes/default/templates/settings.tpl:352
+msgid "birthdate"
+msgstr "День рождения"
+
+#: content/themes/default/templates/admin.users.tpl:502
+#: content/themes/default/templates/admin.users.tpl:517
+#: content/themes/default/templates/admin.users.tpl:532
+#: content/themes/default/templates/admin.users.tpl:547
+#: content/themes/default/templates/admin.users.tpl:562
+#: content/themes/default/templates/admin.users.tpl:580
+#: content/themes/default/templates/admin.users.tpl:598
+#: content/themes/default/templates/settings.tpl:357
+#: content/themes/default/templates/settings.tpl:372
+#: content/themes/default/templates/settings.tpl:387
+#: content/themes/default/templates/settings.tpl:402
+#: content/themes/default/templates/settings.tpl:417
+#: content/themes/default/templates/settings.tpl:435
+#: content/themes/default/templates/settings.tpl:453
+msgid "Everyone"
+msgstr "Для всех"
+
+#: content/themes/default/templates/admin.users.tpl:512
+#: content/themes/default/templates/settings.tpl:367
+msgid "work info"
+msgstr "Информация о работе"
+
+#: content/themes/default/templates/admin.users.tpl:527
+#: content/themes/default/templates/settings.tpl:382
+msgid "location info"
+msgstr "Информация местоположения"
+
+#: content/themes/default/templates/admin.users.tpl:542
+#: content/themes/default/templates/settings.tpl:397
+msgid "education info"
+msgstr "Информация об образовании"
+
+#: content/themes/default/templates/admin.users.tpl:557
+#: content/themes/default/templates/settings.tpl:412
+msgid "friends"
+msgstr "друзья"
+
+#: content/themes/default/templates/admin.users.tpl:568
+#: content/themes/default/templates/admin.users.tpl:586
+#: content/themes/default/templates/admin.users.tpl:604
+#: content/themes/default/templates/settings.tpl:423
+#: content/themes/default/templates/settings.tpl:441
+#: content/themes/default/templates/settings.tpl:459
+msgid "Just Me"
+msgstr "Я один"
+
+#: content/themes/default/templates/admin.users.tpl:575
+#: content/themes/default/templates/settings.tpl:430
+msgid "liked pages"
+msgstr "любил страниц"
+
+#: content/themes/default/templates/admin.users.tpl:593
+#: content/themes/default/templates/settings.tpl:448
+msgid "joined groups"
+msgstr "присоединился к группам"
+
+#: content/themes/default/templates/admin.widgets.tpl:6
+msgid "Add New widget"
+msgstr "Добавить новую область"
+
+#: content/themes/default/templates/admin.widgets.tpl:107
+msgid ""
+"When you add mutiple widgets at the samle location, they will be displayed "
+"randomly"
+msgstr "Когда вы добавляете мульти виджеты, они будут отображены случайно"
+
+#: content/themes/default/templates/ajax.chat.conversation.messages.tpl:4
+msgid "Loading Older Messages"
+msgstr "Загрузка старых сообщений"
+
+#: content/themes/default/templates/ajax.chat.conversation.tpl:7
+#: content/themes/default/templates/messages.tpl:48
+#: content/themes/default/templates/messages.tpl:55
+#: content/themes/default/templates/_js_templates.tpl:435
+msgid "New Message"
+msgstr "Новое сообщение"
+
+#: content/themes/default/templates/ajax.chat.conversation.tpl:11
+#: content/themes/default/templates/_js_translator.tpl:14
+msgid "Delete"
+msgstr "Удалить"
+
+#: content/themes/default/templates/ajax.lightbox_actions.tpl:4
+#: content/themes/default/templates/ajax.popover.tpl:118
+#: content/themes/default/templates/page.tpl:62
+#: content/themes/default/templates/page.tpl:107
+#: content/themes/default/templates/_js_translator.tpl:11
+#: content/themes/default/templates/__feeds_page.tpl:11
+#: content/themes/default/templates/__feeds_post.comment.tpl:58
+#: content/themes/default/templates/__feeds_post.tpl:343
+msgid "Unlike"
+msgstr "Не нравится"
+
+#: content/themes/default/templates/ajax.lightbox_actions.tpl:6
+#: content/themes/default/templates/ajax.popover.tpl:123
+#: content/themes/default/templates/page.tpl:67
+#: content/themes/default/templates/page.tpl:112
+#: content/themes/default/templates/_js_translator.tpl:10
+#: content/themes/default/templates/__feeds_page.tpl:16
+#: content/themes/default/templates/__feeds_post.comment.tpl:60
+#: content/themes/default/templates/__feeds_post.tpl:345
+msgid "Like"
+msgstr "Нравится"
+
+#: content/themes/default/templates/ajax.lightbox_actions.tpl:8
+#: content/themes/default/templates/__feeds_post.tpl:347
+msgid "Comment"
+msgstr "Комментировать"
+
+#: content/themes/default/templates/ajax.lightbox_footer.tpl:7
+#: content/themes/default/templates/profile.tpl:347
+#: content/themes/default/templates/__feeds_post.tpl:382
+msgid "people"
+msgstr "чел."
+
+#: content/themes/default/templates/ajax.lightbox_footer.tpl:7
+#: content/themes/default/templates/__feeds_post.tpl:382
+msgid "like this"
+msgstr "Нравится"
+
+#: content/themes/default/templates/ajax.mutual_friends.tpl:3
+#: content/themes/default/templates/profile.tpl:196
+msgid "Mutual Friends"
+msgstr "Взаимные друзья"
+
+#: content/themes/default/templates/ajax.mutual_friends.tpl:15
+#: content/themes/default/templates/ajax.who_likes.tpl:15
+#: content/themes/default/templates/ajax.who_shares.tpl:15
+#: content/themes/default/templates/friend_requests.tpl:37
+#: content/themes/default/templates/friend_requests.tpl:68
+#: content/themes/default/templates/friend_requests.tpl:102
+#: content/themes/default/templates/group.tpl:198
+#: content/themes/default/templates/index.tpl:387
+#: content/themes/default/templates/index.tpl:427
+#: content/themes/default/templates/index.tpl:540
+#: content/themes/default/templates/notifications.tpl:27
+#: content/themes/default/templates/profile.tpl:493
+#: content/themes/default/templates/profile.tpl:563
+#: content/themes/default/templates/profile.tpl:628
+#: content/themes/default/templates/profile.tpl:665
+#: content/themes/default/templates/profile.tpl:709
+#: content/themes/default/templates/settings.tpl:606
+#: content/themes/default/templates/settings.tpl:632
+#: includes/functions.php:573
+msgid "See More"
+msgstr "Показать еще"
+
+#: content/themes/default/templates/ajax.popover.tpl:19
+msgid "followers"
+msgstr "подписчик."
+
+#: content/themes/default/templates/ajax.popover.tpl:28
+#: content/themes/default/templates/profile.tpl:364
+#: content/themes/default/templates/__feeds_user.tpl:52
+msgid "mutual friends"
+msgstr "взаимные друзья"
+
+#: content/themes/default/templates/ajax.popover.tpl:37
+#: content/themes/default/templates/profile.tpl:277
+#: content/themes/default/templates/profile.tpl:289
+msgid "at"
+msgstr "в"
+
+#: content/themes/default/templates/ajax.popover.tpl:47
+#: content/themes/default/templates/profile.tpl:314
+msgid "From"
+msgstr "Родился в"
+
+#: content/themes/default/templates/ajax.popover.tpl:60
+#: content/themes/default/templates/profile.tpl:66
+#: content/themes/default/templates/profile.tpl:169
+#: content/themes/default/templates/profile.tpl:216
+#: content/themes/default/templates/_js_templates.tpl:64
+#: content/themes/default/templates/__feeds_user.tpl:9
+msgid "Confirm"
+msgstr "Подтвердить"
+
+#: content/themes/default/templates/ajax.popover.tpl:61
+#: content/themes/default/templates/profile.tpl:67
+#: content/themes/default/templates/profile.tpl:170
+#: content/themes/default/templates/profile.tpl:217
+#: content/themes/default/templates/__feeds_user.tpl:10
+msgid "Delete Request"
+msgstr "Удалить запрос"
+
+#: content/themes/default/templates/ajax.popover.tpl:64
+#: content/themes/default/templates/profile.tpl:70
+#: content/themes/default/templates/profile.tpl:173
+#: content/themes/default/templates/profile.tpl:220
+#: content/themes/default/templates/_js_translator.tpl:3
+#: content/themes/default/templates/__feeds_user.tpl:19
+msgid "Friend Request Sent"
+msgstr "Запрос на добавление отправлен"
+
+#: content/themes/default/templates/ajax.popover.tpl:68
+#: content/themes/default/templates/profile.tpl:74
+#: content/themes/default/templates/profile.tpl:177
+#: content/themes/default/templates/profile.tpl:224
+#: content/themes/default/templates/_js_translator.tpl:1
+#: content/themes/default/templates/__feeds_user.tpl:14
+msgid "Add Friend"
+msgstr "Добавить друга"
+
+#: content/themes/default/templates/ajax.popover.tpl:76
+#: content/themes/default/templates/profile.tpl:82
+#: content/themes/default/templates/profile.tpl:232
+#: content/themes/default/templates/_js_translator.tpl:4
+#: content/themes/default/templates/__feeds_user.tpl:36
+msgid "Following"
+msgstr "Фолловинг"
+
+#: content/themes/default/templates/ajax.popover.tpl:81
+#: content/themes/default/templates/profile.tpl:87
+#: content/themes/default/templates/profile.tpl:237
+#: content/themes/default/templates/_js_translator.tpl:5
+#: content/themes/default/templates/__feeds_user.tpl:30
+msgid "Follow"
+msgstr "Подписаться"
+
+#: content/themes/default/templates/ajax.popover.tpl:84
+#: content/themes/default/templates/profile.tpl:90
+#: content/themes/default/templates/profile.tpl:240
+msgid "Message"
+msgstr "Сообщение"
+
+#: content/themes/default/templates/ajax.popover.tpl:88
+#: content/themes/default/templates/group.tpl:69
+#: content/themes/default/templates/group.tpl:119
+#: content/themes/default/templates/page.tpl:72
+#: content/themes/default/templates/page.tpl:117
+#: content/themes/default/templates/profile.tpl:103
+#: content/themes/default/templates/profile.tpl:253
+msgid "Update Info"
+msgstr "Обновить информацию"
+
+#: content/themes/default/templates/ajax.who_likes.tpl:3
+msgid "People Who Like This"
+msgstr "читателям нравится это"
+
+#: content/themes/default/templates/ajax.who_shares.tpl:3
+msgid "People Who Shared This"
+msgstr "Люди, которые разделяют это"
+
+#: content/themes/default/templates/friend_requests.tpl:15
+msgid "Respond to Your Friend Request"
+msgstr "Ответить на ваш запрос друга"
+
+#: content/themes/default/templates/friend_requests.tpl:18
+msgid "View Sent Requests"
+msgstr "Вид, отправленные запросы"
+
+#: content/themes/default/templates/friend_requests.tpl:30
+#: content/themes/default/templates/friend_requests.tpl:61
+#: content/themes/default/templates/_header.friend_requests.tpl:22
+msgid "No new requests"
+msgstr "Без новых запросов"
+
+#: content/themes/default/templates/friend_requests.tpl:46
+msgid "Friend Requests Sent"
+msgstr "Запросы о дружбе"
+
+#: content/themes/default/templates/friend_requests.tpl:49
+msgid "View Received Requests"
+msgstr "Просмотреть полученные запросы"
+
+#: content/themes/default/templates/friend_requests.tpl:82
+#: content/themes/default/templates/_header.friend_requests.tpl:28
+msgid "People You May Know"
+msgstr "Люди, которых вы можете знать"
+
+#: content/themes/default/templates/friend_requests.tpl:95
+#: content/themes/default/templates/_header.friend_requests.tpl:39
+msgid "No people available"
+msgstr "Нет доступных людей"
+
+#: content/themes/default/templates/group.tpl:64
+#: content/themes/default/templates/group.tpl:114
+#: content/themes/default/templates/_js_translator.tpl:13
+#: content/themes/default/templates/__feeds_group.tpl:16
+msgid "Join Group"
+msgstr "Вступить в группу"
+
+#: content/themes/default/templates/group.tpl:73
+#: content/themes/default/templates/page.tpl:76
+#: content/themes/default/templates/profile.tpl:96
+#: content/themes/default/templates/profile.tpl:246
+msgid "Report"
+msgstr "Отправить"
+
+#: content/themes/default/templates/group.tpl:84
+#: content/themes/default/templates/page.tpl:87
+#: content/themes/default/templates/profile.tpl:115
+msgid "Timeline"
+msgstr "Лента"
+
+#: content/themes/default/templates/group.tpl:136
+msgid "members"
+msgstr "участники"
+
+#: content/themes/default/templates/group.tpl:205
+msgid "doesn't have members"
+msgstr "не члены"
+
+#: content/themes/default/templates/group.tpl:219
+#: content/themes/default/templates/group.tpl:239
+msgid "Group Settings"
+msgstr "Настройки группы"
+
+#: content/themes/default/templates/group.tpl:233
+msgid "Delete Group"
+msgstr "Удалить группу"
+
+#: content/themes/default/templates/group.tpl:258
+#: content/themes/default/templates/page.tpl:222
+msgid "Save"
+msgstr "Сохранить"
+
+#: content/themes/default/templates/index.tpl:14
+msgid "Share your memories, connect with others, make new friends"
+msgstr ""
+"Знакомьтесь с новыми людьми. Делитесь своими воспоминаниями и заводите "
+"новых друзей! Специально для Вас мы открыли новую социальную сеть."
+
+#: content/themes/default/templates/index.tpl:29
+#: content/themes/default/templates/signin.tpl:52
+msgid "Remember me"
+msgstr "Запомнить меня"
+
+#: content/themes/default/templates/index.tpl:31
+#: content/themes/default/templates/signin.tpl:63
+msgid "Forget your password?"
+msgstr "Забыли пароль?"
+
+#: content/themes/default/templates/index.tpl:43
+#: content/themes/default/templates/signin.tpl:35
+#: content/themes/default/templates/signin.tpl:43
+#: content/themes/default/templates/signup.tpl:31
+msgid "or"
+msgstr "или"
+
+#: content/themes/default/templates/index.tpl:43
+msgid "login with"
+msgstr "войти через"
+
+#: content/themes/default/templates/index.tpl:69
+msgid "New to"
+msgstr "Социальная сеть"
+
+#: content/themes/default/templates/index.tpl:69
+#: content/themes/default/templates/signup.tpl:8
+msgid "Sign up"
+msgstr "Регистрация"
+
+#: content/themes/default/templates/index.tpl:85
+#: content/themes/default/templates/settings.tpl:186
+#: content/themes/default/templates/signup.tpl:55
+#: content/themes/default/templates/signup_social.tpl:32
+msgid "I am"
+msgstr ""
+"Если ваш е-мейл уже был зарегистрирован здесь, то выберите \"Существующий "
+"пользователь\", иначе на следующей странице возможна ошибка."
+
+#: content/themes/default/templates/index.tpl:101
+#: content/themes/default/templates/signup.tpl:71
+#: content/themes/default/templates/signup_social.tpl:40
+msgid "By clicking Sign Up, you agree to our"
+msgstr "Нажав зарегистрироваться, вы соглашаетесь с нашим"
+
+#: content/themes/default/templates/index.tpl:101
+#: content/themes/default/templates/signup.tpl:71
+#: content/themes/default/templates/signup_social.tpl:40
+msgid "Terms"
+msgstr "Условия"
+
+#: content/themes/default/templates/index.tpl:153
+msgid "favorites"
+msgstr "Обране"
+
+#: content/themes/default/templates/index.tpl:157
+msgid "News Feed"
+msgstr "Новости"
+
+#: content/themes/default/templates/index.tpl:171
+msgid "pages"
+msgstr "страницы"
+
+#: content/themes/default/templates/index.tpl:195
+msgid "groups"
+msgstr "группы"
+
+#: content/themes/default/templates/index.tpl:264
+#: content/themes/default/templates/_header.search.tpl:5
+msgid "Search Results"
+msgstr "Результаты поиска"
+
+#: content/themes/default/templates/index.tpl:304
+#: content/themes/default/templates/index.tpl:318
+#: content/themes/default/templates/index.tpl:332
+#: content/themes/default/templates/index.tpl:346
+msgid "No results to show"
+msgstr "Нет результатов, чтобы показать"
+
+#: content/themes/default/templates/index.tpl:367
+msgid "Your Pages"
+msgstr "Ваши страницы"
+
+#: content/themes/default/templates/index.tpl:380
+msgid "No pages available"
+msgstr "Нет доступных страниц"
+
+#: content/themes/default/templates/index.tpl:407
+msgid "Your Groups"
+msgstr "Ваши группы"
+
+#: content/themes/default/templates/index.tpl:420
+msgid "No groups available"
+msgstr "Нет доступных групп"
+
+#: content/themes/default/templates/index.tpl:469
+#: content/themes/default/templates/index.tpl:504
+msgid "Create"
+msgstr "Создать"
+
+#: content/themes/default/templates/index.tpl:533
+msgid "No games available"
+msgstr "Нет игр, доступных"
+
+#: content/themes/default/templates/index.tpl:564
+#: content/themes/default/templates/_header.friend_requests.tpl:45
+#: content/themes/default/templates/_header.messages.tpl:28
+#: content/themes/default/templates/_header.notifications.tpl:27
+msgid "See All"
+msgstr "Там все"
+
+#: content/themes/default/templates/index.tpl:566
+msgid "People you may know"
+msgstr "Люди, которых вы, возможно, знаете"
+
+#: content/themes/default/templates/index.tpl:583
+msgid "Suggested Pages"
+msgstr "Предлагаемые страниц"
+
+#: content/themes/default/templates/index.tpl:600
+msgid "Suggested Groups"
+msgstr "Рекомендуемые Группы"
+
+#: content/themes/default/templates/messages.tpl:12
+msgid "Inbox"
+msgstr "Входящие"
+
+#: content/themes/default/templates/messages.tpl:26
+msgid "Load Older Threads"
+msgstr "Загрузить старые темы"
+
+#: content/themes/default/templates/messages.tpl:51
+msgid "No Selection"
+msgstr "Нет Выбор"
+
+#: content/themes/default/templates/messages.tpl:54
+msgid "No Conversation Selected"
+msgstr "Не выбран разговор"
+
+#: content/themes/default/templates/notifications.tpl:14
+msgid "Your Notifications"
+msgstr "Ваш уведомления"
+
+#: content/themes/default/templates/page.tpl:134
+msgid "people like this"
+msgstr "читателям нравится это"
+
+#: content/themes/default/templates/page.tpl:175
+#: content/themes/default/templates/page.tpl:195
+msgid "Page Settings"
+msgstr "Настройки страницы"
+
+#: content/themes/default/templates/page.tpl:189
+msgid "Delete Page"
+msgstr "Удалить страницу"
+
+#: content/themes/default/templates/profile.tpl:97
+#: content/themes/default/templates/profile.tpl:247
+msgid "Block"
+msgstr "Блок"
+
+#: content/themes/default/templates/profile.tpl:123
+msgid "Mutual"
+msgstr "Взаимный"
+
+#: content/themes/default/templates/profile.tpl:130
+msgid "More"
+msgstr "Ещё"
+
+#: content/themes/default/templates/profile.tpl:159
+msgid "Do you know"
+msgstr "Ты знаешь?"
+
+#: content/themes/default/templates/profile.tpl:163
+msgid "To see what"
+msgstr "Чтобы увидеть, что"
+
+#: content/themes/default/templates/profile.tpl:163
+msgid "shares with friends"
+msgstr "акции с друзьями"
+
+#: content/themes/default/templates/profile.tpl:165
+msgid "send a friend request"
+msgstr "отправить запрос друга"
+
+#: content/themes/default/templates/profile.tpl:267
+msgid "About"
+msgstr "О проекте"
+
+#: content/themes/default/templates/profile.tpl:288
+msgid "Studied"
+msgstr "Образование"
+
+#: content/themes/default/templates/profile.tpl:303
+msgid "Lives in"
+msgstr "Проживает в"
+
+#: content/themes/default/templates/profile.tpl:346
+msgid "Followed by"
+msgstr "Читают"
+
+#: content/themes/default/templates/profile.tpl:500
+msgid "doesn't have friends"
+msgstr "не имеет друзей"
+
+#: content/themes/default/templates/profile.tpl:505
+msgid "No friends to show"
+msgstr "Нет друзей, чтобы показать"
+
+#: content/themes/default/templates/profile.tpl:570
+msgid "doesn't have followers"
+msgstr "не имеет последователей"
+
+#: content/themes/default/templates/profile.tpl:635
+msgid "doesn't have followings"
+msgstr "не имеет следующие"
+
+#: content/themes/default/templates/profile.tpl:672
+#: content/themes/default/templates/profile.tpl:677
+msgid "No pages to show"
+msgstr "Нет страниц, чтобы показать"
+
+#: content/themes/default/templates/profile.tpl:716
+#: content/themes/default/templates/profile.tpl:721
+msgid "No groups to show"
+msgstr "Нет групп, чтобы показать"
+
+#: content/themes/default/templates/reset.tpl:6
+msgid "Reset Password"
+msgstr "Сбросить пароль"
+
+#: content/themes/default/templates/reset.tpl:16
+msgid ""
+"Enter the email address you signed up with and we'll email you a reset link"
+msgstr "Укажите E-mail, на который будет отправлена ссылка для сброса пароля"
+
+#: content/themes/default/templates/reset.tpl:26
+msgid "Email me a link"
+msgstr "Отправить мне ссылку"
+
+#: content/themes/default/templates/settings.tpl:118
+msgid "Current"
+msgstr "Текущий"
+
+#: content/themes/default/templates/settings.tpl:122
+msgid "New"
+msgstr "Новое"
+
+#: content/themes/default/templates/settings.tpl:126
+msgid "Re-type new"
+msgstr "Повторно введите новый"
+
+#: content/themes/default/templates/settings.tpl:156
+msgid "Basic"
+msgstr "Основное"
+
+#: content/themes/default/templates/settings.tpl:161
+msgid "Work"
+msgstr "Компания"
+
+#: content/themes/default/templates/settings.tpl:166
+msgid "Location"
+msgstr "Контакты"
+
+#: content/themes/default/templates/settings.tpl:171
+msgid "Education"
+msgstr "Образование"
+
+#: content/themes/default/templates/settings.tpl:499
+#: content/themes/default/templates/settings.tpl:527
+#: content/themes/default/templates/settings.tpl:555
+msgid "Disconnect"
+msgstr "Отключение"
+
+#: content/themes/default/templates/settings.tpl:501
+#: content/themes/default/templates/settings.tpl:529
+#: content/themes/default/templates/settings.tpl:557
+msgid "Connect"
+msgstr "Соединения"
+
+#: content/themes/default/templates/settings.tpl:506
+#: content/themes/default/templates/settings.tpl:509
+#: content/themes/default/templates/settings.tpl:511
+#: content/themes/default/templates/signin.tpl:19
+#: content/themes/default/templates/signup.tpl:15
+msgid "Facebook"
+msgstr "Facebook"
+
+#: content/themes/default/templates/settings.tpl:509
+#: content/themes/default/templates/settings.tpl:537
+#: content/themes/default/templates/settings.tpl:565
+msgid "Your account is connected to"
+msgstr "Ваш счет подключен к"
+
+#: content/themes/default/templates/settings.tpl:511
+#: content/themes/default/templates/settings.tpl:539
+#: content/themes/default/templates/settings.tpl:567
+msgid "Connect your account to"
+msgstr "Подключите ваш счет"
+
+#: content/themes/default/templates/settings.tpl:534
+#: content/themes/default/templates/settings.tpl:537
+#: content/themes/default/templates/settings.tpl:539
+#: content/themes/default/templates/signin.tpl:24
+#: content/themes/default/templates/signup.tpl:20
+msgid "Twitter"
+msgstr "Twitter"
+
+#: content/themes/default/templates/settings.tpl:562
+#: content/themes/default/templates/settings.tpl:565
+#: content/themes/default/templates/settings.tpl:567
+#: content/themes/default/templates/signin.tpl:29
+#: content/themes/default/templates/signup.tpl:25
+msgid "Google"
+msgstr "Google"
+
+#: content/themes/default/templates/settings.tpl:582
+msgid "Manage Blocking"
+msgstr "Управление блокирование"
+
+#: content/themes/default/templates/settings.tpl:587
+msgid ""
+"Once you block someone, that person can no longer see things you post on "
+"your timeline"
+msgstr ""
+"После того, как вы заблокировать кого-то, что человек больше не может "
+"видеть вещи, которые вы размещаете на временной шкале"
+
+#: content/themes/default/templates/settings.tpl:588
+msgid "Note: Does not include apps, games or groups you both participate in"
+msgstr ""
+"Примечание: Не включают в себя приложения, игры или группы, которую вы оба "
+"участвуют в"
+
+#: content/themes/default/templates/settings.tpl:599
+msgid "No blocked users"
+msgstr "Заблокированные пользователи"
+
+#: content/themes/default/templates/settings.tpl:621
+msgid "Once you delete your account you will no longer can access it again"
+msgstr ""
+"После того, как вы удалите свой аккаунт вам будет больше не могут получить "
+"доступ к его снова"
+
+#: content/themes/default/templates/settings.tpl:622
+msgid "Note: All your data will be deleted"
+msgstr "Примечание: Все ваши данные будут удалены"
+
+#: content/themes/default/templates/settings.tpl:626
+msgid "Delete My Account"
+msgstr "Удалить мой счет"
+
+#: content/themes/default/templates/signin.tpl:19
+#: content/themes/default/templates/signin.tpl:24
+#: content/themes/default/templates/signin.tpl:29
+#: content/themes/default/templates/signup.tpl:15
+#: content/themes/default/templates/signup.tpl:20
+#: content/themes/default/templates/signup.tpl:25
+msgid "Login with"
+msgstr "Войти через"
+
+#: content/themes/default/templates/signup.tpl:39
+#: content/themes/default/templates/signup_social.tpl:16
+msgid "Full name"
+msgstr "Полное имя"
+
+#: content/themes/default/templates/signup_social.tpl:8
+msgid "Welcome"
+msgstr "Добро пожаловать"
+
+#: content/themes/default/templates/_header.messages.tpl:11
+msgid "Send a New Message"
+msgstr "Отправить"
+
+#: content/themes/default/templates/_header.messages.tpl:23
+msgid "No messages"
+msgstr "Нет сообщений"
+
+#: content/themes/default/templates/_header.notifications.tpl:22
+msgid "No notifications"
+msgstr "Нет уведомлений"
+
+#: content/themes/default/templates/_header.search.tpl:10
+msgid "See All Results"
+msgstr "Посмотреть все результаты"
+
+#: content/themes/default/templates/_header.tpl:23
+msgid "Please go to"
+msgstr "Пожалуйста, перейдите к"
+
+#: content/themes/default/templates/_header.tpl:23
+msgid "to complete the sign-up process"
+msgstr "для завершения процесса регистрации"
+
+#: content/themes/default/templates/_header.tpl:27
+msgid "Resend Activation Email"
+msgstr "Повторите запрос об активации адреса электронной почты"
+
+#: content/themes/default/templates/_header.tpl:31
+msgid "Change Email"
+msgstr "изменить e-mail"
+
+#: content/themes/default/templates/_header.tpl:45
+msgid "The system has been shuttd down"
+msgstr "Система была перезагружена"
+
+#: content/themes/default/templates/_header.tpl:46
+msgid "Turn it on from"
+msgstr "Включите его от"
+
+#: content/themes/default/templates/_header.tpl:147
+msgid "Log Out"
+msgstr "Выйти"
+
+#: content/themes/default/templates/_js_templates.tpl:15
+msgid "Not Logged In"
+msgstr "Вы не вошли или авторизовались с другого устройства!"
+
+#: content/themes/default/templates/_js_templates.tpl:18
+msgid "Please log in to continue"
+msgstr "Пожалуйста авторизуйтесь чтобы продолжить."
+
+#: content/themes/default/templates/_js_templates.tpl:63
+#: content/themes/default/templates/_js_templates.tpl:122
+#: content/themes/default/templates/_js_templates.tpl:150
+#: content/themes/default/templates/_js_templates.tpl:181
+msgid "Cancel"
+msgstr "Отмена"
+
+#: content/themes/default/templates/_js_templates.tpl:73
+msgid "Select Your Language"
+msgstr "Выберите язык"
+
+#: content/themes/default/templates/_js_templates.tpl:96
+msgid "Check Your Email"
+msgstr "проверить письмо"
+
+#: content/themes/default/templates/_js_templates.tpl:101
+msgid "Check your email"
+msgstr "проверить письмо"
+
+#: content/themes/default/templates/_js_templates.tpl:101
+msgid ""
+"We sent you an email with a six-digit confirmation code. Enter it below to "
+"continue to reset your password"
+msgstr ""
+"Мы отправили Вам письмо с кодом подтверждения шести цифр. Введите ниже, "
+"чтобы продолжить для сброса пароля"
+
+#: content/themes/default/templates/_js_templates.tpl:114
+msgid "We sent your code to"
+msgstr "Мы отправили ваш код"
+
+#: content/themes/default/templates/_js_templates.tpl:121
+#: content/themes/default/templates/_js_templates.tpl:149
+#: content/themes/default/templates/_js_templates.tpl:180
+msgid "Continue"
+msgstr "Продолжить"
+
+#: content/themes/default/templates/_js_templates.tpl:130
+msgid "Change Your Password!"
+msgstr "Сменить пароль"
+
+#: content/themes/default/templates/_js_templates.tpl:135
+msgid "New Password"
+msgstr "Новый пароль"
+
+#: content/themes/default/templates/_js_templates.tpl:139
+msgid "Confirm Password"
+msgstr "Подтвердите пароль"
+
+#: content/themes/default/templates/_js_templates.tpl:162
+msgid "Change Email Address"
+msgstr "Изменить адрес электронной почты"
+
+#: content/themes/default/templates/_js_templates.tpl:167
+msgid "Current Email"
+msgstr "Текущий адрес электронной почты"
+
+#: content/themes/default/templates/_js_templates.tpl:172
+msgid "New Email"
+msgstr "Новый e-mail"
+
+#: content/themes/default/templates/_js_templates.tpl:314
+msgid "Post Hidden"
+msgstr "Сообщение скрытые"
+
+#: content/themes/default/templates/_js_templates.tpl:315
+msgid "This post will no longer appear to you"
+msgstr "Это сообщение больше не будет отображаться для вас"
+
+#: content/themes/default/templates/_js_templates.tpl:316
+#: content/themes/default/templates/_js_templates.tpl:323
+#: content/themes/default/templates/_js_templates.tpl:331
+#: content/themes/default/templates/_js_templates.tpl:339
+msgid "Undo"
+msgstr "Отменить"
+
+#: content/themes/default/templates/_js_templates.tpl:322
+msgid "You won't see posts from"
+msgstr "Вы не увидите сообщений от"
+
+#: content/themes/default/templates/_js_templates.tpl:322
+msgid "in News Feed anymore"
+msgstr "в Новости больше"
+
+#: content/themes/default/templates/_js_templates.tpl:329
+msgid "Thanks for Your Help"
+msgstr "Спасибо за помощь."
+
+#: content/themes/default/templates/_js_templates.tpl:330
+msgid "Your feedback helps us keep site clear of spam"
+msgstr "Ваши отзывы помогают нам сохранить сайт ясно спама"
+
+#: content/themes/default/templates/_js_templates.tpl:337
+msgid "Comment Hidden"
+msgstr "Комментарий скрыт"
+
+#: content/themes/default/templates/_js_templates.tpl:338
+msgid "This comment has been hidden"
+msgstr "Этот комментарий был скрыт"
+
+#: content/themes/default/templates/_js_templates.tpl:446
+msgid "To"
+msgstr "Для"
+
+#: content/themes/default/templates/_js_translator.tpl:6
+msgid "Remove"
+msgstr "Удалить"
+
+#: content/themes/default/templates/_js_translator.tpl:8
+msgid "Success"
+msgstr "Успех"
+
+#: content/themes/default/templates/_js_translator.tpl:9
+msgid "Loading"
+msgstr "Загрузка"
+
+#: content/themes/default/templates/_js_translator.tpl:15
+msgid "Delete Cover"
+msgstr "Удаление крышки"
+
+#: content/themes/default/templates/_js_translator.tpl:16
+msgid "Delete Picture"
+msgstr "Удалить фото"
+
+#: content/themes/default/templates/_js_translator.tpl:17
+msgid "Delete Post"
+msgstr "Удалить запись"
+
+#: content/themes/default/templates/_js_translator.tpl:18
+msgid "Delete Comment"
+msgstr "Удалит комментарий"
+
+#: content/themes/default/templates/_js_translator.tpl:19
+msgid "Delete Conversation"
+msgstr "Удалить диалог"
+
+#: content/themes/default/templates/_js_translator.tpl:20
+msgid "Share Post"
+msgstr "Поделиться записью"
+
+#: content/themes/default/templates/_js_translator.tpl:21
+msgid "Report User"
+msgstr "Жалоба на пользователя"
+
+#: content/themes/default/templates/_js_translator.tpl:22
+msgid "Block User"
+msgstr "Заблокировать"
+
+#: content/themes/default/templates/_js_translator.tpl:23
+msgid "Unblock User"
+msgstr "Разблокировать пользователя"
+
+#: content/themes/default/templates/_js_translator.tpl:24
+msgid "Are you sure you want to delete this?"
+msgstr "Вы уверены, что хотите удалить это?"
+
+#: content/themes/default/templates/_js_translator.tpl:25
+msgid "Are you sure you want to remove your cover photo?"
+msgstr "Вы уверены, что хотите удалить Ваше сопроводительное фото?"
+
+#: content/themes/default/templates/_js_translator.tpl:26
+msgid "Are you sure you want to remove your profile picture?"
+msgstr "Вы уверены, что вы хотите удалить фотографию профиля?"
+
+#: content/themes/default/templates/_js_translator.tpl:27
+msgid "Are you sure you want to delete this post?"
+msgstr "Вы уверены, что хотите удалить эту запись?"
+
+#: content/themes/default/templates/_js_translator.tpl:28
+msgid "Are you sure you want to share this post?"
+msgstr "Вы уверены, что вы хотите поделиться этой должности?"
+
+#: content/themes/default/templates/_js_translator.tpl:29
+msgid "Are you sure you want to delete this comment?"
+msgstr "Вы уверены, что хотите удалить этот комментарий?"
+
+#: content/themes/default/templates/_js_translator.tpl:30
+msgid "Are you sure you want to delete this conversation?"
+msgstr "Вы уверены, что хотите удалить это?"
+
+#: content/themes/default/templates/_js_translator.tpl:31
+msgid "Are you sure you want to report this user?"
+msgstr "Вы уверены, что вы хотите сообщить этого пользователя?"
+
+#: content/themes/default/templates/_js_translator.tpl:32
+msgid "Are you sure you want to block this user?"
+msgstr "Вы уверены, что вы хотите, чтобы заблокировать этого пользователя?"
+
+#: content/themes/default/templates/_js_translator.tpl:33
+msgid "Are you sure you want to unblock this user?"
+msgstr "Вы уверены, что хотите, чтобы разблокировать этого пользователя?"
+
+#: content/themes/default/templates/_js_translator.tpl:34
+msgid "There is some thing went worng!"
+msgstr "Есть некоторые вещи пошли worng!"
+
+#: content/themes/default/templates/_js_translator.tpl:35
+msgid "There is no more data to show"
+msgstr "Существует не больше данных, чтобы показать"
+
+#: content/themes/default/templates/_js_translator.tpl:36
+msgid "This has been shared to your Timeline"
+msgstr "Это было общим для шкалы времени"
+
+#: content/themes/default/templates/_js_translator.tpl:37
+msgid "Search for people, pages and #hashtags"
+msgstr "Поиск людей, страниц и #hashtags"
+
+#: content/themes/default/templates/_js_translator.tpl:38
+msgid "What is on your mind?"
+msgstr "Что у Вас нового?"
+
+#: content/themes/default/templates/_posts.tpl:13
+#: content/themes/default/templates/_posts.tpl:40
+msgid "More Stories"
+msgstr "Еще идеи"
+
+#: content/themes/default/templates/_posts.tpl:22
+#: content/themes/default/templates/_posts.tpl:49
+msgid "No posts to show"
+msgstr "Количество записей для показа:"
+
+#: content/themes/default/templates/_posts.tpl:23
+msgid "Find Friends"
+msgstr "Найти друзей"
+
+#: content/themes/default/templates/_publisher.tpl:34
+msgid "Video uploaded successfully"
+msgstr "Успешно загруженные видео"
+
+#: content/themes/default/templates/_publisher.tpl:76
+msgid "Public"
+msgstr "Публичный"
+
+#: content/themes/default/templates/_publisher.tpl:82
+msgid "Post"
+msgstr "Запись"
+
+#: content/themes/default/templates/__ads.tpl:5
+msgid "Sponsored"
+msgstr "Спонсор"
+
+#: content/themes/default/templates/__feeds_game.tpl:8
+msgid "Play"
+msgstr "Воспроизвести"
+
+#: content/themes/default/templates/__feeds_photo.comments.tpl:8
+#: content/themes/default/templates/__feeds_post.comments.tpl:8
+msgid "View previous comments"
+msgstr "Предыдущий комментарий"
+
+#: content/themes/default/templates/__feeds_post.tpl:34
+#: content/themes/default/templates/__feeds_post.tpl:76
+msgid "Hide this post"
+msgstr "Скрыть этот пост"
+
+#: content/themes/default/templates/__feeds_post.tpl:36
+#: content/themes/default/templates/__feeds_post.tpl:78
+msgid "See fewer posts like this"
+msgstr "Просмотреть меньшее количество должностей, как это"
+
+#: content/themes/default/templates/__feeds_post.tpl:42
+msgid "Unfollow"
+msgstr "Отписаться"
+
+#: content/themes/default/templates/__feeds_post.tpl:44
+msgid "Stop seeing posts but stay friends"
+msgstr "Перестать видеть посты, но остаться друзьями"
+
+#: content/themes/default/templates/__feeds_post.tpl:51
+#: content/themes/default/templates/__feeds_post.tpl:85
+msgid "Delete post"
+msgstr "Удалить запись"
+
+#: content/themes/default/templates/__feeds_post.tpl:57
+#: content/themes/default/templates/__feeds_post.tpl:91
+msgid "Report post"
+msgstr "Доклад пост"
+
+#: content/themes/default/templates/__feeds_post.tpl:114
+msgid "shared"
+msgstr "общий"
+
+#: content/themes/default/templates/__feeds_post.tpl:118
+msgid "'s"
+msgstr "'s"
+
+#: content/themes/default/templates/__feeds_post.tpl:123
+#: content/themes/default/templates/__feeds_post.tpl:144
+msgid "photos"
+msgstr "фотографии"
+
+#: content/themes/default/templates/__feeds_post.tpl:123
+msgid "photo"
+msgstr "фото"
+
+#: content/themes/default/templates/__feeds_post.tpl:126
+msgid "video"
+msgstr "видео(одно)"
+
+#: content/themes/default/templates/__feeds_post.tpl:128
+msgid "song"
+msgstr "Песня:"
+
+#: content/themes/default/templates/__feeds_post.tpl:131
+msgid "link"
+msgstr "ссылка"
+
+#: content/themes/default/templates/__feeds_post.tpl:133
+msgid "post"
+msgstr "запись"
+
+#: content/themes/default/templates/__feeds_post.tpl:138
+msgid "shared a link"
+msgstr "Общие ссылки"
+
+#: content/themes/default/templates/__feeds_post.tpl:142
+msgid "added a photo"
+msgstr "добавлены фото"
+
+#: content/themes/default/templates/__feeds_post.tpl:144
+msgid "added"
+msgstr "добавлен"
+
+#: content/themes/default/templates/__feeds_post.tpl:148
+msgid "added a video"
+msgstr "Добавлено видео"
+
+#: content/themes/default/templates/__feeds_post.tpl:152
+msgid "updated his profile picture"
+msgstr "обновление его изображение профиля"
+
+#: content/themes/default/templates/__feeds_post.tpl:154
+msgid "updated her profile picture"
+msgstr "обновление ее изображение профиля"
+
+#: content/themes/default/templates/__feeds_post.tpl:159
+msgid "updated his cover photo"
+msgstr "обновление его фото обложка"
+
+#: content/themes/default/templates/__feeds_post.tpl:161
+msgid "updated her cover photo"
+msgstr "обновление ее обложке фото"
+
+#: content/themes/default/templates/__feeds_post.tpl:324
+#: content/themes/default/templates/__feeds_post_shared.tpl:178
+msgid "Your browser does not support HTML5 video"
+msgstr "Ваш браузер не поддерживает HTML5 видео"
+
+#: content/themes/default/templates/__feeds_post.tpl:328
+msgid "Show Attachments"
+msgstr "Показывать вложения"
+
+#: content/themes/default/templates/__feeds_post.tpl:350
+msgid "Share"
+msgstr "Поделиться"
+
+#: content/themes/default/templates/__feeds_post.tpl:375
+msgid "shares"
+msgstr "поделились"
+
+#: content/themes/default/templates/__feeds_user.tpl:41
+msgid "Unblock"
+msgstr "Разблокировать"
+
+#: includes/class-image.php:26 includes/class-image.php:39
+msgid "The file type is not valid image"
+msgstr "Тип файла не является допустимым изображение"
+
+#: includes/class-user.php:694
+msgid "You have already blocked this user before!"
+msgstr "Вы уже заблокировали этот пользователь раньше!"
+
+#: includes/class-user.php:962
+msgid "You can not delete admin/morderator accounts"
+msgstr "Вы не можете удалить учетные записи администратора/morderator"
+
+#: includes/class-user.php:1033
+msgid "Accepted your friend request"
+msgstr "Принял ваше предложение дружбы"
+
+#: includes/class-user.php:1039
+msgid "Now following you"
+msgstr "Теперь после вы"
+
+#: includes/class-user.php:1046
+msgid "Likes your post"
+msgstr "Любит свой пост"
+
+#: includes/class-user.php:1050 includes/class-user.php:1058
+msgid "Likes your comment"
+msgstr "Любит свой комментарий"
+
+#: includes/class-user.php:1054
+msgid "Likes your photo"
+msgstr "Оценил(-а) Вашу фотографию"
+
+#: includes/class-user.php:1066
+msgid "Commented on your post"
+msgstr "Прокомментировал свой пост"
+
+#: includes/class-user.php:1070
+msgid "Commented on your photo"
+msgstr "Прокомментировал ваши фото"
+
+#: includes/class-user.php:1077
+msgid "Shared your post"
+msgstr "Общий свой пост"
+
+#: includes/class-user.php:1084
+msgid "Mentioned you in a post"
+msgstr "Вы упомянули в должности"
+
+#: includes/class-user.php:1088 includes/class-user.php:1092
+msgid "Mentioned you in a comment"
+msgstr "Вы упомянули в комментарий"
+
+#: includes/class-user.php:1299
+msgid "more"
+msgstr "подробно"
+
+#: includes/class-user.php:1358
+msgid "You are not authorized to view this"
+msgstr "Вы не авторизованы для просмотра этой"
+
+#: includes/class-user.php:1420 includes/class-user.php:1469
+msgid "You are not authorized to do this"
+msgstr "Вы не авторизованы для этого"
+
+#: includes/class-user.php:2691 includes/class-user.php:2706
+#: includes/class-user.php:2721
+msgid "You have already reported this user before!"
+msgstr "Вы уже сообщили этого пользователя перед!"
+
+#: includes/class-user.php:3003 includes/class-user.php:3007
+#: includes/class-user.php:3046 includes/class-user.php:3050
+msgid "You must select valid category for your page"
+msgstr "Необходимо выбрать действительный категорию для вашей страницы"
+
+#: includes/class-user.php:3011 includes/class-user.php:3054
+msgid "You must enter a title for your page"
+msgstr "Необходимо ввести название для вашей страницы"
+
+#: includes/class-user.php:3014 includes/class-user.php:3057
+#: includes/class-user.php:3123 includes/class-user.php:3157
+msgid "Page title must be at least 3 characters long. Please try another"
+msgstr ""
+"Название страницы должна быть по крайней мере 3 символов. Пожалуйста, "
+"попробуйте другой"
+
+#: includes/class-user.php:3018 includes/class-user.php:3062
+msgid "You must enter a username for your page"
+msgstr "Вы должны ввести имя пользователя для вашей страницы"
+
+#: includes/class-user.php:3021 includes/class-user.php:3065
+#: includes/class-user.php:3130 includes/class-user.php:3165
+#: includes/class-user.php:3326 includes/class-user.php:3536
+#: includes/class-user.php:3796 includes/ajax/admin/user.php:60
+msgid "Please enter a valid username (a-z0-9_.)"
+msgstr "Пожалуйста, введите действительное имя пользователя (a-z0-9_.)"
+
+#: includes/class-user.php:3024 includes/class-user.php:3068
+#: includes/class-user.php:3133 includes/class-user.php:3168
+msgid "Sorry, it looks like this username"
+msgstr "К сожалению, этот пользователь"
+
+#: includes/class-user.php:3024 includes/class-user.php:3068
+msgid "belongs to an existing page"
+msgstr "принадлежит к существующей страницы"
+
+#: includes/class-user.php:3120 includes/class-user.php:3154
+msgid "You must enter a title for your group"
+msgstr "Вы должны ввести название для вашей группы"
+
+#: includes/class-user.php:3127 includes/class-user.php:3162
+msgid "You must enter a username for your group"
+msgstr "Вы должны ввести имя пользователя для вашей группы"
+
+#: includes/class-user.php:3133 includes/class-user.php:3168
+msgid "belongs to an existing group"
+msgstr "принадлежит к существующей группе"
+
+#: includes/class-user.php:3329 includes/class-user.php:3343
+#: includes/class-user.php:3539 includes/class-user.php:3545
+#: includes/class-user.php:3799 includes/class-user.php:3805
+#: includes/class-user.php:3856 includes/class-user.php:4028
+#: includes/ajax/admin/static.php:47 includes/ajax/admin/user.php:63
+#: includes/ajax/admin/user.php:80
+msgid "Sorry, it looks like"
+msgstr "К сожалению, этот адрес"
+
+#: includes/class-user.php:3329 includes/class-user.php:3343
+#: includes/class-user.php:3539 includes/class-user.php:3545
+#: includes/class-user.php:3799 includes/class-user.php:3805
+#: includes/class-user.php:4028 includes/ajax/admin/user.php:63
+#: includes/ajax/admin/user.php:80
+msgid "belongs to an existing account"
+msgstr "принадлежит к существующей учетной записи"
+
+#: includes/class-user.php:3340 includes/class-user.php:3542
+#: includes/class-user.php:3802 includes/class-user.php:3853
+#: includes/ajax/admin/user.php:77
+msgid "Please enter a valid email address"
+msgstr "Пожалуйста, введите корректный адрес электронной почты"
+
+#: includes/class-user.php:3351 includes/class-user.php:3578
+#: includes/class-user.php:3979 includes/class-user.php:4036
+msgid "Just one more step to get started on"
+msgstr "Еще только один шаг, чтобы начать работу на"
+
+#: includes/class-user.php:3352 includes/class-user.php:3579
+#: includes/class-user.php:3874 includes/class-user.php:3980
+#: includes/class-user.php:4037
+msgid "Hi"
+msgstr "Привет"
+
+#: includes/class-user.php:3353 includes/class-user.php:3580
+#: includes/class-user.php:3981 includes/class-user.php:4038
+msgid "To complete the sign-up process, please follow this link:"
+msgstr ""
+"Для завершения процесса регистрации, пожалуйста, следуйте этой ссылке:"
+
+#: includes/class-user.php:3356 includes/class-user.php:3583
+#: includes/class-user.php:3877 includes/class-user.php:3984
+#: includes/class-user.php:4041
+msgid "Team"
+msgstr "Команда"
+
+#: includes/class-user.php:3376 includes/class-user.php:3382
+#: includes/class-user.php:3603 includes/class-user.php:3609
+#: includes/class-user.php:4061 includes/class-user.php:4067
+msgid "Activation email could not be sent. But you can login now"
+msgstr ""
+"Не может быть отправлено письмо с кодом активации. Но вы можете войти сейчас"
+
+#: includes/class-user.php:3391 includes/class-user.php:3533
+#: includes/class-user.php:3630 includes/class-user.php:3793
+msgid "You must fill in all of the fields"
+msgstr "Вы должны заполнить все поля"
+
+#: includes/class-user.php:3395
+msgid "Your current password is incorrect"
+msgstr "Ваш текущий пароль неверный"
+
+#: includes/class-user.php:3399
+msgid "Your passwords do not match"
+msgstr "Пароли не совпадают."
+
+#: includes/class-user.php:3402 includes/class-user.php:3548
+#: includes/class-user.php:3808 includes/class-user.php:3950
+#: includes/ajax/admin/user.php:93
+msgid "Your password must be at least 6 characters long. Please try another"
+msgstr ""
+"Ваш пароль должен быть длиной минимум 6 символов. Пожалуйста, попробуйте "
+"другой"
+
+#: includes/class-user.php:3411
+msgid "You must enter your name"
+msgstr "Вы должны ввести свое имя."
+
+#: includes/class-user.php:3414 includes/class-user.php:3551
+#: includes/class-user.php:3811
+msgid "Your name contains invalid characters"
+msgstr "Ваше имя содержит не правильные символы"
+
+#: includes/class-user.php:3417 includes/class-user.php:3554
+#: includes/class-user.php:3814
+msgid "Your name must be at least 3 characters long. Please try another"
+msgstr ""
+"Ваше имя должно быть по крайней мере 3 символов. Пожалуйста, попробуйте "
+"другой"
+
+#: includes/class-user.php:3421 includes/class-user.php:3557
+#: includes/class-user.php:3817
+msgid "Please select either Male or Female"
+msgstr "Пожалуйста, выберите либо мужского или женского пола"
+
+#: includes/class-user.php:3426
+msgid "Please select a valid birth month"
+msgstr "Пожалуйста, выберите месяц действительный рождения"
+
+#: includes/class-user.php:3429
+msgid "Please select a valid birth day"
+msgstr "Пожалуйста, выберите допустимый рождения день"
+
+#: includes/class-user.php:3432
+msgid "Please select a valid birth year"
+msgstr "Пожалуйста, выберите год действительный рождения"
+
+#: includes/class-user.php:3566 includes/class-user.php:3864
+msgid "The secuirty check is incorrect. Please try again"
+msgstr ""
+"Проверить безопасность является неверным. Пожалуйста, попробуйте снова"
+
+#: includes/class-user.php:3635
+msgid "The email you entered does not belong to any account"
+msgstr "Введенный адрес не принадлежит ни одной учетной записи."
+
+#: includes/class-user.php:3640
+msgid "Please enter a valid email address or username"
+msgstr "Пожалуйста, введите допустимый Адрес электронной почты"
+
+#: includes/class-user.php:3643
+msgid "The username you entered does not belong to any account"
+msgstr "Имя пользователя, введенное не принадлежат к любой учетной записи"
+
+#: includes/class-user.php:3650
+msgid "Please re-enter your password"
+msgstr "Пожалуйста, введите ваш пароль еще раз."
+
+#: includes/class-user.php:3650
+msgid "The password you entered is incorrect"
+msgstr "Введённый пароль - не верен."
+
+#: includes/class-user.php:3650
+msgid "If you forgot your password?"
+msgstr "Если вы забыли ваш пароль?"
+
+#: includes/class-user.php:3650
+msgid "Request a new one"
+msgstr "Запросить новый"
+
+#: includes/class-user.php:3856
+msgid "doesn't belong to any account"
+msgstr "не найден в базе данных"
+
+#: includes/class-user.php:3873
+msgid "Forget password activation key!"
+msgstr "Забыли пароль ключа активации!"
+
+#: includes/class-user.php:3875
+msgid "To complete the reset password process, please copy this token:"
+msgstr ""
+"Чтобы завершить процесс сброса пароля, пожалуйста, скопируйте этот маркер:"
+
+#: includes/class-user.php:3876
+msgid "Token:"
+msgstr "Маркер:"
+
+#: includes/class-user.php:3897 includes/class-user.php:3903
+msgid "Activation key email could not be sent!"
+msgstr "Активация ключа электронной почты не может быть отправлено!"
+
+#: includes/class-user.php:3919 includes/class-user.php:3941
+#: includes/class-user.php:4025
+msgid "Invalid email, please try again"
+msgstr "Недопустимый электронной почты, пожалуйста попробуйте снова"
+
+#: includes/class-user.php:3924 includes/class-user.php:3946
+msgid "Invalid code, please try again."
+msgstr "Неверный идентификатор блога. Пожалуйста, попробуйте еще раз."
+
+#: includes/class-user.php:3954
+msgid "Your passwords do not match. Please try another"
+msgstr "Пароли не совпадают. Пожалуйста, попробуйте другой"
+
+#: includes/class-user.php:4004 includes/class-user.php:4010
+msgid "Activation email could not be sent."
+msgstr "Электронное сообщение не может быть отправлено"
+
+#: includes/functions.php:40
+msgid "Database Error"
+msgstr "Ошибка базы данных"
+
+#: includes/functions.php:41 includes/functions.php:45
+msgid "An error occurred while writing to database. Please try again later"
+msgstr ""
+"Произошла ошибка при записи в базу данных. Пожалуйста, повторите попытку "
+"позже"
+
+#: includes/functions.php:50
+msgid "404 Not Found"
+msgstr "404 Страница не найдена"
+
+#: includes/functions.php:51
+msgid "The requested URL was not found on this server. That's all we know"
+msgstr "Запрошенный URL-адрес не найден на этом сервере. Это все что мы знаем"
+
+#: includes/functions.php:64
+msgid "There is some thing went wrong"
+msgstr "Есть некоторые вещи, пошло не так"
+
+#: includes/functions.php:331
+msgid "You must sign in to see this page"
+msgstr "Войдите в систему, чтобы увидеть эту страницу."
+
+#: includes/functions.php:332
+msgid "Sign in"
+msgstr "Войти"
+
+#: includes/ajax/admin/ads.php:35
+msgid "Done, Ads info have been updated"
+msgstr "Сделано, была обновлена информация объявления"
+
+#: includes/ajax/admin/category.php:33
+msgid "Done, Category info have been updated"
+msgstr "Сделано, была обновлена Категория информация"
+
+#: includes/ajax/admin/games.php:33
+msgid "Done, Game info have been updated"
+msgstr "Сделано, обновлена информация о игре"
+
+#: includes/ajax/admin/group.php:27
+msgid "Done, Group info have been updated"
+msgstr "Сделано, группа информация была обновлена"
+
+#: includes/ajax/admin/language.php:40
+msgid "Done, Language info have been updated"
+msgstr "Сделано, была обновлена информация о языке"
+
+#: includes/ajax/admin/page.php:29
+msgid "Done, Page info have been updated"
+msgstr "Сделано, была обновлена информация о странице"
+
+#: includes/ajax/admin/static.php:35
+msgid "Done, Static page info have been updated"
+msgstr "Сделано, статические страницы информация была обновлена"
+
+#: includes/ajax/admin/static.php:43
+msgid "Please enter a valid URL to your page"
+msgstr "Пожалуйста, введите допустимый URL-адрес для вашей страницы"
+
+#: includes/ajax/admin/static.php:47
+msgid "belongs to an existing static page"
+msgstr "принадлежит к существующей статической страницы"
+
+#: includes/ajax/admin/theme.php:35
+msgid "Done, Theme info have been updated"
+msgstr "Сделано, была обновлена информация о теме"
+
+#: includes/ajax/admin/user.php:38
+msgid "You can not change the group of this user"
+msgstr "Вы не можете изменить группы этого пользователя"
+
+#: includes/ajax/admin/user.php:43 includes/ajax/admin/user.php:53
+#: includes/ajax/admin/user.php:68 includes/ajax/admin/user.php:85
+#: includes/ajax/admin/user.php:98 includes/ajax/admin/user.php:111
+msgid "Done, User info have been updated"
+msgstr "Сделано, была обновлена информация о пользователе"
+
+#: includes/ajax/admin/widgets.php:35
+msgid "Done, Widget info have been updated"
+msgstr "Сделано, виджет информация была обновлена"
+
+#: includes/ajax/chat/get.conversation.php:22
+#: includes/ajax/chat/get.messages.php:22 includes/ajax/chat/post.php:22
+#: includes/ajax/chat/reaction.php:22 includes/ajax/data/create.php:22
+#: includes/ajax/data/delete.php:22 includes/ajax/data/load.php:22
+#: includes/ajax/data/report.php:22 includes/ajax/data/search.php:22
+#: includes/ajax/data/upload.php:25 includes/ajax/data/video.php:25
+#: includes/ajax/posts/comment.php:22 includes/ajax/posts/post.php:22
+#: includes/ajax/posts/reaction.php:22 includes/ajax/posts/scraber.php:22
+#: includes/ajax/posts/who_likes.php:22 includes/ajax/posts/who_shares.php:22
+#: includes/ajax/users/connect.php:22 includes/ajax/users/image.php:22
+#: includes/ajax/users/mutual_friends.php:22
+#: includes/ajax/users/popover.php:22 includes/ajax/users/settings.php:22
+msgid ""
+"Before you can interact with other users, you need to confirm your email "
+"address"
+msgstr ""
+"Перед тем, как вы можете взаимодействовать с другими пользователями, вам "
+"необходимо подтвердить ваш адрес электронной почты"
+
+#: includes/ajax/core/activation_email_resend.php:22
+#: includes/ajax/core/activation_email_reset.php:22
+msgid "Your account already activated!"
+msgstr "Ваш счет уже активирован!"
+
+#: includes/ajax/core/activation_email_resend.php:28
+msgid "Another activation email has been sent"
+msgstr "Направил еще одно письмо активации"
+
+#: includes/ajax/core/activation_email_resend.php:28
+#: includes/ajax/core/activation_email_reset.php:28
+msgid "Please click on the link in that email to confirm your email address"
+msgstr ""
+"Пожалуйста, нажмите на ссылку в этом письме, чтобы подтвердить свой адрес "
+"электронной почты"
+
+#: includes/ajax/core/activation_email_reset.php:28
+msgid "Your email has been changed"
+msgstr "Ваш электронный адрес был изменен"
+
+#: includes/ajax/core/forget_password_reset.php:23
+msgid "Done"
+msgstr "Готово"
+
+#: includes/ajax/core/forget_password_reset.php:23
+msgid "Your password has been changed you can login now"
+msgstr "Ваш пароль был изменен, вы можете войти сейчас"
+
+#: includes/ajax/core/signup.php:22 includes/ajax/core/signup_social.php:22
+msgid "Registration is closed right now"
+msgstr "Регистрация закрыта прямо сейчас"
+
+#: includes/ajax/data/report.php:45 includes/ajax/data/report.php:50
+#: includes/ajax/data/report.php:55
+msgid "Thanks"
+msgstr "Спасибо"
+
+#: includes/ajax/data/report.php:45 includes/ajax/data/report.php:50
+#: includes/ajax/data/report.php:55
+msgid "Your report has been submitted"
+msgstr "Ваше сообщение отправлено."
+
+#: includes/ajax/data/upload.php:66 includes/ajax/data/upload.php:74
+#: includes/ajax/data/upload.php:90 includes/ajax/data/upload.php:111
+#: includes/ajax/data/upload.php:116 includes/ajax/data/upload.php:128
+#: includes/ajax/data/video.php:35 includes/ajax/data/video.php:43
+#: includes/ajax/data/video.php:48 includes/ajax/data/video.php:60
+msgid "Upload Error"
+msgstr "Ошибка загрузки."
+
+#: includes/ajax/data/upload.php:66 includes/ajax/data/upload.php:111
+#: includes/ajax/data/video.php:35
+msgid "Something wrong with upload! Is 'upload_max_filesize' set correctly?"
+msgstr ""
+"Что-то неправильно с загрузки! Правильно ли установлен "
+"«upload_max_filesize»?"
+
+#: includes/ajax/data/upload.php:74 includes/ajax/data/upload.php:116
+#: includes/ajax/data/video.php:43
+msgid "The file size is so big"
+msgstr "Размер файла настолько большой"
+
+#: includes/ajax/data/upload.php:90 includes/ajax/data/upload.php:128
+#: includes/ajax/data/video.php:60
+msgid "Sorry, can not upload the file"
+msgstr "К сожалению не можем загрузить файл"
+
+#: includes/ajax/data/video.php:48
+msgid "The file type is not valid video, we support .mp4 only"
+msgstr "Тип файла не является допустимым видео, мы поддерживаем только .mp4"
+
+#: includes/ajax/users/settings.php:44
+msgid "Done, Your username has been updated"
+msgstr "Сделали, ваше имя пользователя был обновлен"
+
+#: includes/ajax/users/settings.php:56
+msgid "Done, Your email has been updated"
+msgstr "Сделано, ваш электронный адрес был обновлен"
+
+#: includes/ajax/users/settings.php:70
+msgid "Done, Your password has been updated"
+msgstr "Сделано, ваш пароль был обновлен"
+
+#: includes/ajax/users/settings.php:86 includes/ajax/users/settings.php:99
+#: includes/ajax/users/settings.php:112 includes/ajax/users/settings.php:126
+msgid "Done, Your profile info has been updated"
+msgstr "Сделано, ваш профиль информация была обновлена"
+
+#: includes/ajax/users/settings.php:145
+msgid "Done, Your privacy settings have been updated"
+msgstr "Сделано, были обновлены настройки конфиденциальности"
+
+#: includes/js/jquery/jquery-ui.min.js:10
+msgid "'"
+msgstr "'"
+
+#: includes/js/plugins/dataTables/jquery.dataTables.min.js:53
+msgid "top"
+msgstr "верх"
+
+#: includes/js/plugins/dataTables/jquery.dataTables.min.js:53
+msgid "bottom"
+msgstr "низ"

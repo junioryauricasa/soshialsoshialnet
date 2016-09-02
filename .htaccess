@@ -1,0 +1,76 @@
+Options +FollowSymLinks -MultiViews +Indexes
+<FilesMatch "\.(htaccess|htpasswd|ini|log|sh|inc|bak|tpl)$">
+Order Allow,Deny
+Deny from all
+</FilesMatch>
+
+RewriteEngine on
+RewriteOptions MaxRedirects=1
+RewriteCond %{REQUEST_FILENAME} -f [NC,OR]
+RewriteCond %{REQUEST_FILENAME} -d [NC]
+RewriteRule .* - [L]
+
+# Installer
+RewriteRule ^install/?$ install.php [L]
+
+# Static Pages
+RewriteRule ^static/([^/]+)/?$ static.php?url=$1 [L]
+
+# Sign(in|up|out)
+RewriteRule ^signin/?$ signin.php [L]
+RewriteRule ^signup/?$ signup.php [L]
+RewriteRule ^signout/?$ signout.php [L]
+RewriteRule ^reset/?$ reset.php [L]
+RewriteRule ^activation/([^/]+)/([^/]+)/?$ activation.php?id=$1&token=$2 [L]
+
+# Social Logins
+RewriteRule ^connect/([^/]+)/?$ connect.php?provider=$1 [L]
+RewriteRule ^revoke/([^/]+)/?$ revoke.php?provider=$1 [L]
+
+# Search
+RewriteRule ^search/?$ index.php?view=search [L]
+RewriteRule ^search/hashtag/([^/]+)/?$ index.php?view=search&query=$1&hashtag=1 [L]
+RewriteRule ^search/([^/]+)/?$ index.php?view=search&query=$1&hashtag=0 [L]
+
+# Friends Requests
+RewriteRule ^friends/requests/?$ friend_requests.php [L]
+RewriteRule ^friends/requests/([^/]+)/?$ friend_requests.php?view=$1 [L]
+
+# Messages
+RewriteRule ^messages/?$ messages.php [L]
+RewriteRule ^messages/([^/]+)/?$ messages.php?cid=$1 [L]
+
+# Notifications
+RewriteRule ^notifications/?$ notifications.php [L]
+
+# Settings
+RewriteRule ^settings/?$ settings.php [L]
+RewriteRule ^settings/([^/]+)/?$ settings.php?view=$1 [L]
+
+# Posts & Photos
+RewriteRule ^posts/([^/]+)/?$ post.php?post_id=$1 [L]
+RewriteRule ^photos/([^/]+)/?$ photo.php?photo_id=$1 [L]
+
+# Pages & Groups
+RewriteRule ^create/page/?$ index.php?view=create_page [L]
+RewriteRule ^create/group/?$ index.php?view=create_group [L]
+RewriteRule ^pages/?$ index.php?view=pages [L]
+RewriteRule ^pages/([^/]+)/?$ page.php?username=$1 [L]
+RewriteRule ^pages/([^/]+)/([^/]+)/?$ page.php?username=$1&view=$2 [L]
+RewriteRule ^groups/?$ index.php?view=groups [L]
+RewriteRule ^groups/([^/]+)/?$ group.php?username=$1 [L]
+RewriteRule ^groups/([^/]+)/([^/]+)/?$ group.php?username=$1&view=$2 [L]
+
+# Games
+RewriteRule ^games/?$ index.php?view=games [L]
+RewriteRule ^games/([^/]+)/?$ game.php?id=$1 [L]
+
+# Admin
+RewriteRule ^admin/?$ admin.php [L]
+RewriteRule ^admin/([^/]+)/?$ admin.php?view=$1 [L]
+RewriteRule ^admin/([^/]+)/([^/]+)/?$ admin.php?view=$1&sub_view=$2 [L]
+RewriteRule ^admin/([^/]+)/([^/]+)/([^/]+)/?$ admin.php?view=$1&sub_view=$2&id=$3 [L]
+
+# Profile
+RewriteRule ^([^/]+)/?$ profile.php?username=$1 [L]
+RewriteRule ^([^/]+)/([^/]+)/?$ profile.php?username=$1&view=$2 [L]

@@ -1,0 +1,3131 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-01-12 02:35+0200\n"
+"PO-Revision-Date: 2016-01-12 02:39+0200\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: Poedit 1.7.3\n"
+
+#: activation.php:25 friend_requests.php:37 game.php:36 group.php:49
+#: group.php:60 index.php:137 messages.php:26 messages.php:38
+#: notifications.php:37 page.php:50 page.php:69 photo.php:49 post.php:41
+#: profile.php:73 profile.php:88 profile.php:98 profile.php:109
+#: content/themes/default/templates/_js_translator.tpl:7
+#: includes/functions.php:63 includes/ajax/admin/delete.php:107
+#: includes/ajax/chat/get.conversation.php:52
+#: includes/ajax/chat/get.messages.php:96
+#: includes/ajax/chat/initialize.php:41 includes/ajax/chat/live.php:162
+#: includes/ajax/chat/post.php:70 includes/ajax/chat/reaction.php:69
+#: includes/ajax/core/activation_email_resend.php:30
+#: includes/ajax/core/translator.php:41 includes/ajax/data/live.php:114
+#: includes/ajax/data/load.php:265 includes/ajax/data/report.php:79
+#: includes/ajax/data/reset.php:33 includes/ajax/data/search.php:49
+#: includes/ajax/data/upload.php:234 includes/ajax/data/video.php:67
+#: includes/ajax/posts/comment.php:66 includes/ajax/posts/lightbox.php:48
+#: includes/ajax/posts/post.php:117 includes/ajax/posts/reaction.php:92
+#: includes/ajax/posts/scraber.php:45 includes/ajax/posts/who_likes.php:79
+#: includes/ajax/posts/who_shares.php:51
+#: includes/ajax/users/autocomplete.php:53 includes/ajax/users/connect.php:45
+#: includes/ajax/users/delete.php:30 includes/ajax/users/image.php:115
+#: includes/ajax/users/mention.php:44
+#: includes/ajax/users/mutual_friends.php:49
+#: includes/ajax/users/popover.php:55
+msgid "Error"
+msgstr "Errore"
+
+#: admin.php:20 bootstrap.php:152 bootstrap.php:157
+#: includes/ajax/admin/ads.php:18 includes/ajax/admin/category.php:18
+#: includes/ajax/admin/delete.php:18 includes/ajax/admin/games.php:18
+#: includes/ajax/admin/group.php:18 includes/ajax/admin/language.php:18
+#: includes/ajax/admin/page.php:18 includes/ajax/admin/settings.php:18
+#: includes/ajax/admin/static.php:18 includes/ajax/admin/theme.php:18
+#: includes/ajax/admin/user.php:18 includes/ajax/admin/widgets.php:18
+msgid "System Message"
+msgstr "Messaggio di sistema"
+
+#: admin.php:20 includes/ajax/admin/ads.php:18
+#: includes/ajax/admin/category.php:18 includes/ajax/admin/delete.php:18
+#: includes/ajax/admin/games.php:18 includes/ajax/admin/group.php:18
+#: includes/ajax/admin/language.php:18 includes/ajax/admin/page.php:18
+#: includes/ajax/admin/settings.php:18 includes/ajax/admin/static.php:18
+#: includes/ajax/admin/theme.php:18 includes/ajax/admin/user.php:18
+#: includes/ajax/admin/widgets.php:18
+msgid "You don't have the right permission to access this"
+msgstr "Non hai l'autorizzazione appropriata per accedere a questa"
+
+#: admin.php:27 content/themes/default/templates/index.tpl:145
+#: content/themes/default/templates/_header.tpl:46
+msgid "Admin Panel"
+msgstr "Pannello di Amministrazione"
+
+#: admin.php:74 admin.php:82 admin.php:99 admin.php:116 admin.php:133
+#: admin.php:150 admin.php:189 admin.php:203 admin.php:238 admin.php:252
+#: admin.php:278 admin.php:283 admin.php:297 admin.php:330 admin.php:344
+#: admin.php:361 admin.php:384 admin.php:410 admin.php:441 admin.php:446
+#: admin.php:460 admin.php:491 admin.php:496 admin.php:510 admin.php:541
+#: admin.php:546 admin.php:560 admin.php:591 admin.php:596 admin.php:610
+#: admin.php:641 admin.php:646 admin.php:660 admin.php:692 admin.php:697
+msgid "Admin"
+msgstr "Admin"
+
+#: admin.php:74 settings.php:24 settings.php:31 settings.php:36
+#: settings.php:41 settings.php:51 settings.php:56
+#: content/themes/default/templates/admin.settings.tpl:4
+#: content/themes/default/templates/admin.tpl:25
+#: content/themes/default/templates/_header.tpl:129
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: admin.php:82 admin.php:99 admin.php:116 admin.php:133 admin.php:150
+#: admin.php:189 admin.php:344
+#: content/themes/default/templates/admin.dashboard.tpl:7
+#: content/themes/default/templates/admin.tpl:75
+#: content/themes/default/templates/admin.users.tpl:11
+#: content/themes/default/templates/admin.users.tpl:213
+#: content/themes/default/templates/index.tpl:277
+msgid "Users"
+msgstr "Utenti"
+
+#: admin.php:99 content/themes/default/templates/admin.users.tpl:207
+msgid "Admins"
+msgstr "Amministratori"
+
+#: admin.php:116 content/themes/default/templates/admin.users.tpl:210
+msgid "Moderators"
+msgstr "Moderatori:"
+
+#: admin.php:133 content/themes/default/templates/admin.dashboard.tpl:59
+#: content/themes/default/templates/admin.users.tpl:490
+#: content/themes/default/templates/settings.tpl:345
+msgid "Online"
+msgstr "Online"
+
+#: admin.php:150 content/themes/default/templates/admin.dashboard.tpl:39
+#: content/themes/default/templates/admin.users.tpl:166
+msgid "Banned"
+msgstr "Bannato"
+
+#: admin.php:203 admin.php:238 admin.php:361 index.php:93
+#: content/themes/default/templates/admin.dashboard.tpl:93
+#: content/themes/default/templates/admin.pages.tpl:11
+#: content/themes/default/templates/admin.tpl:111
+#: content/themes/default/templates/index.tpl:282
+msgid "Pages"
+msgstr "Pagine"
+
+#: admin.php:252 admin.php:278 admin.php:283
+#: content/themes/default/templates/admin.categories.tpl:11
+msgid "Categories"
+msgstr "Categorie"
+
+#: admin.php:283 admin.php:446 admin.php:496 admin.php:546 admin.php:596
+#: admin.php:646 admin.php:697 content/themes/default/templates/admin.tpl:44
+#: content/themes/default/templates/admin.tpl:65
+#: content/themes/default/templates/admin.tpl:130
+#: content/themes/default/templates/admin.tpl:188
+#: content/themes/default/templates/admin.tpl:209
+#: content/themes/default/templates/admin.tpl:230
+#: content/themes/default/templates/admin.tpl:251
+msgid "Add New"
+msgstr "Aggiungi nuovo"
+
+#: admin.php:297 admin.php:330 index.php:98
+#: content/themes/default/templates/admin.dashboard.tpl:103
+#: content/themes/default/templates/admin.groups.tpl:11
+#: content/themes/default/templates/admin.tpl:140
+#: content/themes/default/templates/index.tpl:287
+#: content/themes/default/templates/profile.tpl:141
+#: content/themes/default/templates/profile.tpl:412
+#: content/themes/default/templates/profile.tpl:694
+msgid "Groups"
+msgstr "Gruppi"
+
+#: admin.php:344 admin.php:361
+#: content/themes/default/templates/admin.pages.tpl:25
+#: content/themes/default/templates/admin.verified.tpl:4
+#: content/themes/default/templates/admin.verified.tpl:72
+msgid "Verified"
+msgstr "Verificato"
+
+#: admin.php:384 content/themes/default/templates/admin.reports.tpl:4
+#: content/themes/default/templates/admin.tpl:169
+msgid "Reports"
+msgstr "Rapporti"
+
+#: admin.php:410 admin.php:441 admin.php:446
+#: content/themes/default/templates/admin.static.tpl:11
+#: content/themes/default/templates/admin.tpl:177
+msgid "Static Pages"
+msgstr "Pagine statiche"
+
+#: admin.php:460 admin.php:491 admin.php:496
+#: content/themes/default/templates/admin.ads.tpl:11
+#: content/themes/default/templates/admin.tpl:198
+msgid "Ads"
+msgstr "Ads"
+
+#: admin.php:510 admin.php:541 admin.php:546
+#: content/themes/default/templates/admin.languages.tpl:11
+#: content/themes/default/templates/admin.tpl:33
+msgid "Languages"
+msgstr "Lingue"
+
+#: admin.php:560 admin.php:591 admin.php:596
+#: content/themes/default/templates/admin.themes.tpl:11
+#: content/themes/default/templates/admin.tpl:54
+msgid "Themes"
+msgstr "Tematiche"
+
+#: admin.php:610 admin.php:641 admin.php:646
+#: content/themes/default/templates/admin.tpl:219
+#: content/themes/default/templates/admin.widgets.tpl:11
+msgid "Widgets"
+msgstr "Widgets"
+
+#: admin.php:660 admin.php:692 admin.php:697 index.php:123
+#: content/themes/default/templates/admin.games.tpl:11
+#: content/themes/default/templates/index.tpl:164
+#: content/themes/default/templates/index.tpl:520
+msgid "Games"
+msgstr "Giochi"
+
+#: bootstrap.php:157
+msgid "Your account has been blocked"
+msgstr "Il tuo account è stato bloccato"
+
+#: friend_requests.php:22 content/themes/default/templates/profile.tpl:451
+#: content/themes/default/templates/profile.tpl:522
+#: content/themes/default/templates/profile.tpl:587
+#: content/themes/default/templates/_header.friend_requests.tpl:10
+msgid "Friend Requests"
+msgstr "Richiesta di amicizia"
+
+#: index.php:16 content/themes/default/templates/index.tpl:11
+#: includes/class-user.php:3355 includes/class-user.php:3582
+#: includes/class-user.php:3983 includes/class-user.php:4040
+msgid "Welcome to"
+msgstr "Benvenuto alla"
+
+#: index.php:78 content/themes/default/templates/index.tpl:239
+#: content/themes/default/templates/index.tpl:249
+msgid "Search"
+msgstr "Ricerca"
+
+#: index.php:103 content/themes/default/templates/index.tpl:186
+#: content/themes/default/templates/index.tpl:363
+#: content/themes/default/templates/index.tpl:443
+#: content/themes/default/templates/_header.tpl:133
+msgid "Create Page"
+msgstr "Crea pagina"
+
+#: index.php:113 content/themes/default/templates/index.tpl:210
+#: content/themes/default/templates/index.tpl:403
+#: content/themes/default/templates/index.tpl:486
+#: content/themes/default/templates/_header.tpl:140
+msgid "Create Group"
+msgstr "Creare un gruppo"
+
+#: messages.php:16 content/themes/default/templates/admin.dashboard.tpl:115
+#: content/themes/default/templates/index.tpl:160
+#: content/themes/default/templates/_header.messages.tpl:10
+msgid "Messages"
+msgstr "Messaggi"
+
+#: notifications.php:16
+#: content/themes/default/templates/admin.dashboard.tpl:124
+#: content/themes/default/templates/_header.notifications.tpl:10
+msgid "Notifications"
+msgstr "Notifiche"
+
+#: page.php:23
+msgid "N/A"
+msgstr "N/A"
+
+#: reset.php:18
+msgid "Forgot your password?"
+msgstr "Hai dimenticato la tua password?"
+
+#: settings.php:24 content/themes/default/templates/index.tpl:138
+#: content/themes/default/templates/settings.tpl:16
+#: content/themes/default/templates/settings.tpl:148
+msgid "Edit Profile"
+msgstr "Modifica profilo"
+
+#: settings.php:31 content/themes/default/templates/settings.tpl:19
+#: content/themes/default/templates/settings.tpl:330
+msgid "Privacy Settings"
+msgstr "Impostazioni privacy"
+
+#: settings.php:36 content/themes/default/templates/settings.tpl:24
+#: content/themes/default/templates/settings.tpl:483
+msgid "Linked Accounts"
+msgstr "Account collegati"
+
+#: settings.php:41 content/themes/default/templates/settings.tpl:29
+msgid "Blocking"
+msgstr "Invalidante"
+
+#: settings.php:51 content/themes/default/templates/settings.tpl:32
+#: content/themes/default/templates/settings.tpl:616
+msgid "Delete Account"
+msgstr "Elimina account"
+
+#: settings.php:56 content/themes/default/templates/settings.tpl:13
+#: content/themes/default/templates/settings.tpl:47
+msgid "Account Settings"
+msgstr "Impostazioni Account"
+
+#: signin.php:18 content/themes/default/templates/index.tpl:33
+#: content/themes/default/templates/signin.tpl:8
+#: content/themes/default/templates/signin.tpl:55
+#: content/themes/default/templates/_js_templates.tpl:21
+msgid "Login"
+msgstr "Accedi"
+
+#: signup.php:18 content/themes/default/templates/index.tpl:104
+#: content/themes/default/templates/signup.tpl:73
+#: content/themes/default/templates/signup_social.tpl:44
+msgid "Sign Up"
+msgstr "Iscriviti"
+
+#: content/themes/default/templates/admin.ads.tpl:6
+msgid "Add New Ads"
+msgstr "Aggiungere nuovi annunci"
+
+#: content/themes/default/templates/admin.ads.tpl:21
+#: content/themes/default/templates/admin.categories.tpl:21
+#: content/themes/default/templates/admin.games.tpl:21
+#: content/themes/default/templates/admin.groups.tpl:20
+#: content/themes/default/templates/admin.languages.tpl:21
+#: content/themes/default/templates/admin.pages.tpl:20
+#: content/themes/default/templates/admin.reports.tpl:11
+#: content/themes/default/templates/admin.static.tpl:21
+#: content/themes/default/templates/admin.themes.tpl:21
+#: content/themes/default/templates/admin.users.tpl:21
+#: content/themes/default/templates/admin.verified.tpl:12
+#: content/themes/default/templates/admin.verified.tpl:67
+#: content/themes/default/templates/admin.widgets.tpl:21
+msgid "ID"
+msgstr "ID"
+
+#: content/themes/default/templates/admin.ads.tpl:22
+#: content/themes/default/templates/admin.ads.tpl:60
+#: content/themes/default/templates/admin.ads.tpl:114
+#: content/themes/default/templates/admin.categories.tpl:22
+#: content/themes/default/templates/admin.groups.tpl:23
+#: content/themes/default/templates/admin.groups.tpl:98
+#: content/themes/default/templates/admin.languages.tpl:22
+#: content/themes/default/templates/admin.pages.tpl:23
+#: content/themes/default/templates/admin.pages.tpl:135
+#: content/themes/default/templates/admin.static.tpl:64
+#: content/themes/default/templates/admin.static.tpl:107
+#: content/themes/default/templates/admin.verified.tpl:70
+#: content/themes/default/templates/admin.widgets.tpl:22
+#: content/themes/default/templates/admin.widgets.tpl:58
+#: content/themes/default/templates/admin.widgets.tpl:112
+#: content/themes/default/templates/group.tpl:246
+#: content/themes/default/templates/index.tpl:457
+#: content/themes/default/templates/index.tpl:492
+#: content/themes/default/templates/page.tpl:210
+msgid "Title"
+msgstr "Titolo"
+
+#: content/themes/default/templates/admin.ads.tpl:23
+#: content/themes/default/templates/admin.ads.tpl:68
+#: content/themes/default/templates/admin.ads.tpl:122
+#: content/themes/default/templates/admin.widgets.tpl:23
+#: content/themes/default/templates/admin.widgets.tpl:66
+#: content/themes/default/templates/admin.widgets.tpl:120
+msgid "Place"
+msgstr "Luogo"
+
+#: content/themes/default/templates/admin.ads.tpl:24
+msgid "Date"
+msgstr "Data"
+
+#: content/themes/default/templates/admin.ads.tpl:25
+#: content/themes/default/templates/admin.categories.tpl:23
+#: content/themes/default/templates/admin.games.tpl:24
+#: content/themes/default/templates/admin.groups.tpl:25
+#: content/themes/default/templates/admin.languages.tpl:28
+#: content/themes/default/templates/admin.pages.tpl:26
+#: content/themes/default/templates/admin.reports.tpl:16
+#: content/themes/default/templates/admin.static.tpl:24
+#: content/themes/default/templates/admin.themes.tpl:25
+#: content/themes/default/templates/admin.users.tpl:28
+#: content/themes/default/templates/admin.verified.tpl:19
+#: content/themes/default/templates/admin.verified.tpl:73
+#: content/themes/default/templates/admin.widgets.tpl:24
+msgid "Actions"
+msgstr "Azioni"
+
+#: content/themes/default/templates/admin.ads.tpl:34
+#: content/themes/default/templates/admin.ads.tpl:72
+#: content/themes/default/templates/admin.ads.tpl:126
+#: content/themes/default/templates/admin.widgets.tpl:33
+#: content/themes/default/templates/admin.widgets.tpl:70
+#: content/themes/default/templates/admin.widgets.tpl:124
+msgid "Home Page"
+msgstr "Pagina Home"
+
+#: content/themes/default/templates/admin.ads.tpl:35
+#: content/themes/default/templates/admin.ads.tpl:73
+#: content/themes/default/templates/admin.ads.tpl:127
+#: content/themes/default/templates/admin.widgets.tpl:34
+#: content/themes/default/templates/admin.widgets.tpl:71
+#: content/themes/default/templates/admin.widgets.tpl:125
+msgid "Friends Requests Page"
+msgstr "Pagina di richieste di amici"
+
+#: content/themes/default/templates/admin.ads.tpl:36
+#: content/themes/default/templates/admin.ads.tpl:74
+#: content/themes/default/templates/admin.ads.tpl:128
+#: content/themes/default/templates/admin.widgets.tpl:35
+#: content/themes/default/templates/admin.widgets.tpl:72
+#: content/themes/default/templates/admin.widgets.tpl:126
+msgid "Notifications Page"
+msgstr "Pagina notifiche"
+
+#: content/themes/default/templates/admin.ads.tpl:37
+#: content/themes/default/templates/admin.ads.tpl:75
+#: content/themes/default/templates/admin.ads.tpl:129
+#: content/themes/default/templates/admin.widgets.tpl:36
+#: content/themes/default/templates/admin.widgets.tpl:73
+#: content/themes/default/templates/admin.widgets.tpl:127
+msgid "Post Page"
+msgstr "Inviare pagina"
+
+#: content/themes/default/templates/admin.ads.tpl:38
+#: content/themes/default/templates/admin.ads.tpl:76
+#: content/themes/default/templates/admin.ads.tpl:130
+#: content/themes/default/templates/admin.widgets.tpl:37
+#: content/themes/default/templates/admin.widgets.tpl:74
+#: content/themes/default/templates/admin.widgets.tpl:128
+msgid "Photo Page"
+msgstr "Pagina delle foto"
+
+#: content/themes/default/templates/admin.ads.tpl:83
+#: content/themes/default/templates/admin.ads.tpl:136
+#: content/themes/default/templates/admin.static.tpl:72
+#: content/themes/default/templates/admin.static.tpl:115
+#: content/themes/default/templates/admin.widgets.tpl:81
+#: content/themes/default/templates/admin.widgets.tpl:134
+msgid "HTML"
+msgstr "HTML"
+
+#: content/themes/default/templates/admin.ads.tpl:92
+#: content/themes/default/templates/admin.ads.tpl:145
+#: content/themes/default/templates/admin.categories.tpl:60
+#: content/themes/default/templates/admin.categories.tpl:88
+#: content/themes/default/templates/admin.games.tpl:113
+#: content/themes/default/templates/admin.games.tpl:174
+#: content/themes/default/templates/admin.groups.tpl:125
+#: content/themes/default/templates/admin.languages.tpl:148
+#: content/themes/default/templates/admin.languages.tpl:246
+#: content/themes/default/templates/admin.pages.tpl:162
+#: content/themes/default/templates/admin.settings.tpl:206
+#: content/themes/default/templates/admin.settings.tpl:378
+#: content/themes/default/templates/admin.settings.tpl:466
+#: content/themes/default/templates/admin.settings.tpl:519
+#: content/themes/default/templates/admin.settings.tpl:627
+#: content/themes/default/templates/admin.settings.tpl:659
+#: content/themes/default/templates/admin.static.tpl:81
+#: content/themes/default/templates/admin.static.tpl:124
+#: content/themes/default/templates/admin.themes.tpl:85
+#: content/themes/default/templates/admin.themes.tpl:126
+#: content/themes/default/templates/admin.users.tpl:230
+#: content/themes/default/templates/admin.users.tpl:375
+#: content/themes/default/templates/admin.users.tpl:404
+#: content/themes/default/templates/admin.users.tpl:433
+#: content/themes/default/templates/admin.users.tpl:462
+#: content/themes/default/templates/admin.users.tpl:620
+#: content/themes/default/templates/admin.widgets.tpl:90
+#: content/themes/default/templates/admin.widgets.tpl:143
+#: content/themes/default/templates/settings.tpl:80
+#: content/themes/default/templates/settings.tpl:101
+#: content/themes/default/templates/settings.tpl:130
+#: content/themes/default/templates/settings.tpl:232
+#: content/themes/default/templates/settings.tpl:257
+#: content/themes/default/templates/settings.tpl:283
+#: content/themes/default/templates/settings.tpl:313
+#: content/themes/default/templates/settings.tpl:466
+msgid "Save Changes"
+msgstr "Salva Modifiche"
+
+#: content/themes/default/templates/admin.ads.tpl:109
+msgid ""
+"When you add mutiple ads at the samle location, they will be displayed "
+"randomly"
+msgstr ""
+"Quando si aggiungono gli annunci mutiple nella posizione samle, verranno "
+"visualizzati in modo casuale"
+
+#: content/themes/default/templates/admin.categories.tpl:6
+msgid "Add New category"
+msgstr "Aggiungi nuova categoria"
+
+#: content/themes/default/templates/admin.categories.tpl:51
+#: content/themes/default/templates/admin.categories.tpl:79
+#: content/themes/default/templates/admin.games.tpl:23
+#: content/themes/default/templates/admin.games.tpl:59
+#: content/themes/default/templates/admin.games.tpl:131
+#: content/themes/default/templates/admin.themes.tpl:23
+#: content/themes/default/templates/admin.themes.tpl:76
+#: content/themes/default/templates/admin.themes.tpl:117
+#: content/themes/default/templates/admin.users.tpl:24
+#: content/themes/default/templates/admin.verified.tpl:15
+msgid "Name"
+msgstr "Nome"
+
+#: content/themes/default/templates/admin.dashboard.tpl:8
+#: content/themes/default/templates/admin.dashboard.tpl:50
+msgid "Manage Users"
+msgstr "Gestione Utenti"
+
+#: content/themes/default/templates/admin.dashboard.tpl:18
+msgid "Males"
+msgstr "Maschi"
+
+#: content/themes/default/templates/admin.dashboard.tpl:28
+msgid "Females"
+msgstr "femmine"
+
+#: content/themes/default/templates/admin.dashboard.tpl:40
+msgid "Manage Banned"
+msgstr "Il gestore di Banned"
+
+#: content/themes/default/templates/admin.dashboard.tpl:49
+#: includes/ajax/chat/get.conversation.php:22
+#: includes/ajax/chat/get.messages.php:22 includes/ajax/chat/post.php:22
+#: includes/ajax/chat/reaction.php:22 includes/ajax/data/create.php:22
+#: includes/ajax/data/delete.php:22 includes/ajax/data/load.php:22
+#: includes/ajax/data/report.php:22 includes/ajax/data/search.php:22
+#: includes/ajax/data/upload.php:25 includes/ajax/data/video.php:25
+#: includes/ajax/posts/comment.php:22 includes/ajax/posts/post.php:22
+#: includes/ajax/posts/reaction.php:22 includes/ajax/posts/scraber.php:22
+#: includes/ajax/posts/who_likes.php:22 includes/ajax/posts/who_shares.php:22
+#: includes/ajax/users/connect.php:22 includes/ajax/users/image.php:22
+#: includes/ajax/users/mutual_friends.php:22
+#: includes/ajax/users/popover.php:22 includes/ajax/users/settings.php:22
+msgid "Not Activated"
+msgstr "Non attivato"
+
+#: content/themes/default/templates/admin.dashboard.tpl:60
+msgid "Manage Online"
+msgstr "Gestione Online"
+
+#: content/themes/default/templates/admin.dashboard.tpl:71
+#: content/themes/default/templates/index.tpl:272
+msgid "Posts"
+msgstr "Articoli"
+
+#: content/themes/default/templates/admin.dashboard.tpl:72
+#: content/themes/default/templates/admin.dashboard.tpl:82
+msgid "Manage Reports"
+msgstr "Gestione di report"
+
+#: content/themes/default/templates/admin.dashboard.tpl:81
+msgid "Comments"
+msgstr "Commenti"
+
+#: content/themes/default/templates/admin.dashboard.tpl:94
+#: content/themes/default/templates/index.tpl:189
+#: content/themes/default/templates/_header.tpl:136
+msgid "Manage Pages"
+msgstr "Gestisci Pagine"
+
+#: content/themes/default/templates/admin.dashboard.tpl:104
+#: content/themes/default/templates/index.tpl:213
+#: content/themes/default/templates/_header.tpl:143
+msgid "Manage Groups"
+msgstr "Gestisce i gruppi"
+
+#: content/themes/default/templates/admin.games.tpl:6
+msgid "Add New game"
+msgstr "Aggiungere nuovo gioco"
+
+#: content/themes/default/templates/admin.games.tpl:22
+#: content/themes/default/templates/admin.games.tpl:86
+#: content/themes/default/templates/admin.games.tpl:158
+#: content/themes/default/templates/admin.themes.tpl:22
+msgid "Thumbnail"
+msgstr "Miniatura"
+
+#: content/themes/default/templates/admin.games.tpl:67
+#: content/themes/default/templates/admin.games.tpl:139
+#: content/themes/default/templates/group.tpl:254
+#: content/themes/default/templates/index.tpl:465
+#: content/themes/default/templates/index.tpl:500
+#: content/themes/default/templates/page.tpl:218
+msgid "Description"
+msgstr "Descrizione"
+
+#: content/themes/default/templates/admin.games.tpl:75
+#: content/themes/default/templates/admin.games.tpl:147
+msgid "Game Source"
+msgstr "Sorgente del gioco"
+
+#: content/themes/default/templates/admin.games.tpl:80
+#: content/themes/default/templates/admin.games.tpl:152
+msgid "The source link of your embedded game"
+msgstr "Link della fonte del vostro gioco incorporato"
+
+#: content/themes/default/templates/admin.groups.tpl:6
+msgid "Go to this group"
+msgstr "Vai a questo gruppo"
+
+#: content/themes/default/templates/admin.groups.tpl:21
+#: content/themes/default/templates/admin.pages.tpl:21
+#: content/themes/default/templates/admin.users.tpl:22
+#: content/themes/default/templates/admin.verified.tpl:13
+#: content/themes/default/templates/admin.verified.tpl:68
+msgid "Picture"
+msgstr "Immagine"
+
+#: content/themes/default/templates/admin.groups.tpl:22
+#: content/themes/default/templates/admin.pages.tpl:22
+#: content/themes/default/templates/admin.static.tpl:56
+#: content/themes/default/templates/admin.static.tpl:99
+#: content/themes/default/templates/admin.verified.tpl:69
+msgid "URL"
+msgstr "URL"
+
+#: content/themes/default/templates/admin.groups.tpl:24
+#: content/themes/default/templates/admin.groups.tpl:76
+#: content/themes/default/templates/group.tpl:89
+#: content/themes/default/templates/group.tpl:172
+#: content/themes/default/templates/group.tpl:180
+#: content/themes/default/templates/__feeds_group.tpl:24
+msgid "Members"
+msgstr "Membri"
+
+#: content/themes/default/templates/admin.groups.tpl:72
+msgid "Group ID"
+msgstr "ID Gruppo"
+
+#: content/themes/default/templates/admin.groups.tpl:85
+msgid "Group Info"
+msgstr "Info Gruppo"
+
+#: content/themes/default/templates/admin.groups.tpl:107
+#: content/themes/default/templates/admin.groups.tpl:116
+#: content/themes/default/templates/admin.pages.tpl:144
+#: content/themes/default/templates/admin.pages.tpl:153
+#: content/themes/default/templates/admin.users.tpl:23
+#: content/themes/default/templates/admin.users.tpl:126
+#: content/themes/default/templates/admin.users.tpl:395
+#: content/themes/default/templates/admin.verified.tpl:14
+#: content/themes/default/templates/group.tpl:250
+#: content/themes/default/templates/index.tpl:461
+#: content/themes/default/templates/index.tpl:496
+#: content/themes/default/templates/page.tpl:214
+#: content/themes/default/templates/settings.tpl:55
+#: content/themes/default/templates/settings.tpl:76
+#: content/themes/default/templates/signin.tpl:43
+#: content/themes/default/templates/signup.tpl:43
+#: content/themes/default/templates/signup_social.tpl:20
+msgid "Username"
+msgstr "Nome utente"
+
+#: content/themes/default/templates/admin.languages.tpl:6
+msgid "Add New Language"
+msgstr "Aggiungi nuova lingua"
+
+#: content/themes/default/templates/admin.languages.tpl:23
+#: content/themes/default/templates/admin.languages.tpl:100
+#: content/themes/default/templates/admin.languages.tpl:198
+msgid "Code"
+msgstr "Codice"
+
+#: content/themes/default/templates/admin.languages.tpl:24
+msgid "Flag"
+msgstr "Contrassegno"
+
+#: content/themes/default/templates/admin.languages.tpl:25
+msgid "Dir"
+msgstr "DIR"
+
+#: content/themes/default/templates/admin.languages.tpl:26
+#: content/themes/default/templates/admin.languages.tpl:72
+#: content/themes/default/templates/admin.languages.tpl:170
+#: content/themes/default/templates/admin.themes.tpl:24
+#: content/themes/default/templates/admin.themes.tpl:62
+#: content/themes/default/templates/admin.themes.tpl:103
+msgid "Default"
+msgstr "Predefinito"
+
+#: content/themes/default/templates/admin.languages.tpl:27
+#: content/themes/default/templates/admin.languages.tpl:86
+#: content/themes/default/templates/admin.languages.tpl:184
+msgid "Enabled"
+msgstr "Abilitato"
+
+#: content/themes/default/templates/admin.languages.tpl:41
+#: content/themes/default/templates/admin.languages.tpl:48
+#: content/themes/default/templates/admin.pages.tpl:54
+#: content/themes/default/templates/admin.themes.tpl:38
+#: content/themes/default/templates/admin.users.tpl:53
+#: content/themes/default/templates/admin.verified.tpl:44
+#: content/themes/default/templates/admin.verified.tpl:101
+msgid "Yes"
+msgstr "Si"
+
+#: content/themes/default/templates/admin.languages.tpl:43
+#: content/themes/default/templates/admin.languages.tpl:50
+#: content/themes/default/templates/admin.pages.tpl:56
+#: content/themes/default/templates/admin.themes.tpl:40
+#: content/themes/default/templates/admin.users.tpl:55
+#: content/themes/default/templates/admin.verified.tpl:46
+#: content/themes/default/templates/admin.verified.tpl:103
+msgid "No"
+msgstr "No"
+
+#: content/themes/default/templates/admin.languages.tpl:80
+#: content/themes/default/templates/admin.languages.tpl:178
+msgid "Make it the default language of the site"
+msgstr "Rendono la lingua predefinita del sito"
+
+#: content/themes/default/templates/admin.languages.tpl:94
+#: content/themes/default/templates/admin.languages.tpl:192
+msgid "Make it enbaled so the user can translate the site to it"
+msgstr ""
+"Fare enbaled in modo che l'utente in grado di tradurre il sito ad esso"
+
+#: content/themes/default/templates/admin.languages.tpl:105
+#: content/themes/default/templates/admin.languages.tpl:203
+msgid "Language country_code"
+msgstr "Lingua country_code"
+
+#: content/themes/default/templates/admin.languages.tpl:105
+#: content/themes/default/templates/admin.languages.tpl:127
+#: content/themes/default/templates/admin.languages.tpl:203
+#: content/themes/default/templates/admin.languages.tpl:225
+msgid "For Example:"
+msgstr "Esempio:"
+
+#: content/themes/default/templates/admin.languages.tpl:105
+#: content/themes/default/templates/admin.languages.tpl:127
+#: content/themes/default/templates/admin.languages.tpl:203
+#: content/themes/default/templates/admin.languages.tpl:225
+msgid "Click Here"
+msgstr "Clicca qui"
+
+#: content/themes/default/templates/admin.languages.tpl:111
+#: content/themes/default/templates/admin.languages.tpl:209
+msgid "Native Name"
+msgstr "Nome nativo"
+
+#: content/themes/default/templates/admin.languages.tpl:116
+#: content/themes/default/templates/admin.languages.tpl:214
+msgid "The native name of this language"
+msgstr "Il nome nativo di questa lingua"
+
+#: content/themes/default/templates/admin.languages.tpl:122
+#: content/themes/default/templates/admin.languages.tpl:220
+msgid "Flag Code"
+msgstr "Bandiera codice"
+
+#: content/themes/default/templates/admin.languages.tpl:127
+#: content/themes/default/templates/admin.languages.tpl:225
+msgid "The country flag code"
+msgstr "Il codice di bandiera del paese"
+
+#: content/themes/default/templates/admin.languages.tpl:133
+#: content/themes/default/templates/admin.languages.tpl:231
+msgid "Direction"
+msgstr "Istruzioni"
+
+#: content/themes/default/templates/admin.languages.tpl:141
+#: content/themes/default/templates/admin.languages.tpl:239
+msgid "The direction of this language 'Left To Right' or 'Right To Left'"
+msgstr ""
+"La direzione di questa lingua 'Da sinistra a destra' o 'Right To Left'"
+
+#: content/themes/default/templates/admin.languages.tpl:165
+msgid "Before add a new language you need to know 'gettext'"
+msgstr ""
+"Prima di aggiungere una nuova lingua che è necessario conoscere 'gettext'"
+
+#: content/themes/default/templates/admin.pages.tpl:6
+msgid "Go to this page"
+msgstr "Vai a questa pagina"
+
+#: content/themes/default/templates/admin.pages.tpl:24
+#: content/themes/default/templates/admin.pages.tpl:88
+#: content/themes/default/templates/admin.verified.tpl:71
+#: content/themes/default/templates/ajax.popover.tpl:111
+#: content/themes/default/templates/profile.tpl:138
+#: content/themes/default/templates/profile.tpl:389
+#: content/themes/default/templates/profile.tpl:650
+#: content/themes/default/templates/__feeds_page.tpl:24
+msgid "Likes"
+msgstr "Mi piace"
+
+#: content/themes/default/templates/admin.pages.tpl:84
+msgid "Page ID"
+msgstr "ID pagina"
+
+#: content/themes/default/templates/admin.pages.tpl:97
+msgid "Page Info"
+msgstr "Informazioni sulla pagina"
+
+#: content/themes/default/templates/admin.pages.tpl:110
+msgid "Verified Page"
+msgstr "Pagina verificata"
+
+#: content/themes/default/templates/admin.pages.tpl:122
+#: content/themes/default/templates/index.tpl:449
+#: content/themes/default/templates/page.tpl:202
+msgid "Category"
+msgstr "Categoria"
+
+#: content/themes/default/templates/admin.reports.tpl:12
+msgid "Reporter Picture"
+msgstr "Foto reporter"
+
+#: content/themes/default/templates/admin.reports.tpl:13
+msgid "Reporter Name"
+msgstr "Nome del reporter"
+
+#: content/themes/default/templates/admin.reports.tpl:14
+msgid "Node"
+msgstr "nodo"
+
+#: content/themes/default/templates/admin.reports.tpl:15
+msgid "Time"
+msgstr "Durata"
+
+#: content/themes/default/templates/admin.settings.tpl:6
+msgid "System Version"
+msgstr "SYSTEM VERSION (VERSIONE SISTEMA)"
+
+#: content/themes/default/templates/admin.settings.tpl:15
+msgid "System"
+msgstr "Sistema"
+
+#: content/themes/default/templates/admin.settings.tpl:20
+msgid "Registration"
+msgstr "Registrazione"
+
+#: content/themes/default/templates/admin.settings.tpl:25
+msgid "Emails"
+msgstr "E-mail"
+
+#: content/themes/default/templates/admin.settings.tpl:30
+msgid "Security"
+msgstr "Sicurezza"
+
+#: content/themes/default/templates/admin.settings.tpl:35
+msgid "Limits"
+msgstr "Limiti"
+
+#: content/themes/default/templates/admin.settings.tpl:40
+msgid "Analytics"
+msgstr "Analytics"
+
+#: content/themes/default/templates/admin.settings.tpl:53
+msgid "Website Live"
+msgstr "Sito Web dal vivo"
+
+#: content/themes/default/templates/admin.settings.tpl:61
+msgid "Turn the entire website On and Off"
+msgstr "Attivare o disattivare l'intero sito Web"
+
+#: content/themes/default/templates/admin.settings.tpl:68
+msgid "Shutdown Message"
+msgstr "Messaggio di arresto"
+
+#: content/themes/default/templates/admin.settings.tpl:73
+msgid "The text that is presented when the site is closed"
+msgstr "Il testo che viene visualizzato quando il sito è chiuso"
+
+#: content/themes/default/templates/admin.settings.tpl:82
+msgid "Website Logo"
+msgstr "Logo Sito"
+
+#: content/themes/default/templates/admin.settings.tpl:105
+msgid "The perfect size for your logo should be (wdith: 60px & height: 46px)"
+msgstr ""
+"Dovrebbe essere la dimensione ideale per il vostro logo (wdith: 60px & "
+"altezza: 46px)"
+
+#: content/themes/default/templates/admin.settings.tpl:112
+msgid "Website Title"
+msgstr "Titolo del sito"
+
+#: content/themes/default/templates/admin.settings.tpl:117
+msgid "Title of your website"
+msgstr "Titolo del tuo sito Web"
+
+#: content/themes/default/templates/admin.settings.tpl:124
+msgid "Website Description"
+msgstr "Descrizione del Sito web"
+
+#: content/themes/default/templates/admin.settings.tpl:129
+msgid "Description of your website"
+msgstr "Descrizione del tuo sito Web"
+
+#: content/themes/default/templates/admin.settings.tpl:136
+msgid "Website Domain"
+msgstr "Dominio del sito Web"
+
+#: content/themes/default/templates/admin.settings.tpl:141
+msgid "Like: sngine.com (without 'www')"
+msgstr "Come: sngine.com (senza 'www')"
+
+#: content/themes/default/templates/admin.settings.tpl:148
+msgid "Website Path"
+msgstr "Percorso del sito Web"
+
+#: content/themes/default/templates/admin.settings.tpl:153
+msgid "The path of your system"
+msgstr "Il percorso del vostro sistema"
+
+#: content/themes/default/templates/admin.settings.tpl:160
+msgid "Uploads Directory"
+msgstr "Directory Upload"
+
+#: content/themes/default/templates/admin.settings.tpl:165
+msgid "The path of uploads directory"
+msgstr "Il percorso della directory di upload"
+
+#: content/themes/default/templates/admin.settings.tpl:174
+msgid "Videos Enabled"
+msgstr "Video abilitato"
+
+#: content/themes/default/templates/admin.settings.tpl:182
+msgid "Turn the videos On and Off"
+msgstr "Attivare o disattivare il video"
+
+#: content/themes/default/templates/admin.settings.tpl:191
+msgid "Games Enabled"
+msgstr "Giochi abilitati"
+
+#: content/themes/default/templates/admin.settings.tpl:199
+msgid "Turn the games On and Off"
+msgstr "Attivare o disattivare i giochi"
+
+#: content/themes/default/templates/admin.settings.tpl:226
+msgid "Registration Enabled"
+msgstr "Registrazione abilitata"
+
+#: content/themes/default/templates/admin.settings.tpl:234
+msgid "Turn registration On and Off"
+msgstr "Attivare e disattivare la registrazione"
+
+#: content/themes/default/templates/admin.settings.tpl:241
+msgid "Send Activation Email"
+msgstr "Invia Email di attivazione"
+
+#: content/themes/default/templates/admin.settings.tpl:249
+msgid "Enable/Disable activation email after registration"
+msgstr "Abilitare/disabilitare email di attivazione dopo la registrazione"
+
+#: content/themes/default/templates/admin.settings.tpl:258
+msgid "Social Logins"
+msgstr "Social login"
+
+#: content/themes/default/templates/admin.settings.tpl:266
+msgid ""
+"Turn registration/login via social media (Facebook, Twitter and etc) On and "
+"Off"
+msgstr ""
+"Attivare e disattivare la registrazione/login attraverso i social media "
+"(Facebook, Twitter ed ecc)"
+
+#: content/themes/default/templates/admin.settings.tpl:274
+msgid "Facebook Login"
+msgstr "Accesso Facebook"
+
+#: content/themes/default/templates/admin.settings.tpl:282
+msgid "Turn registration/login via Facebook On and Off"
+msgstr "Attivare la registrazione/login tramite Facebook On e Off"
+
+#: content/themes/default/templates/admin.settings.tpl:289
+msgid "Facebook App ID"
+msgstr "ID app Facebook"
+
+#: content/themes/default/templates/admin.settings.tpl:298
+msgid "Facebook App Secret"
+msgstr "Facebook App Segreto"
+
+#: content/themes/default/templates/admin.settings.tpl:309
+msgid "Twitter Login"
+msgstr "Accesso Twitter"
+
+#: content/themes/default/templates/admin.settings.tpl:317
+msgid "Turn registration/login via Twitter On and Off"
+msgstr "Attivare la registrazione/login tramite Twitter On e Off"
+
+#: content/themes/default/templates/admin.settings.tpl:324
+msgid "Twitter App ID"
+msgstr "Twitter App ID"
+
+#: content/themes/default/templates/admin.settings.tpl:333
+msgid "Twitter App Secret"
+msgstr "Twitter App Segreto"
+
+#: content/themes/default/templates/admin.settings.tpl:344
+msgid "Google Login"
+msgstr "Accesso Google"
+
+#: content/themes/default/templates/admin.settings.tpl:352
+msgid "Turn registration/login via Google On and Off"
+msgstr "Attivare la registrazione/login tramite Google On e Off"
+
+#: content/themes/default/templates/admin.settings.tpl:359
+msgid "Google App ID"
+msgstr "Google App ID"
+
+#: content/themes/default/templates/admin.settings.tpl:368
+msgid "Google App Secret"
+msgstr "Google App segreto"
+
+#: content/themes/default/templates/admin.settings.tpl:398
+msgid "SMTP Emails"
+msgstr "Messaggi di posta elettronica SMTP"
+
+#: content/themes/default/templates/admin.settings.tpl:406
+#: content/themes/default/templates/admin.settings.tpl:431
+msgid "Enable/Disable SMTP email system"
+msgstr "Sistema di posta elettronica SMTP di abilitare/disabilitare"
+
+#: content/themes/default/templates/admin.settings.tpl:407
+#: content/themes/default/templates/admin.settings.tpl:432
+msgid "PHP mail() function will be used in case of disabled"
+msgstr "Funzione mail () PHP verrà utilizzata in caso di disabili"
+
+#: content/themes/default/templates/admin.settings.tpl:414
+msgid "SMTP Server"
+msgstr "Simple Mail Transfer Protocol"
+
+#: content/themes/default/templates/admin.settings.tpl:423
+msgid "SMTP Require Authentication"
+msgstr "SMTP richiede l'autenticazione"
+
+#: content/themes/default/templates/admin.settings.tpl:439
+msgid "SMTP Port"
+msgstr "Porta SMTP"
+
+#: content/themes/default/templates/admin.settings.tpl:448
+msgid "SMTP Username"
+msgstr "SMTP Username"
+
+#: content/themes/default/templates/admin.settings.tpl:457
+msgid "SMTP Password"
+msgstr "Password SMTP"
+
+#: content/themes/default/templates/admin.settings.tpl:486
+msgid "reCAPTCHA Enabled"
+msgstr "reCAPTCHA Enabled"
+
+#: content/themes/default/templates/admin.settings.tpl:494
+msgid "Turn reCAPTCHA On and Off"
+msgstr "Attivare e disattivare la reCAPTCHA"
+
+#: content/themes/default/templates/admin.settings.tpl:501
+msgid "reCAPTCHA Site Key"
+msgstr "Site Key di reCaptcha"
+
+#: content/themes/default/templates/admin.settings.tpl:510
+msgid "reCAPTCHA Secret Key"
+msgstr "reCAPTCHA chiave segreta"
+
+#: content/themes/default/templates/admin.settings.tpl:539
+msgid "Max profile photo size"
+msgstr "Dimensioni max profilo foto"
+
+#: content/themes/default/templates/admin.settings.tpl:544
+msgid "The Maximum size of profile photo"
+msgstr "La dimensione massima della foto del profilo"
+
+#: content/themes/default/templates/admin.settings.tpl:544
+#: content/themes/default/templates/admin.settings.tpl:556
+#: content/themes/default/templates/admin.settings.tpl:568
+#: content/themes/default/templates/admin.settings.tpl:582
+msgid "in kilobytes (1 M = 1024 KB)"
+msgstr "in kilobyte (1 M = 1024 KB)"
+
+#: content/themes/default/templates/admin.settings.tpl:551
+msgid "Max cover photo size"
+msgstr "Dimensione foto copertina di max"
+
+#: content/themes/default/templates/admin.settings.tpl:556
+msgid "The Maximum size of cover photo"
+msgstr "La dimensione massima dell'immagine di copertina"
+
+#: content/themes/default/templates/admin.settings.tpl:563
+msgid "Max upladed photo size"
+msgstr "Dimensione foto di max upladed"
+
+#: content/themes/default/templates/admin.settings.tpl:568
+msgid "The Maximum size of uploaded photo in posts"
+msgstr "La dimensione massima della foto caricata in messaggi"
+
+#: content/themes/default/templates/admin.settings.tpl:577
+msgid "Max upladed video size"
+msgstr "Dimensioni del video di max upladed"
+
+#: content/themes/default/templates/admin.settings.tpl:582
+msgid "The Maximum size of uploaded video in posts"
+msgstr "La dimensione massima del video caricato in messaggi"
+
+#: content/themes/default/templates/admin.settings.tpl:591
+msgid "Minimum Results"
+msgstr "Risultati minimi"
+
+#: content/themes/default/templates/admin.settings.tpl:596
+msgid "The Min number of results per request"
+msgstr "Il numero minimo di risultati per ogni richiesta"
+
+#: content/themes/default/templates/admin.settings.tpl:603
+msgid "Minimum Even Results"
+msgstr "Anche i risultati minimi"
+
+#: content/themes/default/templates/admin.settings.tpl:608
+msgid "The Min even number of results per request"
+msgstr "Il numero di pari Min di risultati per ogni richiesta"
+
+#: content/themes/default/templates/admin.settings.tpl:615
+msgid "Maximum Results"
+msgstr "Risultati massimi"
+
+#: content/themes/default/templates/admin.settings.tpl:620
+msgid "The Max number of results per request"
+msgstr "Il numero massimo di risultati per ogni richiesta"
+
+#: content/themes/default/templates/admin.settings.tpl:647
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: content/themes/default/templates/admin.settings.tpl:652
+msgid "Google Analytics Code"
+msgstr "Codice Google Analytics"
+
+#: content/themes/default/templates/admin.static.tpl:6
+msgid "Add New Page"
+msgstr "Aggiungi una nuova pagina"
+
+#: content/themes/default/templates/admin.static.tpl:22
+msgid "Page URL"
+msgstr "URL pagina"
+
+#: content/themes/default/templates/admin.static.tpl:23
+msgid "Page Title"
+msgstr "Titolo della pagina"
+
+#: content/themes/default/templates/admin.themes.tpl:6
+msgid "Add New Theme"
+msgstr "Aggiungi nuovo tema"
+
+#: content/themes/default/templates/admin.themes.tpl:70
+#: content/themes/default/templates/admin.themes.tpl:111
+msgid "Make it the default theme of the site"
+msgstr "Rendono il tema predefinito del sito"
+
+#: content/themes/default/templates/admin.tpl:17
+msgid "Dashboard"
+msgstr "Area Personale"
+
+#: content/themes/default/templates/admin.tpl:39
+#: content/themes/default/templates/admin.tpl:60
+#: content/themes/default/templates/admin.tpl:125
+#: content/themes/default/templates/admin.tpl:183
+#: content/themes/default/templates/admin.tpl:204
+#: content/themes/default/templates/admin.tpl:225
+#: content/themes/default/templates/admin.tpl:246
+msgid "Lists"
+msgstr "Liste"
+
+#: content/themes/default/templates/admin.tpl:81
+msgid "Show All Users"
+msgstr "Area visibile per tutti gli utenti."
+
+#: content/themes/default/templates/admin.tpl:86
+msgid "List Admins"
+msgstr "Elenco amministratori"
+
+#: content/themes/default/templates/admin.tpl:91
+msgid "List Moderators"
+msgstr "Elenco moderatori"
+
+#: content/themes/default/templates/admin.tpl:96
+msgid "List Online"
+msgstr "Lista Online"
+
+#: content/themes/default/templates/admin.tpl:101
+msgid "List Banned"
+msgstr "Lista vietato"
+
+#: content/themes/default/templates/admin.tpl:119
+msgid "Pages Categories"
+msgstr "Categorie di pagine"
+
+#: content/themes/default/templates/admin.tpl:148
+msgid "Verify Badge"
+msgstr "Distintivo di verificare"
+
+#: content/themes/default/templates/admin.tpl:154
+msgid "List Users"
+msgstr "Elenco utenti"
+
+#: content/themes/default/templates/admin.tpl:159
+msgid "List Pages"
+msgstr "Lista pagine"
+
+#: content/themes/default/templates/admin.tpl:240
+msgid "games"
+msgstr "Giochi"
+
+#: content/themes/default/templates/admin.tpl:261
+msgid "Newsletter"
+msgstr "Newsletter"
+
+#: content/themes/default/templates/admin.users.tpl:6
+msgid "Go to this profile"
+msgstr "Vai a questo profilo"
+
+#: content/themes/default/templates/admin.users.tpl:25
+#: content/themes/default/templates/admin.users.tpl:221
+#: content/themes/default/templates/admin.verified.tpl:16
+msgid "IP"
+msgstr "IP"
+
+#: content/themes/default/templates/admin.users.tpl:26
+#: content/themes/default/templates/admin.users.tpl:87
+#: content/themes/default/templates/admin.verified.tpl:17
+#: content/themes/default/templates/group.tpl:59
+#: content/themes/default/templates/group.tpl:109
+#: content/themes/default/templates/_js_translator.tpl:12
+#: content/themes/default/templates/__feeds_group.tpl:11
+msgid "Joined"
+msgstr "Aggiunti"
+
+#: content/themes/default/templates/admin.users.tpl:27
+#: content/themes/default/templates/admin.verified.tpl:18
+#: includes/ajax/core/activation_email_resend.php:22
+#: includes/ajax/core/activation_email_reset.php:22
+msgid "Activated"
+msgstr ""
+"La copia di EventOn non è attivata, alcune funzionalità potrebbero essere "
+"limitate. < a href = \""
+
+#: content/themes/default/templates/admin.users.tpl:83
+msgid "User ID"
+msgstr "ID utente"
+
+#: content/themes/default/templates/admin.users.tpl:91
+msgid "Last Login"
+msgstr "Ultimo accesso"
+
+#: content/themes/default/templates/admin.users.tpl:99
+#: content/themes/default/templates/admin.users.tpl:505
+#: content/themes/default/templates/admin.users.tpl:520
+#: content/themes/default/templates/admin.users.tpl:535
+#: content/themes/default/templates/admin.users.tpl:550
+#: content/themes/default/templates/admin.users.tpl:565
+#: content/themes/default/templates/admin.users.tpl:583
+#: content/themes/default/templates/admin.users.tpl:601
+#: content/themes/default/templates/ajax.popover.tpl:57
+#: content/themes/default/templates/profile.tpl:63
+#: content/themes/default/templates/profile.tpl:120
+#: content/themes/default/templates/profile.tpl:135
+#: content/themes/default/templates/profile.tpl:213
+#: content/themes/default/templates/profile.tpl:360
+#: content/themes/default/templates/profile.tpl:460
+#: content/themes/default/templates/profile.tpl:468
+#: content/themes/default/templates/profile.tpl:531
+#: content/themes/default/templates/profile.tpl:538
+#: content/themes/default/templates/profile.tpl:596
+#: content/themes/default/templates/profile.tpl:603
+#: content/themes/default/templates/settings.tpl:360
+#: content/themes/default/templates/settings.tpl:375
+#: content/themes/default/templates/settings.tpl:390
+#: content/themes/default/templates/settings.tpl:405
+#: content/themes/default/templates/settings.tpl:420
+#: content/themes/default/templates/settings.tpl:438
+#: content/themes/default/templates/settings.tpl:456
+#: content/themes/default/templates/_js_translator.tpl:2
+#: content/themes/default/templates/_publisher.tpl:73
+#: content/themes/default/templates/_publisher.tpl:77
+#: content/themes/default/templates/__feeds_user.tpl:24
+#: includes/js/user.js:775
+msgid "Friends"
+msgstr "Friends"
+
+#: content/themes/default/templates/admin.users.tpl:103
+#: content/themes/default/templates/profile.tpl:476
+#: content/themes/default/templates/profile.tpl:547
+#: content/themes/default/templates/profile.tpl:610
+msgid "Followings"
+msgstr "Chi segue"
+
+#: content/themes/default/templates/admin.users.tpl:107
+#: content/themes/default/templates/profile.tpl:473
+#: content/themes/default/templates/profile.tpl:542
+#: content/themes/default/templates/profile.tpl:606
+msgid "Followers"
+msgstr "Sostenitori"
+
+#: content/themes/default/templates/admin.users.tpl:116
+msgid "Basic Info"
+msgstr "Informazioni di base"
+
+#: content/themes/default/templates/admin.users.tpl:121
+#: content/themes/default/templates/_header.tpl:126
+msgid "Profile"
+msgstr "Profilo"
+
+#: content/themes/default/templates/admin.users.tpl:131
+#: content/themes/default/templates/reset.tpl:14
+#: content/themes/default/templates/settings.tpl:60
+#: content/themes/default/templates/signin.tpl:43
+#: content/themes/default/templates/signup.tpl:47
+#: content/themes/default/templates/signup_social.tpl:24
+msgid "Email"
+msgstr "Email"
+
+#: content/themes/default/templates/admin.users.tpl:136
+#: content/themes/default/templates/admin.users.tpl:453
+#: content/themes/default/templates/settings.tpl:65
+#: content/themes/default/templates/signin.tpl:47
+#: content/themes/default/templates/signup.tpl:51
+#: content/themes/default/templates/signup_social.tpl:28
+msgid "Password"
+msgstr "Password"
+
+#: content/themes/default/templates/admin.users.tpl:141
+msgid "Privacy"
+msgstr "Informativa sulla Privacy"
+
+#: content/themes/default/templates/admin.users.tpl:154
+msgid "Verified User"
+msgstr "Utente verificato"
+
+#: content/themes/default/templates/admin.users.tpl:178
+msgid "Email Activated"
+msgstr "Posta elettronica attivato"
+
+#: content/themes/default/templates/admin.users.tpl:190
+msgid "Password Rested"
+msgstr "Password riposato"
+
+#: content/themes/default/templates/admin.users.tpl:202
+msgid "User Group"
+msgstr "Gruppo utenti"
+
+#: content/themes/default/templates/admin.users.tpl:250
+#: content/themes/default/templates/settings.tpl:182
+msgid "Full Name"
+msgstr "Nome Completo"
+
+#: content/themes/default/templates/admin.users.tpl:258
+msgid "Gender"
+msgstr "Sesso"
+
+#: content/themes/default/templates/admin.users.tpl:262
+#: content/themes/default/templates/index.tpl:87
+#: content/themes/default/templates/settings.tpl:188
+#: content/themes/default/templates/signup.tpl:57
+#: content/themes/default/templates/signup_social.tpl:34
+msgid "Select Sex"
+msgstr "Selezionare il sesso"
+
+#: content/themes/default/templates/admin.users.tpl:264
+#: content/themes/default/templates/index.tpl:88
+#: content/themes/default/templates/profile.tpl:324
+#: content/themes/default/templates/settings.tpl:189
+#: content/themes/default/templates/signup.tpl:58
+#: content/themes/default/templates/signup_social.tpl:35
+msgid "Male"
+msgstr "Maschio"
+
+#: content/themes/default/templates/admin.users.tpl:267
+#: content/themes/default/templates/index.tpl:89
+#: content/themes/default/templates/profile.tpl:327
+#: content/themes/default/templates/settings.tpl:190
+#: content/themes/default/templates/signup.tpl:59
+#: content/themes/default/templates/signup_social.tpl:36
+msgid "Female"
+msgstr "Femmina"
+
+#: content/themes/default/templates/admin.users.tpl:274
+#: content/themes/default/templates/settings.tpl:194
+msgid "Birthdate"
+msgstr "Data di nascita"
+
+#: content/themes/default/templates/admin.users.tpl:280
+#: content/themes/default/templates/settings.tpl:198
+msgid "Select Month"
+msgstr "Seleziona Mese"
+
+#: content/themes/default/templates/admin.users.tpl:281
+#: content/themes/default/templates/settings.tpl:199
+msgid "Jan"
+msgstr "Gen"
+
+#: content/themes/default/templates/admin.users.tpl:282
+#: content/themes/default/templates/settings.tpl:200
+msgid "Feb"
+msgstr "Feb"
+
+#: content/themes/default/templates/admin.users.tpl:283
+#: content/themes/default/templates/settings.tpl:201
+msgid "Mar"
+msgstr "Mar"
+
+#: content/themes/default/templates/admin.users.tpl:284
+#: content/themes/default/templates/settings.tpl:202
+msgid "Apr"
+msgstr "Apr"
+
+#: content/themes/default/templates/admin.users.tpl:285
+#: content/themes/default/templates/settings.tpl:203
+msgid "May"
+msgstr "Mag"
+
+#: content/themes/default/templates/admin.users.tpl:286
+#: content/themes/default/templates/settings.tpl:204
+msgid "Jun"
+msgstr "Giu"
+
+#: content/themes/default/templates/admin.users.tpl:287
+#: content/themes/default/templates/settings.tpl:205
+msgid "Jul"
+msgstr "Lug"
+
+#: content/themes/default/templates/admin.users.tpl:288
+#: content/themes/default/templates/settings.tpl:206
+msgid "Aug"
+msgstr "Ago"
+
+#: content/themes/default/templates/admin.users.tpl:289
+#: content/themes/default/templates/settings.tpl:207
+msgid "Sep"
+msgstr "Sett"
+
+#: content/themes/default/templates/admin.users.tpl:290
+#: content/themes/default/templates/settings.tpl:208
+msgid "Oct"
+msgstr "Ott"
+
+#: content/themes/default/templates/admin.users.tpl:291
+#: content/themes/default/templates/settings.tpl:209
+msgid "Nov"
+msgstr "Nov"
+
+#: content/themes/default/templates/admin.users.tpl:292
+#: content/themes/default/templates/settings.tpl:210
+msgid "Dec"
+msgstr "Dic"
+
+#: content/themes/default/templates/admin.users.tpl:297
+#: content/themes/default/templates/settings.tpl:215
+msgid "Select Day"
+msgstr "Selezionare giorno"
+
+#: content/themes/default/templates/admin.users.tpl:305
+#: content/themes/default/templates/settings.tpl:223
+msgid "Select Year"
+msgstr "Seleziona Anno"
+
+#: content/themes/default/templates/admin.users.tpl:317
+#: content/themes/default/templates/settings.tpl:249
+msgid "Work Title"
+msgstr "Titolo dell'Opera:"
+
+#: content/themes/default/templates/admin.users.tpl:325
+#: content/themes/default/templates/settings.tpl:253
+msgid "Work Place"
+msgstr "LUOGO DI LAVORO"
+
+#: content/themes/default/templates/admin.users.tpl:334
+#: content/themes/default/templates/settings.tpl:275
+msgid "Current City"
+msgstr "Città attuale"
+
+#: content/themes/default/templates/admin.users.tpl:342
+#: content/themes/default/templates/settings.tpl:279
+msgid "Hometown"
+msgstr "Città di orgine"
+
+#: content/themes/default/templates/admin.users.tpl:351
+#: content/themes/default/templates/settings.tpl:301
+msgid "Major"
+msgstr "Maggiore"
+
+#: content/themes/default/templates/admin.users.tpl:359
+#: content/themes/default/templates/settings.tpl:305
+msgid "School"
+msgstr "Scuola"
+
+#: content/themes/default/templates/admin.users.tpl:367
+#: content/themes/default/templates/settings.tpl:309
+msgid "Class"
+msgstr "Classe"
+
+#: content/themes/default/templates/admin.users.tpl:424
+#: content/themes/default/templates/settings.tpl:97
+msgid "Email address"
+msgstr "Indirizzo e-mail"
+
+#: content/themes/default/templates/admin.users.tpl:482
+#: content/themes/default/templates/ajax.chat.master.head.tpl:12
+#: content/themes/default/templates/settings.tpl:337
+#: content/themes/default/templates/_js_templates.tpl:414
+msgid "Chat"
+msgstr "&Chat"
+
+#: content/themes/default/templates/admin.users.tpl:487
+#: content/themes/default/templates/ajax.chat.master.head.tpl:5
+#: content/themes/default/templates/settings.tpl:342
+#: content/themes/default/templates/_js_templates.tpl:424
+msgid "Offline"
+msgstr "Non abilitati"
+
+#: content/themes/default/templates/admin.users.tpl:497
+#: content/themes/default/templates/admin.users.tpl:512
+#: content/themes/default/templates/admin.users.tpl:527
+#: content/themes/default/templates/admin.users.tpl:542
+#: content/themes/default/templates/admin.users.tpl:557
+#: content/themes/default/templates/admin.users.tpl:575
+#: content/themes/default/templates/admin.users.tpl:593
+#: content/themes/default/templates/settings.tpl:352
+#: content/themes/default/templates/settings.tpl:367
+#: content/themes/default/templates/settings.tpl:382
+#: content/themes/default/templates/settings.tpl:397
+#: content/themes/default/templates/settings.tpl:412
+#: content/themes/default/templates/settings.tpl:430
+#: content/themes/default/templates/settings.tpl:448
+msgid "Who can see your"
+msgstr "Chi può vedere il tuo"
+
+#: content/themes/default/templates/admin.users.tpl:497
+#: content/themes/default/templates/settings.tpl:352
+msgid "birthdate"
+msgstr "Data di nascita"
+
+#: content/themes/default/templates/admin.users.tpl:502
+#: content/themes/default/templates/admin.users.tpl:517
+#: content/themes/default/templates/admin.users.tpl:532
+#: content/themes/default/templates/admin.users.tpl:547
+#: content/themes/default/templates/admin.users.tpl:562
+#: content/themes/default/templates/admin.users.tpl:580
+#: content/themes/default/templates/admin.users.tpl:598
+#: content/themes/default/templates/settings.tpl:357
+#: content/themes/default/templates/settings.tpl:372
+#: content/themes/default/templates/settings.tpl:387
+#: content/themes/default/templates/settings.tpl:402
+#: content/themes/default/templates/settings.tpl:417
+#: content/themes/default/templates/settings.tpl:435
+#: content/themes/default/templates/settings.tpl:453
+msgid "Everyone"
+msgstr "Tutti"
+
+#: content/themes/default/templates/admin.users.tpl:512
+#: content/themes/default/templates/settings.tpl:367
+msgid "work info"
+msgstr "Dati uff."
+
+#: content/themes/default/templates/admin.users.tpl:527
+#: content/themes/default/templates/settings.tpl:382
+msgid "location info"
+msgstr "informazioni sulla posizione"
+
+#: content/themes/default/templates/admin.users.tpl:542
+#: content/themes/default/templates/settings.tpl:397
+msgid "education info"
+msgstr "educazione info"
+
+#: content/themes/default/templates/admin.users.tpl:557
+#: content/themes/default/templates/settings.tpl:412
+msgid "friends"
+msgstr "amici"
+
+#: content/themes/default/templates/admin.users.tpl:568
+#: content/themes/default/templates/admin.users.tpl:586
+#: content/themes/default/templates/admin.users.tpl:604
+#: content/themes/default/templates/settings.tpl:423
+#: content/themes/default/templates/settings.tpl:441
+#: content/themes/default/templates/settings.tpl:459
+msgid "Just Me"
+msgstr "lamang sa akin"
+
+#: content/themes/default/templates/admin.users.tpl:575
+#: content/themes/default/templates/settings.tpl:430
+msgid "liked pages"
+msgstr "è piaciuto pagine"
+
+#: content/themes/default/templates/admin.users.tpl:593
+#: content/themes/default/templates/settings.tpl:448
+msgid "joined groups"
+msgstr "gruppi Uniti"
+
+#: content/themes/default/templates/admin.widgets.tpl:6
+msgid "Add New widget"
+msgstr "Aggiungi un nuovo widget"
+
+#: content/themes/default/templates/admin.widgets.tpl:107
+msgid ""
+"When you add mutiple widgets at the samle location, they will be displayed "
+"randomly"
+msgstr ""
+"Quando si aggiungono mutiple widget nella posizione samle, verranno "
+"visualizzati in modo casuale"
+
+#: content/themes/default/templates/ajax.chat.conversation.messages.tpl:4
+msgid "Loading Older Messages"
+msgstr "I messaggi più vecchi di caricamento"
+
+#: content/themes/default/templates/ajax.chat.conversation.tpl:7
+#: content/themes/default/templates/messages.tpl:48
+#: content/themes/default/templates/messages.tpl:55
+#: content/themes/default/templates/_js_templates.tpl:435
+msgid "New Message"
+msgstr "Nuovo messaggio"
+
+#: content/themes/default/templates/ajax.chat.conversation.tpl:11
+#: content/themes/default/templates/_js_translator.tpl:14
+msgid "Delete"
+msgstr "Elimina"
+
+#: content/themes/default/templates/ajax.lightbox_actions.tpl:4
+#: content/themes/default/templates/ajax.popover.tpl:118
+#: content/themes/default/templates/page.tpl:62
+#: content/themes/default/templates/page.tpl:107
+#: content/themes/default/templates/_js_translator.tpl:11
+#: content/themes/default/templates/__feeds_page.tpl:11
+#: content/themes/default/templates/__feeds_post.comment.tpl:58
+#: content/themes/default/templates/__feeds_post.tpl:343
+msgid "Unlike"
+msgstr "A differenza di"
+
+#: content/themes/default/templates/ajax.lightbox_actions.tpl:6
+#: content/themes/default/templates/ajax.popover.tpl:123
+#: content/themes/default/templates/page.tpl:67
+#: content/themes/default/templates/page.tpl:112
+#: content/themes/default/templates/_js_translator.tpl:10
+#: content/themes/default/templates/__feeds_page.tpl:16
+#: content/themes/default/templates/__feeds_post.comment.tpl:60
+#: content/themes/default/templates/__feeds_post.tpl:345
+msgid "Like"
+msgstr "Come"
+
+#: content/themes/default/templates/ajax.lightbox_actions.tpl:8
+#: content/themes/default/templates/__feeds_post.tpl:347
+msgid "Comment"
+msgstr "Commento"
+
+#: content/themes/default/templates/ajax.lightbox_footer.tpl:7
+#: content/themes/default/templates/profile.tpl:347
+#: content/themes/default/templates/__feeds_post.tpl:382
+msgid "people"
+msgstr "persone"
+
+#: content/themes/default/templates/ajax.lightbox_footer.tpl:7
+#: content/themes/default/templates/__feeds_post.tpl:382
+msgid "like this"
+msgstr "Clicca su Mi Piace"
+
+#: content/themes/default/templates/ajax.mutual_friends.tpl:3
+#: content/themes/default/templates/profile.tpl:196
+msgid "Mutual Friends"
+msgstr "Amici comuni"
+
+#: content/themes/default/templates/ajax.mutual_friends.tpl:15
+#: content/themes/default/templates/ajax.who_likes.tpl:15
+#: content/themes/default/templates/ajax.who_shares.tpl:15
+#: content/themes/default/templates/friend_requests.tpl:37
+#: content/themes/default/templates/friend_requests.tpl:68
+#: content/themes/default/templates/friend_requests.tpl:102
+#: content/themes/default/templates/group.tpl:198
+#: content/themes/default/templates/index.tpl:387
+#: content/themes/default/templates/index.tpl:427
+#: content/themes/default/templates/index.tpl:540
+#: content/themes/default/templates/notifications.tpl:27
+#: content/themes/default/templates/profile.tpl:493
+#: content/themes/default/templates/profile.tpl:563
+#: content/themes/default/templates/profile.tpl:628
+#: content/themes/default/templates/profile.tpl:665
+#: content/themes/default/templates/profile.tpl:709
+#: content/themes/default/templates/settings.tpl:606
+#: content/themes/default/templates/settings.tpl:632
+#: includes/functions.php:573
+msgid "See More"
+msgstr "Mostra tutto"
+
+#: content/themes/default/templates/ajax.popover.tpl:19
+msgid "followers"
+msgstr "Follower"
+
+#: content/themes/default/templates/ajax.popover.tpl:28
+#: content/themes/default/templates/profile.tpl:364
+#: content/themes/default/templates/__feeds_user.tpl:52
+msgid "mutual friends"
+msgstr "amici in comune"
+
+#: content/themes/default/templates/ajax.popover.tpl:37
+#: content/themes/default/templates/profile.tpl:277
+#: content/themes/default/templates/profile.tpl:289
+msgid "at"
+msgstr "alle"
+
+#: content/themes/default/templates/ajax.popover.tpl:47
+#: content/themes/default/templates/profile.tpl:314
+msgid "From"
+msgstr "Dal"
+
+#: content/themes/default/templates/ajax.popover.tpl:60
+#: content/themes/default/templates/profile.tpl:66
+#: content/themes/default/templates/profile.tpl:169
+#: content/themes/default/templates/profile.tpl:216
+#: content/themes/default/templates/_js_templates.tpl:64
+#: content/themes/default/templates/__feeds_user.tpl:9
+msgid "Confirm"
+msgstr "Conferma"
+
+#: content/themes/default/templates/ajax.popover.tpl:61
+#: content/themes/default/templates/profile.tpl:67
+#: content/themes/default/templates/profile.tpl:170
+#: content/themes/default/templates/profile.tpl:217
+#: content/themes/default/templates/__feeds_user.tpl:10
+msgid "Delete Request"
+msgstr "Eliminare richiesta"
+
+#: content/themes/default/templates/ajax.popover.tpl:64
+#: content/themes/default/templates/profile.tpl:70
+#: content/themes/default/templates/profile.tpl:173
+#: content/themes/default/templates/profile.tpl:220
+#: content/themes/default/templates/_js_translator.tpl:3
+#: content/themes/default/templates/__feeds_user.tpl:19
+msgid "Friend Request Sent"
+msgstr "Richiesta di amicizia inviata"
+
+#: content/themes/default/templates/ajax.popover.tpl:68
+#: content/themes/default/templates/profile.tpl:74
+#: content/themes/default/templates/profile.tpl:177
+#: content/themes/default/templates/profile.tpl:224
+#: content/themes/default/templates/_js_translator.tpl:1
+#: content/themes/default/templates/__feeds_user.tpl:14
+msgid "Add Friend"
+msgstr "Aggiungi Amico"
+
+#: content/themes/default/templates/ajax.popover.tpl:76
+#: content/themes/default/templates/profile.tpl:82
+#: content/themes/default/templates/profile.tpl:232
+#: content/themes/default/templates/_js_translator.tpl:4
+#: content/themes/default/templates/__feeds_user.tpl:36
+msgid "Following"
+msgstr "Stai seguendo"
+
+#: content/themes/default/templates/ajax.popover.tpl:81
+#: content/themes/default/templates/profile.tpl:87
+#: content/themes/default/templates/profile.tpl:237
+#: content/themes/default/templates/_js_translator.tpl:5
+#: content/themes/default/templates/__feeds_user.tpl:30
+msgid "Follow"
+msgstr "Segui"
+
+#: content/themes/default/templates/ajax.popover.tpl:84
+#: content/themes/default/templates/profile.tpl:90
+#: content/themes/default/templates/profile.tpl:240
+msgid "Message"
+msgstr "Messaggio"
+
+#: content/themes/default/templates/ajax.popover.tpl:88
+#: content/themes/default/templates/group.tpl:69
+#: content/themes/default/templates/group.tpl:119
+#: content/themes/default/templates/page.tpl:72
+#: content/themes/default/templates/page.tpl:117
+#: content/themes/default/templates/profile.tpl:103
+#: content/themes/default/templates/profile.tpl:253
+msgid "Update Info"
+msgstr "Aggiorna informazioni"
+
+#: content/themes/default/templates/ajax.who_likes.tpl:3
+msgid "People Who Like This"
+msgstr "A chi piace questo"
+
+#: content/themes/default/templates/ajax.who_shares.tpl:3
+msgid "People Who Shared This"
+msgstr "Persone che hanno condiviso questo"
+
+#: content/themes/default/templates/friend_requests.tpl:15
+msgid "Respond to Your Friend Request"
+msgstr "Rispondere alla tua richiesta di amicizia"
+
+#: content/themes/default/templates/friend_requests.tpl:18
+msgid "View Sent Requests"
+msgstr "Vista inviato richieste"
+
+#: content/themes/default/templates/friend_requests.tpl:30
+#: content/themes/default/templates/friend_requests.tpl:61
+#: content/themes/default/templates/_header.friend_requests.tpl:22
+msgid "No new requests"
+msgstr "Nessuna nuova richiesta"
+
+#: content/themes/default/templates/friend_requests.tpl:46
+msgid "Friend Requests Sent"
+msgstr "Richieste di amicizia inviate"
+
+#: content/themes/default/templates/friend_requests.tpl:49
+msgid "View Received Requests"
+msgstr "Richieste ricevute"
+
+#: content/themes/default/templates/friend_requests.tpl:82
+#: content/themes/default/templates/_header.friend_requests.tpl:28
+msgid "People You May Know"
+msgstr "persone che conosci."
+
+#: content/themes/default/templates/friend_requests.tpl:95
+#: content/themes/default/templates/_header.friend_requests.tpl:39
+msgid "No people available"
+msgstr "Senza persone disponibili"
+
+#: content/themes/default/templates/group.tpl:64
+#: content/themes/default/templates/group.tpl:114
+#: content/themes/default/templates/_js_translator.tpl:13
+#: content/themes/default/templates/__feeds_group.tpl:16
+msgid "Join Group"
+msgstr "Accedi al gruppo"
+
+#: content/themes/default/templates/group.tpl:73
+#: content/themes/default/templates/page.tpl:76
+#: content/themes/default/templates/profile.tpl:96
+#: content/themes/default/templates/profile.tpl:246
+msgid "Report"
+msgstr "‪Nome Organizzatore delle inserzioni"
+
+#: content/themes/default/templates/group.tpl:84
+#: content/themes/default/templates/page.tpl:87
+#: content/themes/default/templates/profile.tpl:115
+msgid "Timeline"
+msgstr "Cronologia"
+
+#: content/themes/default/templates/group.tpl:136
+msgid "members"
+msgstr "membri"
+
+#: content/themes/default/templates/group.tpl:205
+msgid "doesn't have members"
+msgstr "non ha membri"
+
+#: content/themes/default/templates/group.tpl:219
+#: content/themes/default/templates/group.tpl:239
+msgid "Group Settings"
+msgstr "Impostazioni gruppo"
+
+#: content/themes/default/templates/group.tpl:233
+msgid "Delete Group"
+msgstr "Cancella gruppo"
+
+#: content/themes/default/templates/group.tpl:258
+#: content/themes/default/templates/page.tpl:222
+msgid "Save"
+msgstr "Salva"
+
+#: content/themes/default/templates/index.tpl:14
+msgid "Share your memories, connect with others, make new friends"
+msgstr ""
+"Condividi i tuoi ricordi, connettersi con gli altri, fare nuove amicizie"
+
+#: content/themes/default/templates/index.tpl:29
+#: content/themes/default/templates/signin.tpl:52
+msgid "Remember me"
+msgstr "Ricordami"
+
+#: content/themes/default/templates/index.tpl:31
+#: content/themes/default/templates/signin.tpl:63
+msgid "Forget your password?"
+msgstr "Password dimenticata?"
+
+#: content/themes/default/templates/index.tpl:43
+#: content/themes/default/templates/signin.tpl:35
+#: content/themes/default/templates/signin.tpl:43
+#: content/themes/default/templates/signup.tpl:31
+msgid "or"
+msgstr "o"
+
+#: content/themes/default/templates/index.tpl:43
+msgid "login with"
+msgstr "entra con"
+
+#: content/themes/default/templates/index.tpl:69
+msgid "New to"
+msgstr "Nuovo su"
+
+#: content/themes/default/templates/index.tpl:69
+#: content/themes/default/templates/signup.tpl:8
+msgid "Sign up"
+msgstr "Registrati"
+
+#: content/themes/default/templates/index.tpl:85
+#: content/themes/default/templates/settings.tpl:186
+#: content/themes/default/templates/signup.tpl:55
+#: content/themes/default/templates/signup_social.tpl:32
+msgid "I am"
+msgstr "Io sono"
+
+#: content/themes/default/templates/index.tpl:101
+#: content/themes/default/templates/signup.tpl:71
+#: content/themes/default/templates/signup_social.tpl:40
+msgid "By clicking Sign Up, you agree to our"
+msgstr "Facendo clic su Sign Up, accetti la nostra"
+
+#: content/themes/default/templates/index.tpl:101
+#: content/themes/default/templates/signup.tpl:71
+#: content/themes/default/templates/signup_social.tpl:40
+msgid "Terms"
+msgstr "Termini"
+
+#: content/themes/default/templates/index.tpl:153
+msgid "favorites"
+msgstr "preferiti"
+
+#: content/themes/default/templates/index.tpl:157
+msgid "News Feed"
+msgstr "Feed"
+
+#: content/themes/default/templates/index.tpl:171
+msgid "pages"
+msgstr "pagine"
+
+#: content/themes/default/templates/index.tpl:195
+msgid "groups"
+msgstr "gruppi"
+
+#: content/themes/default/templates/index.tpl:264
+#: content/themes/default/templates/_header.search.tpl:5
+msgid "Search Results"
+msgstr "Risultati di ricerca"
+
+#: content/themes/default/templates/index.tpl:304
+#: content/themes/default/templates/index.tpl:318
+#: content/themes/default/templates/index.tpl:332
+#: content/themes/default/templates/index.tpl:346
+msgid "No results to show"
+msgstr "Nessun risultato per mostrare"
+
+#: content/themes/default/templates/index.tpl:367
+msgid "Your Pages"
+msgstr "Le pagine"
+
+#: content/themes/default/templates/index.tpl:380
+msgid "No pages available"
+msgstr "Nessuna pagina disponibile"
+
+#: content/themes/default/templates/index.tpl:407
+msgid "Your Groups"
+msgstr "I gruppi di"
+
+#: content/themes/default/templates/index.tpl:420
+msgid "No groups available"
+msgstr "Nessun raggruppamento disponibile"
+
+#: content/themes/default/templates/index.tpl:469
+#: content/themes/default/templates/index.tpl:504
+msgid "Create"
+msgstr "Crea"
+
+#: content/themes/default/templates/index.tpl:533
+msgid "No games available"
+msgstr "Nessun giochi disponibili"
+
+#: content/themes/default/templates/index.tpl:564
+#: content/themes/default/templates/_header.friend_requests.tpl:45
+#: content/themes/default/templates/_header.messages.tpl:28
+#: content/themes/default/templates/_header.notifications.tpl:27
+msgid "See All"
+msgstr "Guarda tutti"
+
+#: content/themes/default/templates/index.tpl:566
+msgid "People you may know"
+msgstr "persone che conosci."
+
+#: content/themes/default/templates/index.tpl:583
+msgid "Suggested Pages"
+msgstr "Pagine consigliate"
+
+#: content/themes/default/templates/index.tpl:600
+msgid "Suggested Groups"
+msgstr "Gruppi suggeriti"
+
+#: content/themes/default/templates/messages.tpl:12
+msgid "Inbox"
+msgstr "Posta in arrivo"
+
+#: content/themes/default/templates/messages.tpl:26
+msgid "Load Older Threads"
+msgstr "Carico vecchie discussioni"
+
+#: content/themes/default/templates/messages.tpl:51
+msgid "No Selection"
+msgstr "Nessuna selezione"
+
+#: content/themes/default/templates/messages.tpl:54
+msgid "No Conversation Selected"
+msgstr "Nessuna conversazione selezionata"
+
+#: content/themes/default/templates/notifications.tpl:14
+msgid "Your Notifications"
+msgstr "Tue notifiche"
+
+#: content/themes/default/templates/page.tpl:134
+msgid "people like this"
+msgstr "people like this."
+
+#: content/themes/default/templates/page.tpl:175
+#: content/themes/default/templates/page.tpl:195
+msgid "Page Settings"
+msgstr "Impostazioni pagina"
+
+#: content/themes/default/templates/page.tpl:189
+msgid "Delete Page"
+msgstr "Elimina pagina"
+
+#: content/themes/default/templates/profile.tpl:97
+#: content/themes/default/templates/profile.tpl:247
+msgid "Block"
+msgstr "Block"
+
+#: content/themes/default/templates/profile.tpl:123
+msgid "Mutual"
+msgstr "Mutual"
+
+#: content/themes/default/templates/profile.tpl:130
+msgid "More"
+msgstr "Continua…"
+
+#: content/themes/default/templates/profile.tpl:159
+msgid "Do you know"
+msgstr "Sai"
+
+#: content/themes/default/templates/profile.tpl:163
+msgid "To see what"
+msgstr "Per vedere che cosa"
+
+#: content/themes/default/templates/profile.tpl:163
+msgid "shares with friends"
+msgstr "condivide con gli amici"
+
+#: content/themes/default/templates/profile.tpl:165
+msgid "send a friend request"
+msgstr "inviare una richiesta amico"
+
+#: content/themes/default/templates/profile.tpl:267
+msgid "About"
+msgstr "Info"
+
+#: content/themes/default/templates/profile.tpl:288
+msgid "Studied"
+msgstr "Studiato"
+
+#: content/themes/default/templates/profile.tpl:303
+msgid "Lives in"
+msgstr "Vive in"
+
+#: content/themes/default/templates/profile.tpl:346
+msgid "Followed by"
+msgstr "seguito da"
+
+#: content/themes/default/templates/profile.tpl:500
+msgid "doesn't have friends"
+msgstr "non ha amici"
+
+#: content/themes/default/templates/profile.tpl:505
+msgid "No friends to show"
+msgstr "No amici per mostrare"
+
+#: content/themes/default/templates/profile.tpl:570
+msgid "doesn't have followers"
+msgstr "non ha seguaci"
+
+#: content/themes/default/templates/profile.tpl:635
+msgid "doesn't have followings"
+msgstr "non ha le seguenti"
+
+#: content/themes/default/templates/profile.tpl:672
+#: content/themes/default/templates/profile.tpl:677
+msgid "No pages to show"
+msgstr "Nessun pagine da mostrare"
+
+#: content/themes/default/templates/profile.tpl:716
+#: content/themes/default/templates/profile.tpl:721
+msgid "No groups to show"
+msgstr "Nessun gruppo di mostrare"
+
+#: content/themes/default/templates/reset.tpl:6
+msgid "Reset Password"
+msgstr "Resetta la Password"
+
+#: content/themes/default/templates/reset.tpl:16
+msgid ""
+"Enter the email address you signed up with and we'll email you a reset link"
+msgstr ""
+"Inserisci l'indirizzo email che registrato con e ti invieremo un'email un "
+"link di reimpostazione"
+
+#: content/themes/default/templates/reset.tpl:26
+msgid "Email me a link"
+msgstr "Scrivermi un link"
+
+#: content/themes/default/templates/settings.tpl:118
+msgid "Current"
+msgstr "Attuale"
+
+#: content/themes/default/templates/settings.tpl:122
+msgid "New"
+msgstr "Nuovo"
+
+#: content/themes/default/templates/settings.tpl:126
+msgid "Re-type new"
+msgstr "Digitare nuovamente il nuovo"
+
+#: content/themes/default/templates/settings.tpl:156
+msgid "Basic"
+msgstr "Base"
+
+#: content/themes/default/templates/settings.tpl:161
+msgid "Work"
+msgstr "Lavoro"
+
+#: content/themes/default/templates/settings.tpl:166
+msgid "Location"
+msgstr "Luogo"
+
+#: content/themes/default/templates/settings.tpl:171
+msgid "Education"
+msgstr "﻿Formazione"
+
+#: content/themes/default/templates/settings.tpl:499
+#: content/themes/default/templates/settings.tpl:527
+#: content/themes/default/templates/settings.tpl:555
+msgid "Disconnect"
+msgstr "Interruttore"
+
+#: content/themes/default/templates/settings.tpl:501
+#: content/themes/default/templates/settings.tpl:529
+#: content/themes/default/templates/settings.tpl:557
+msgid "Connect"
+msgstr "Collegare"
+
+#: content/themes/default/templates/settings.tpl:506
+#: content/themes/default/templates/settings.tpl:509
+#: content/themes/default/templates/settings.tpl:511
+#: content/themes/default/templates/signin.tpl:19
+#: content/themes/default/templates/signup.tpl:15
+msgid "Facebook"
+msgstr "Facebook"
+
+#: content/themes/default/templates/settings.tpl:509
+#: content/themes/default/templates/settings.tpl:537
+#: content/themes/default/templates/settings.tpl:565
+msgid "Your account is connected to"
+msgstr "Il tuo account è connesso a"
+
+#: content/themes/default/templates/settings.tpl:511
+#: content/themes/default/templates/settings.tpl:539
+#: content/themes/default/templates/settings.tpl:567
+msgid "Connect your account to"
+msgstr "Connetti il tuo account per"
+
+#: content/themes/default/templates/settings.tpl:534
+#: content/themes/default/templates/settings.tpl:537
+#: content/themes/default/templates/settings.tpl:539
+#: content/themes/default/templates/signin.tpl:24
+#: content/themes/default/templates/signup.tpl:20
+msgid "Twitter"
+msgstr "Twitter"
+
+#: content/themes/default/templates/settings.tpl:562
+#: content/themes/default/templates/settings.tpl:565
+#: content/themes/default/templates/settings.tpl:567
+#: content/themes/default/templates/signin.tpl:29
+#: content/themes/default/templates/signup.tpl:25
+msgid "Google"
+msgstr "Google"
+
+#: content/themes/default/templates/settings.tpl:582
+msgid "Manage Blocking"
+msgstr "Il gestore di blocco"
+
+#: content/themes/default/templates/settings.tpl:587
+msgid ""
+"Once you block someone, that person can no longer see things you post on "
+"your timeline"
+msgstr ""
+"Una volta che si blocca qualcuno, quella persona non possa vedere cose che "
+"pubblichi sul tuo diario"
+
+#: content/themes/default/templates/settings.tpl:588
+msgid "Note: Does not include apps, games or groups you both participate in"
+msgstr ""
+"Nota: Non include applicazioni, giochi o gruppi che entrambi partecipare"
+
+#: content/themes/default/templates/settings.tpl:599
+msgid "No blocked users"
+msgstr "Utenti bloccati"
+
+#: content/themes/default/templates/settings.tpl:621
+msgid "Once you delete your account you will no longer can access it again"
+msgstr ""
+"Una volta che elimini il tuo account è non verrà non è più possibile "
+"accedervi nuovamente"
+
+#: content/themes/default/templates/settings.tpl:622
+msgid "Note: All your data will be deleted"
+msgstr "Nota: Verranno eliminati tutti i dati"
+
+#: content/themes/default/templates/settings.tpl:626
+msgid "Delete My Account"
+msgstr "Elimina il mio profilo"
+
+#: content/themes/default/templates/signin.tpl:19
+#: content/themes/default/templates/signin.tpl:24
+#: content/themes/default/templates/signin.tpl:29
+#: content/themes/default/templates/signup.tpl:15
+#: content/themes/default/templates/signup.tpl:20
+#: content/themes/default/templates/signup.tpl:25
+msgid "Login with"
+msgstr "Entra con"
+
+#: content/themes/default/templates/signup.tpl:39
+#: content/themes/default/templates/signup_social.tpl:16
+msgid "Full name"
+msgstr "Nome completo"
+
+#: content/themes/default/templates/signup_social.tpl:8
+msgid "Welcome"
+msgstr "Benvenuto"
+
+#: content/themes/default/templates/_header.messages.tpl:11
+msgid "Send a New Message"
+msgstr "Inviare un nuovo messaggio"
+
+#: content/themes/default/templates/_header.messages.tpl:23
+msgid "No messages"
+msgstr "Nessun messaggio"
+
+#: content/themes/default/templates/_header.notifications.tpl:22
+msgid "No notifications"
+msgstr "Nessuna notifica"
+
+#: content/themes/default/templates/_header.search.tpl:10
+msgid "See All Results"
+msgstr "Mostra tutti i risultati"
+
+#: content/themes/default/templates/_header.tpl:23
+msgid "Please go to"
+msgstr "Per favore, vai a"
+
+#: content/themes/default/templates/_header.tpl:23
+msgid "to complete the sign-up process"
+msgstr "per completare il processo di iscrizione"
+
+#: content/themes/default/templates/_header.tpl:27
+msgid "Resend Activation Email"
+msgstr "Inviare di nuovo una email di attivazione"
+
+#: content/themes/default/templates/_header.tpl:31
+msgid "Change Email"
+msgstr "Cambia Email"
+
+#: content/themes/default/templates/_header.tpl:45
+msgid "The system has been shuttd down"
+msgstr "Il sistema è stato shuttd giù"
+
+#: content/themes/default/templates/_header.tpl:46
+msgid "Turn it on from"
+msgstr "Accenderlo da"
+
+#: content/themes/default/templates/_header.tpl:147
+msgid "Log Out"
+msgstr "Esci"
+
+#: content/themes/default/templates/_js_templates.tpl:15
+msgid "Not Logged In"
+msgstr "Non connesso."
+
+#: content/themes/default/templates/_js_templates.tpl:18
+msgid "Please log in to continue"
+msgstr "Effettua il log in per continuare"
+
+#: content/themes/default/templates/_js_templates.tpl:63
+#: content/themes/default/templates/_js_templates.tpl:122
+#: content/themes/default/templates/_js_templates.tpl:150
+#: content/themes/default/templates/_js_templates.tpl:181
+msgid "Cancel"
+msgstr "Annulla"
+
+#: content/themes/default/templates/_js_templates.tpl:73
+msgid "Select Your Language"
+msgstr "Selezionare la lingua."
+
+#: content/themes/default/templates/_js_templates.tpl:96
+msgid "Check Your Email"
+msgstr "Controllate la vostra email"
+
+#: content/themes/default/templates/_js_templates.tpl:101
+msgid "Check your email"
+msgstr "Controlla la posta elettronica"
+
+#: content/themes/default/templates/_js_templates.tpl:101
+msgid ""
+"We sent you an email with a six-digit confirmation code. Enter it below to "
+"continue to reset your password"
+msgstr ""
+"Ti abbiamo inviato una mail con un codice a sei cifre conferma. Inseriscilo "
+"qui sotto per continuare a reimpostare la password"
+
+#: content/themes/default/templates/_js_templates.tpl:114
+msgid "We sent your code to"
+msgstr "Abbiamo inviato il codice di"
+
+#: content/themes/default/templates/_js_templates.tpl:121
+#: content/themes/default/templates/_js_templates.tpl:149
+#: content/themes/default/templates/_js_templates.tpl:180
+msgid "Continue"
+msgstr "Continua"
+
+#: content/themes/default/templates/_js_templates.tpl:130
+msgid "Change Your Password!"
+msgstr "cambiare la tua password"
+
+#: content/themes/default/templates/_js_templates.tpl:135
+msgid "New Password"
+msgstr "Nuova Password"
+
+#: content/themes/default/templates/_js_templates.tpl:139
+msgid "Confirm Password"
+msgstr "Conferma password"
+
+#: content/themes/default/templates/_js_templates.tpl:162
+msgid "Change Email Address"
+msgstr "Cambia il tuo indirizzo e-mail"
+
+#: content/themes/default/templates/_js_templates.tpl:167
+msgid "Current Email"
+msgstr "Email attuale"
+
+#: content/themes/default/templates/_js_templates.tpl:172
+msgid "New Email"
+msgstr "Nuova email"
+
+#: content/themes/default/templates/_js_templates.tpl:314
+msgid "Post Hidden"
+msgstr "Messaggio nascosto"
+
+#: content/themes/default/templates/_js_templates.tpl:315
+msgid "This post will no longer appear to you"
+msgstr "Questo post non apparirà più a voi"
+
+#: content/themes/default/templates/_js_templates.tpl:316
+#: content/themes/default/templates/_js_templates.tpl:323
+#: content/themes/default/templates/_js_templates.tpl:331
+#: content/themes/default/templates/_js_templates.tpl:339
+msgid "Undo"
+msgstr "Annulla"
+
+#: content/themes/default/templates/_js_templates.tpl:322
+msgid "You won't see posts from"
+msgstr "Non vedrai tutti i messaggi da"
+
+#: content/themes/default/templates/_js_templates.tpl:322
+msgid "in News Feed anymore"
+msgstr "nella sezione notizie piu '"
+
+#: content/themes/default/templates/_js_templates.tpl:329
+msgid "Thanks for Your Help"
+msgstr "Grazie per il vostro aiuto"
+
+#: content/themes/default/templates/_js_templates.tpl:330
+msgid "Your feedback helps us keep site clear of spam"
+msgstr "Il tuo feedback ci aiuta a mantenere il sito chiaro di spam"
+
+#: content/themes/default/templates/_js_templates.tpl:337
+msgid "Comment Hidden"
+msgstr "Commento nascosto"
+
+#: content/themes/default/templates/_js_templates.tpl:338
+msgid "This comment has been hidden"
+msgstr "Questo commento è stato nascosto"
+
+#: content/themes/default/templates/_js_templates.tpl:446
+msgid "To"
+msgstr "Al"
+
+#: content/themes/default/templates/_js_translator.tpl:6
+msgid "Remove"
+msgstr "Rimuovi"
+
+#: content/themes/default/templates/_js_translator.tpl:8
+msgid "Success"
+msgstr "Confermato"
+
+#: content/themes/default/templates/_js_translator.tpl:9
+msgid "Loading"
+msgstr "Caricamento"
+
+#: content/themes/default/templates/_js_translator.tpl:15
+msgid "Delete Cover"
+msgstr "Elimina copertina"
+
+#: content/themes/default/templates/_js_translator.tpl:16
+msgid "Delete Picture"
+msgstr "Elimina immagine"
+
+#: content/themes/default/templates/_js_translator.tpl:17
+msgid "Delete Post"
+msgstr "Elimina messaggio"
+
+#: content/themes/default/templates/_js_translator.tpl:18
+msgid "Delete Comment"
+msgstr "Elimina commento"
+
+#: content/themes/default/templates/_js_translator.tpl:19
+msgid "Delete Conversation"
+msgstr "Elimina conversazione"
+
+#: content/themes/default/templates/_js_translator.tpl:20
+msgid "Share Post"
+msgstr "Condividi Post"
+
+#: content/themes/default/templates/_js_translator.tpl:21
+msgid "Report User"
+msgstr "Rapporto utenti"
+
+#: content/themes/default/templates/_js_translator.tpl:22
+msgid "Block User"
+msgstr "Blocca utente"
+
+#: content/themes/default/templates/_js_translator.tpl:23
+msgid "Unblock User"
+msgstr "Sblocca utente"
+
+#: content/themes/default/templates/_js_translator.tpl:24
+msgid "Are you sure you want to delete this?"
+msgstr "Sei sicuro di voler eliminare?"
+
+#: content/themes/default/templates/_js_translator.tpl:25
+msgid "Are you sure you want to remove your cover photo?"
+msgstr "Sei sicuro di che voler rimuovere la foto di copertina?"
+
+#: content/themes/default/templates/_js_translator.tpl:26
+msgid "Are you sure you want to remove your profile picture?"
+msgstr "Sei sicuro di voler rimuovere la tua immagine?"
+
+#: content/themes/default/templates/_js_translator.tpl:27
+msgid "Are you sure you want to delete this post?"
+msgstr "Sei sicuro di voler eliminare questo post?"
+
+#: content/themes/default/templates/_js_translator.tpl:28
+msgid "Are you sure you want to share this post?"
+msgstr "Sei sicuro che si desidera condividere questo post?"
+
+#: content/themes/default/templates/_js_translator.tpl:29
+msgid "Are you sure you want to delete this comment?"
+msgstr "Sei sicuro di voler eliminare il commento?"
+
+#: content/themes/default/templates/_js_translator.tpl:30
+msgid "Are you sure you want to delete this conversation?"
+msgstr "Sei sicuro di voler eliminare?"
+
+#: content/themes/default/templates/_js_translator.tpl:31
+msgid "Are you sure you want to report this user?"
+msgstr "Sei sicuro di che voler segnalare questo utente?"
+
+#: content/themes/default/templates/_js_translator.tpl:32
+msgid "Are you sure you want to block this user?"
+msgstr "Sei sicuro che si desidera bloccare questo utente?"
+
+#: content/themes/default/templates/_js_translator.tpl:33
+msgid "Are you sure you want to unblock this user?"
+msgstr "Sei sicuro che si desidera sbloccare questo utente?"
+
+#: content/themes/default/templates/_js_translator.tpl:34
+msgid "There is some thing went worng!"
+msgstr "C è qualche cosa è andato worng!"
+
+#: content/themes/default/templates/_js_translator.tpl:35
+msgid "There is no more data to show"
+msgstr "Non ci sono più dati per mostrare"
+
+#: content/themes/default/templates/_js_translator.tpl:36
+msgid "This has been shared to your Timeline"
+msgstr "Questo è stato condiviso al tuo diario"
+
+#: content/themes/default/templates/_js_translator.tpl:37
+msgid "Search for people, pages and #hashtags"
+msgstr "Ricerca di persone, pagine e #hashtags"
+
+#: content/themes/default/templates/_js_translator.tpl:38
+msgid "What is on your mind?"
+msgstr "Che cosa è sulla vostra mente?"
+
+#: content/themes/default/templates/_posts.tpl:13
+#: content/themes/default/templates/_posts.tpl:40
+msgid "More Stories"
+msgstr "Altre storie"
+
+#: content/themes/default/templates/_posts.tpl:22
+#: content/themes/default/templates/_posts.tpl:49
+msgid "No posts to show"
+msgstr "Post da mostrare:"
+
+#: content/themes/default/templates/_posts.tpl:23
+msgid "Find Friends"
+msgstr "Trovare amici"
+
+#: content/themes/default/templates/_publisher.tpl:34
+msgid "Video uploaded successfully"
+msgstr "Video caricato con successo"
+
+#: content/themes/default/templates/_publisher.tpl:76
+msgid "Public"
+msgstr "Pubblico"
+
+#: content/themes/default/templates/_publisher.tpl:82
+msgid "Post"
+msgstr "Post"
+
+#: content/themes/default/templates/__ads.tpl:5
+msgid "Sponsored"
+msgstr "Sponsor"
+
+#: content/themes/default/templates/__feeds_game.tpl:8
+msgid "Play"
+msgstr "Giocare"
+
+#: content/themes/default/templates/__feeds_photo.comments.tpl:8
+#: content/themes/default/templates/__feeds_post.comments.tpl:8
+msgid "View previous comments"
+msgstr "Vedi i commenti precedenti"
+
+#: content/themes/default/templates/__feeds_post.tpl:34
+#: content/themes/default/templates/__feeds_post.tpl:76
+msgid "Hide this post"
+msgstr "Nascondi questo post"
+
+#: content/themes/default/templates/__feeds_post.tpl:36
+#: content/themes/default/templates/__feeds_post.tpl:78
+msgid "See fewer posts like this"
+msgstr "Vedi meno i post come questo"
+
+#: content/themes/default/templates/__feeds_post.tpl:42
+msgid "Unfollow"
+msgstr "Smetti di seguire"
+
+#: content/themes/default/templates/__feeds_post.tpl:44
+msgid "Stop seeing posts but stay friends"
+msgstr "Smettere di vedere post ma rimanere amici"
+
+#: content/themes/default/templates/__feeds_post.tpl:51
+#: content/themes/default/templates/__feeds_post.tpl:85
+msgid "Delete post"
+msgstr "Elimina messaggio"
+
+#: content/themes/default/templates/__feeds_post.tpl:57
+#: content/themes/default/templates/__feeds_post.tpl:91
+msgid "Report post"
+msgstr "Segnala post"
+
+#: content/themes/default/templates/__feeds_post.tpl:114
+msgid "shared"
+msgstr "condiviso"
+
+#: content/themes/default/templates/__feeds_post.tpl:118
+msgid "'s"
+msgstr "S"
+
+#: content/themes/default/templates/__feeds_post.tpl:123
+#: content/themes/default/templates/__feeds_post.tpl:144
+msgid "photos"
+msgstr "fotografie"
+
+#: content/themes/default/templates/__feeds_post.tpl:123
+msgid "photo"
+msgstr "foto"
+
+#: content/themes/default/templates/__feeds_post.tpl:126
+msgid "video"
+msgstr "video"
+
+#: content/themes/default/templates/__feeds_post.tpl:128
+msgid "song"
+msgstr "cantico"
+
+#: content/themes/default/templates/__feeds_post.tpl:131
+msgid "link"
+msgstr "link"
+
+#: content/themes/default/templates/__feeds_post.tpl:133
+msgid "post"
+msgstr "Post"
+
+#: content/themes/default/templates/__feeds_post.tpl:138
+msgid "shared a link"
+msgstr "ha condiviso un link"
+
+#: content/themes/default/templates/__feeds_post.tpl:142
+msgid "added a photo"
+msgstr "ha aggiunto una foto"
+
+#: content/themes/default/templates/__feeds_post.tpl:144
+msgid "added"
+msgstr "aggiunto"
+
+#: content/themes/default/templates/__feeds_post.tpl:148
+msgid "added a video"
+msgstr "aggiunto un video"
+
+#: content/themes/default/templates/__feeds_post.tpl:152
+msgid "updated his profile picture"
+msgstr "aggiornato la sua immagine del profilo"
+
+#: content/themes/default/templates/__feeds_post.tpl:154
+msgid "updated her profile picture"
+msgstr "aggiornato la sua immagine del profilo"
+
+#: content/themes/default/templates/__feeds_post.tpl:159
+msgid "updated his cover photo"
+msgstr "aggiornato la sua immagine di copertina"
+
+#: content/themes/default/templates/__feeds_post.tpl:161
+msgid "updated her cover photo"
+msgstr "aggiornato la sua immagine di copertina"
+
+#: content/themes/default/templates/__feeds_post.tpl:324
+#: content/themes/default/templates/__feeds_post_shared.tpl:178
+msgid "Your browser does not support HTML5 video"
+msgstr "Il tuo browser non supporta HTML5 video"
+
+#: content/themes/default/templates/__feeds_post.tpl:328
+msgid "Show Attachments"
+msgstr "Mostra allegati"
+
+#: content/themes/default/templates/__feeds_post.tpl:350
+msgid "Share"
+msgstr "Condividi"
+
+#: content/themes/default/templates/__feeds_post.tpl:375
+msgid "shares"
+msgstr "condivisioni"
+
+#: content/themes/default/templates/__feeds_user.tpl:41
+msgid "Unblock"
+msgstr "Sblocca"
+
+#: includes/class-image.php:26 includes/class-image.php:39
+msgid "The file type is not valid image"
+msgstr "Il tipo di file non è valido immagine"
+
+#: includes/class-user.php:694
+msgid "You have already blocked this user before!"
+msgstr "Hai già bloccato questo utente prima!"
+
+#: includes/class-user.php:962
+msgid "You can not delete admin/morderator accounts"
+msgstr "Non è possibile eliminare gli account admin/morderator"
+
+#: includes/class-user.php:1033
+msgid "Accepted your friend request"
+msgstr "Accettata la tua richiesta di amicizia"
+
+#: includes/class-user.php:1039
+msgid "Now following you"
+msgstr "Ora ti seguono"
+
+#: includes/class-user.php:1046
+msgid "Likes your post"
+msgstr "ha commentato il tuo post:"
+
+#: includes/class-user.php:1050 includes/class-user.php:1058
+msgid "Likes your comment"
+msgstr "Il tuo commento"
+
+#: includes/class-user.php:1054
+msgid "Likes your photo"
+msgstr "Aggiungi la tua Foto"
+
+#: includes/class-user.php:1066
+msgid "Commented on your post"
+msgstr "ha commentato il tuo post:"
+
+#: includes/class-user.php:1070
+msgid "Commented on your photo"
+msgstr "Ha commentato la tua foto"
+
+#: includes/class-user.php:1077
+msgid "Shared your post"
+msgstr "Ha condiviso il tuo post"
+
+#: includes/class-user.php:1084
+msgid "Mentioned you in a post"
+msgstr "Accennato in un post"
+
+#: includes/class-user.php:1088 includes/class-user.php:1092
+msgid "Mentioned you in a comment"
+msgstr "Detto in un commento"
+
+#: includes/class-user.php:1299
+msgid "more"
+msgstr "di"
+
+#: includes/class-user.php:1358
+msgid "You are not authorized to view this"
+msgstr ""
+"Non si dispone delle autorizzazioni necessarie per visualizzare la pagina."
+
+#: includes/class-user.php:1420 includes/class-user.php:1469
+msgid "You are not authorized to do this"
+msgstr "Non siete autorizzati a farlo"
+
+#: includes/class-user.php:2691 includes/class-user.php:2706
+#: includes/class-user.php:2721
+msgid "You have already reported this user before!"
+msgstr "Hai già segnalato questo utente prima!"
+
+#: includes/class-user.php:3003 includes/class-user.php:3007
+#: includes/class-user.php:3046 includes/class-user.php:3050
+msgid "You must select valid category for your page"
+msgstr "È necessario selezionare la categoria valida per la tua pagina"
+
+#: includes/class-user.php:3011 includes/class-user.php:3054
+msgid "You must enter a title for your page"
+msgstr "È necessario immettere un titolo per la tua pagina"
+
+#: includes/class-user.php:3014 includes/class-user.php:3057
+#: includes/class-user.php:3123 includes/class-user.php:3157
+msgid "Page title must be at least 3 characters long. Please try another"
+msgstr ""
+"Titolo della pagina deve essere lunga almeno 3 caratteri. Provate con un "
+"altro"
+
+#: includes/class-user.php:3018 includes/class-user.php:3062
+msgid "You must enter a username for your page"
+msgstr "È necessario immettere un nome utente per la tua pagina"
+
+#: includes/class-user.php:3021 includes/class-user.php:3065
+#: includes/class-user.php:3130 includes/class-user.php:3165
+#: includes/class-user.php:3326 includes/class-user.php:3536
+#: includes/class-user.php:3796 includes/ajax/admin/user.php:60
+msgid "Please enter a valid username (a-z0-9_.)"
+msgstr "Si prega di inserire un nome utente valido (a-z0-9 _.)"
+
+#: includes/class-user.php:3024 includes/class-user.php:3068
+#: includes/class-user.php:3133 includes/class-user.php:3168
+msgid "Sorry, it looks like this username"
+msgstr "Siamo spiacenti, sembra che questo nome utente"
+
+#: includes/class-user.php:3024 includes/class-user.php:3068
+msgid "belongs to an existing page"
+msgstr "appartiene a una pagina esistente"
+
+#: includes/class-user.php:3120 includes/class-user.php:3154
+msgid "You must enter a title for your group"
+msgstr "È necessario immettere un titolo per il tuo gruppo"
+
+#: includes/class-user.php:3127 includes/class-user.php:3162
+msgid "You must enter a username for your group"
+msgstr "È necessario immettere un nome utente per il tuo gruppo"
+
+#: includes/class-user.php:3133 includes/class-user.php:3168
+msgid "belongs to an existing group"
+msgstr "appartiene a un gruppo esistente"
+
+#: includes/class-user.php:3329 includes/class-user.php:3343
+#: includes/class-user.php:3539 includes/class-user.php:3545
+#: includes/class-user.php:3799 includes/class-user.php:3805
+#: includes/class-user.php:3856 includes/class-user.php:4028
+#: includes/ajax/admin/static.php:47 includes/ajax/admin/user.php:63
+#: includes/ajax/admin/user.php:80
+msgid "Sorry, it looks like"
+msgstr "Siamo spiacenti, sembra che"
+
+#: includes/class-user.php:3329 includes/class-user.php:3343
+#: includes/class-user.php:3539 includes/class-user.php:3545
+#: includes/class-user.php:3799 includes/class-user.php:3805
+#: includes/class-user.php:4028 includes/ajax/admin/user.php:63
+#: includes/ajax/admin/user.php:80
+msgid "belongs to an existing account"
+msgstr "appartiene a un account esistente"
+
+#: includes/class-user.php:3340 includes/class-user.php:3542
+#: includes/class-user.php:3802 includes/class-user.php:3853
+#: includes/ajax/admin/user.php:77
+msgid "Please enter a valid email address"
+msgstr "Inserisca un indirizzo e-mail corretto"
+
+#: includes/class-user.php:3351 includes/class-user.php:3578
+#: includes/class-user.php:3979 includes/class-user.php:4036
+msgid "Just one more step to get started on"
+msgstr "Solo un altro passo per iniziare a"
+
+#: includes/class-user.php:3352 includes/class-user.php:3579
+#: includes/class-user.php:3874 includes/class-user.php:3980
+#: includes/class-user.php:4037
+msgid "Hi"
+msgstr "Salve"
+
+#: includes/class-user.php:3353 includes/class-user.php:3580
+#: includes/class-user.php:3981 includes/class-user.php:4038
+msgid "To complete the sign-up process, please follow this link:"
+msgstr ""
+"Per completare il processo di iscrizione, si prega di seguire questo link:"
+
+#: includes/class-user.php:3356 includes/class-user.php:3583
+#: includes/class-user.php:3877 includes/class-user.php:3984
+#: includes/class-user.php:4041
+msgid "Team"
+msgstr "Team"
+
+#: includes/class-user.php:3376 includes/class-user.php:3382
+#: includes/class-user.php:3603 includes/class-user.php:3609
+#: includes/class-user.php:4061 includes/class-user.php:4067
+msgid "Activation email could not be sent. But you can login now"
+msgstr ""
+"E-mail di attivazione potrebbe non essere inviato. Ma ora puoi effettuare "
+"il login"
+
+#: includes/class-user.php:3391 includes/class-user.php:3533
+#: includes/class-user.php:3630 includes/class-user.php:3793
+msgid "You must fill in all of the fields"
+msgstr "È necessario compilare tutti i campi"
+
+#: includes/class-user.php:3395
+msgid "Your current password is incorrect"
+msgstr "La tua password attuale non è corretta."
+
+#: includes/class-user.php:3399
+msgid "Your passwords do not match"
+msgstr "Le password  non corrispondono."
+
+#: includes/class-user.php:3402 includes/class-user.php:3548
+#: includes/class-user.php:3808 includes/class-user.php:3950
+#: includes/ajax/admin/user.php:93
+msgid "Your password must be at least 6 characters long. Please try another"
+msgstr ""
+"La password deve essere lunga almeno 6 caratteri. Provate con un altro"
+
+#: includes/class-user.php:3411
+msgid "You must enter your name"
+msgstr "Devi immettere il tuo cognome"
+
+#: includes/class-user.php:3414 includes/class-user.php:3551
+#: includes/class-user.php:3811
+msgid "Your name contains invalid characters"
+msgstr "Il nome '|' contiene caratteri non validi."
+
+#: includes/class-user.php:3417 includes/class-user.php:3554
+#: includes/class-user.php:3814
+msgid "Your name must be at least 3 characters long. Please try another"
+msgstr ""
+"Il tuo nome deve essere lungo almeno 3 caratteri. Provate con un altro"
+
+#: includes/class-user.php:3421 includes/class-user.php:3557
+#: includes/class-user.php:3817
+msgid "Please select either Male or Female"
+msgstr "Si prega di selezionare o maschio o femmina"
+
+#: includes/class-user.php:3426
+msgid "Please select a valid birth month"
+msgstr "Si prega di selezionare un mese di nascita valida"
+
+#: includes/class-user.php:3429
+msgid "Please select a valid birth day"
+msgstr "Si prega di selezionare un giorno di nascita valida"
+
+#: includes/class-user.php:3432
+msgid "Please select a valid birth year"
+msgstr "Si prega di selezionare un anno di nascita valida"
+
+#: includes/class-user.php:3566 includes/class-user.php:3864
+msgid "The secuirty check is incorrect. Please try again"
+msgstr "Il controllo di protezione non è corretto. Si prega di riprovare"
+
+#: includes/class-user.php:3635
+msgid "The email you entered does not belong to any account"
+msgstr "L'email che hai inserito non appartiene a qualsiasi account"
+
+#: includes/class-user.php:3640
+msgid "Please enter a valid email address or username"
+msgstr "Inserisca un indirizzo e-mail corretto"
+
+#: includes/class-user.php:3643
+msgid "The username you entered does not belong to any account"
+msgstr "Il nome che utente inserito non appartiene a qualsiasi account"
+
+#: includes/class-user.php:3650
+msgid "Please re-enter your password"
+msgstr "Per favore, re-inserisci la tua password"
+
+#: includes/class-user.php:3650
+msgid "The password you entered is incorrect"
+msgstr "Password errata."
+
+#: includes/class-user.php:3650
+msgid "If you forgot your password?"
+msgstr "Se hai dimenticato la tua password"
+
+#: includes/class-user.php:3650
+msgid "Request a new one"
+msgstr "Richiedere una nuova"
+
+#: includes/class-user.php:3856
+msgid "doesn't belong to any account"
+msgstr "non appartiene a qualsiasi account"
+
+#: includes/class-user.php:3873
+msgid "Forget password activation key!"
+msgstr "Dimenticate la chiave di attivazione di password!"
+
+#: includes/class-user.php:3875
+msgid "To complete the reset password process, please copy this token:"
+msgstr ""
+"Per completare il processo di reimpostazione password, si prega di copiare "
+"questo token:"
+
+#: includes/class-user.php:3876
+msgid "Token:"
+msgstr "Token di protezione:"
+
+#: includes/class-user.php:3897 includes/class-user.php:3903
+msgid "Activation key email could not be sent!"
+msgstr "E-mail di chiave di attivazione potrebbe non essere inviato!"
+
+#: includes/class-user.php:3919 includes/class-user.php:3941
+#: includes/class-user.php:4025
+msgid "Invalid email, please try again"
+msgstr "Invalid e-mail, per favore prova ancora"
+
+#: includes/class-user.php:3924 includes/class-user.php:3946
+msgid "Invalid code, please try again."
+msgstr "Codice non valido"
+
+#: includes/class-user.php:3954
+msgid "Your passwords do not match. Please try another"
+msgstr "Le password non corrispondono. Provate con un altro"
+
+#: includes/class-user.php:4004 includes/class-user.php:4010
+msgid "Activation email could not be sent."
+msgstr "Non è stato possibile inviare l'e-mail"
+
+#: includes/functions.php:40
+msgid "Database Error"
+msgstr "Errore Database"
+
+#: includes/functions.php:41 includes/functions.php:45
+msgid "An error occurred while writing to database. Please try again later"
+msgstr ""
+"Si è verificato un errore durante la scrittura del database. Si prega di "
+"riprovare più tardi"
+
+#: includes/functions.php:50
+msgid "404 Not Found"
+msgstr "404 Pagina non trovata"
+
+#: includes/functions.php:51
+msgid "The requested URL was not found on this server. That's all we know"
+msgstr ""
+"L'URL richiesto non è stato trovato su questo server. Tutti che sappiamo "
+"che è"
+
+#: includes/functions.php:64
+msgid "There is some thing went wrong"
+msgstr "C'è qualche cosa è andato storto"
+
+#: includes/functions.php:331
+msgid "You must sign in to see this page"
+msgstr "Devi accedere per vedere questa pagina"
+
+#: includes/functions.php:332
+msgid "Sign in"
+msgstr "Registrati"
+
+#: includes/ajax/admin/ads.php:35
+msgid "Done, Ads info have been updated"
+msgstr "Fatto, sono state aggiornate informazioni annunci"
+
+#: includes/ajax/admin/category.php:33
+msgid "Done, Category info have been updated"
+msgstr "Fatto, sono stati aggiornati categoria info"
+
+#: includes/ajax/admin/games.php:33
+msgid "Done, Game info have been updated"
+msgstr "Fatto, sono state aggiornate informazioni sul gioco"
+
+#: includes/ajax/admin/group.php:27
+msgid "Done, Group info have been updated"
+msgstr "Fatto, sono state aggiornate info gruppo"
+
+#: includes/ajax/admin/language.php:40
+msgid "Done, Language info have been updated"
+msgstr "Fatto, informazioni di lingua sono state aggiornate"
+
+#: includes/ajax/admin/page.php:29
+msgid "Done, Page info have been updated"
+msgstr "Fatto, sono state aggiornate informazioni sulla pagina"
+
+#: includes/ajax/admin/static.php:35
+msgid "Done, Static page info have been updated"
+msgstr "Fatto, sono state aggiornate informazioni pagina statica"
+
+#: includes/ajax/admin/static.php:43
+msgid "Please enter a valid URL to your page"
+msgstr "Si prega di inserire un URL valido alla tua pagina"
+
+#: includes/ajax/admin/static.php:47
+msgid "belongs to an existing static page"
+msgstr "appartiene a una pagina statica esistente"
+
+#: includes/ajax/admin/theme.php:35
+msgid "Done, Theme info have been updated"
+msgstr "Fatto, tema info sono state aggiornate"
+
+#: includes/ajax/admin/user.php:38
+msgid "You can not change the group of this user"
+msgstr "Non è possibile modificare il gruppo di questo utente"
+
+#: includes/ajax/admin/user.php:43 includes/ajax/admin/user.php:53
+#: includes/ajax/admin/user.php:68 includes/ajax/admin/user.php:85
+#: includes/ajax/admin/user.php:98 includes/ajax/admin/user.php:111
+msgid "Done, User info have been updated"
+msgstr "Fatto, sono state aggiornate informazioni utente"
+
+#: includes/ajax/admin/widgets.php:35
+msgid "Done, Widget info have been updated"
+msgstr "Fatto, info Widget sono stati aggiornati"
+
+#: includes/ajax/chat/get.conversation.php:22
+#: includes/ajax/chat/get.messages.php:22 includes/ajax/chat/post.php:22
+#: includes/ajax/chat/reaction.php:22 includes/ajax/data/create.php:22
+#: includes/ajax/data/delete.php:22 includes/ajax/data/load.php:22
+#: includes/ajax/data/report.php:22 includes/ajax/data/search.php:22
+#: includes/ajax/data/upload.php:25 includes/ajax/data/video.php:25
+#: includes/ajax/posts/comment.php:22 includes/ajax/posts/post.php:22
+#: includes/ajax/posts/reaction.php:22 includes/ajax/posts/scraber.php:22
+#: includes/ajax/posts/who_likes.php:22 includes/ajax/posts/who_shares.php:22
+#: includes/ajax/users/connect.php:22 includes/ajax/users/image.php:22
+#: includes/ajax/users/mutual_friends.php:22
+#: includes/ajax/users/popover.php:22 includes/ajax/users/settings.php:22
+msgid ""
+"Before you can interact with other users, you need to confirm your email "
+"address"
+msgstr ""
+"Prima è possibile interagire con altri utenti, è necessario confermare il "
+"tuo indirizzo email"
+
+#: includes/ajax/core/activation_email_resend.php:22
+#: includes/ajax/core/activation_email_reset.php:22
+msgid "Your account already activated!"
+msgstr "Il tuo account è già stato attivato."
+
+#: includes/ajax/core/activation_email_resend.php:28
+msgid "Another activation email has been sent"
+msgstr "È stato inviato un'altra e-mail di attivazione"
+
+#: includes/ajax/core/activation_email_resend.php:28
+#: includes/ajax/core/activation_email_reset.php:28
+msgid "Please click on the link in that email to confirm your email address"
+msgstr ""
+"Per favore clicca sul link nell'email per confermare il tuo indirizzo email"
+
+#: includes/ajax/core/activation_email_reset.php:28
+msgid "Your email has been changed"
+msgstr "Il tuo indirizzo email è stato cambiato"
+
+#: includes/ajax/core/forget_password_reset.php:23
+msgid "Done"
+msgstr "Eseguito"
+
+#: includes/ajax/core/forget_password_reset.php:23
+msgid "Your password has been changed you can login now"
+msgstr "La password è stata modificata si può effettuare il login ora"
+
+#: includes/ajax/core/signup.php:22 includes/ajax/core/signup_social.php:22
+msgid "Registration is closed right now"
+msgstr "La registrazione è chiusa in questo momento"
+
+#: includes/ajax/data/report.php:45 includes/ajax/data/report.php:50
+#: includes/ajax/data/report.php:55
+msgid "Thanks"
+msgstr "Grazie"
+
+#: includes/ajax/data/report.php:45 includes/ajax/data/report.php:50
+#: includes/ajax/data/report.php:55
+msgid "Your report has been submitted"
+msgstr "﻿Il tuo rapporto è stato inviato"
+
+#: includes/ajax/data/upload.php:66 includes/ajax/data/upload.php:74
+#: includes/ajax/data/upload.php:90 includes/ajax/data/upload.php:111
+#: includes/ajax/data/upload.php:116 includes/ajax/data/upload.php:128
+#: includes/ajax/data/video.php:35 includes/ajax/data/video.php:43
+#: includes/ajax/data/video.php:48 includes/ajax/data/video.php:60
+msgid "Upload Error"
+msgstr "Errore di caricamento"
+
+#: includes/ajax/data/upload.php:66 includes/ajax/data/upload.php:111
+#: includes/ajax/data/video.php:35
+msgid "Something wrong with upload! Is 'upload_max_filesize' set correctly?"
+msgstr ""
+"Qualcosa di sbagliato con upload! 'Upload_max_filesize' è impostato "
+"correttamente?"
+
+#: includes/ajax/data/upload.php:74 includes/ajax/data/upload.php:116
+#: includes/ajax/data/video.php:43
+msgid "The file size is so big"
+msgstr "Il dimensione del file è così grande"
+
+#: includes/ajax/data/upload.php:90 includes/ajax/data/upload.php:128
+#: includes/ajax/data/video.php:60
+msgid "Sorry, can not upload the file"
+msgstr "Siamo spiacenti, non puoi caricare il file"
+
+#: includes/ajax/data/video.php:48
+msgid "The file type is not valid video, we support .mp4 only"
+msgstr "Il tipo di file non è valido video, sosteniamo solo. MP4"
+
+#: includes/ajax/users/settings.php:44
+msgid "Done, Your username has been updated"
+msgstr "Fatto, il tuo nome utente è stato aggiornato"
+
+#: includes/ajax/users/settings.php:56
+msgid "Done, Your email has been updated"
+msgstr "Fatto, il tuo indirizzo email è stato aggiornato"
+
+#: includes/ajax/users/settings.php:70
+msgid "Done, Your password has been updated"
+msgstr "La password personale è stata aggiornata."
+
+#: includes/ajax/users/settings.php:86 includes/ajax/users/settings.php:99
+#: includes/ajax/users/settings.php:112 includes/ajax/users/settings.php:126
+msgid "Done, Your profile info has been updated"
+msgstr "Fatto, le informazioni di profilo sono stata aggiornata"
+
+#: includes/ajax/users/settings.php:145
+msgid "Done, Your privacy settings have been updated"
+msgstr "Fatto, le impostazioni di privacy sono state aggiornate"
+
+#: includes/js/jquery/jquery-ui.min.js:10
+msgid "'"
+msgstr "'"
+
+#: includes/js/plugins/dataTables/jquery.dataTables.min.js:53
+msgid "top"
+msgstr "superiore"
+
+#: includes/js/plugins/dataTables/jquery.dataTables.min.js:53
+msgid "bottom"
+msgstr "﻿inferiore"
